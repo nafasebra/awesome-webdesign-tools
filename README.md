@@ -30,7 +30,41 @@ A list of tools for CSS and web design
 - [UI Faces - get example profile images](https://uifaces.co/)
 
 - [CSS buttons example](https://getcssscan.com/css-buttons-examples)
+
 - [Create neomorphism box](https://neumorphism.io/#e0e0e0)
+- [Make soft box shadows](https://shadows.brumm.af/)
+- [Fancy border radius](https://9elements.github.io/fancy-border-radius/)
+- [Make Glow Shadow on CSS](https://cssbud.com/css-generator/css-glow-generator/)
+- [Make tiny neomorphism boxes](https://hype4.academy/tools/glassmorphism-generator)
 
 - [Image editor with AI](https://hotpot.ai/)
 
+- [Get key number of keyboard](https://www.toptal.com/developers/keycode)
+
+- [Pattern generator](https://doodad.dev/pattern-generator/)
+- [CSS Patterns](https://css-pattern.com/)
+- [CSS Patterns - tranglify](https://trianglify.io/)
+- [Animate background](https://animatedbackgrounds.me/)
+- [Make SVG background pattern](https://animatedbackgrounds.me/)
+
+- [Awesome tool for web developers, generate any section of your website ✨](https://webcode.tools/)
+
+- [Remove unused CSS](https://unused-css.com/)
+
+- [Use cities and provides in Iran](https://iran-locations-api.vercel.app/)
+
+- [Visualize your JSON code](https://jsoncrack.com/editor)
+
+- [CSS loader generator](https://www.cssportal.com/css-loader-generator/)
+
+- [Custom scrollbar maker](https://codepen.io/stephenpaton-tech/full/JjRvGmY)
+- [Generate CSS filter](https://www.cssfilters.co/)
+- [Make high quality media query](https://quantityqueries.com/)
+
+- [Encode Image file to base64 code](https://www.base64-image.de/)
+
+- [List of UI components for your projects](https://uiverse.io/)
+
+- [Tailwind UI Kit](https://www.tailwind-kit.com/)
+
+- [Get cute cat images based HTTP status code](https://http.cat/)
