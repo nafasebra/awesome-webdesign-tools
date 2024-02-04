@@ -99,3 +99,9 @@ A list of tools for CSS and web design
 - [cssloaders](https://cssloaders.github.io/)
 - [Pure CSS loader](https://loading.io/css/)
 
+- [Grid layouts](https://cssgridgarden.com/)
+- [Flex layouts](https://flexboxfroggy.com/)
+- [Box sizing generator](https://codepen.io/carolineartz/full/ogVXZj)
+- [Flex box generator](https://bennettfeely.com/flexplorer/)
+- [Grid CSS generator](https://cssgrid-generator.netlify.app/)
+- [Layout generator](https://layout.bradwoods.io/)
