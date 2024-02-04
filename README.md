@@ -92,3 +92,10 @@ A list of tools for CSS and web design
 - [Convert SVG to font icons](https://glyphter.com/)
 - [Generate Heading and body font](https://typescale.com/)
 - [Font library](https://fontlibrary.dev/)
+
+- [Spinner kit - CSS loading](https://tobiasahlin.com/spin)
+- [whirl - CSS loading](https://whirl.netlify.app/)
+- [Single element CSS spenners](https://whirl.netlify.app/)
+- [cssloaders](https://cssloaders.github.io/)
+- [Pure CSS loader](https://loading.io/css/)
+
