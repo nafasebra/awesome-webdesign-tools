@@ -88,3 +88,7 @@ A list of tools for CSS and web design
 - [Flat UI Colors - a list of flat color](https://flatuicolors.com/)
 - [A tool for colors](https://colordesigner.io/tools)
 - [Get color palette inspiration from nature - updated daily](https://colorpalettes.earth/)
+
+- [Convert SVG to font icons](https://glyphter.com/)
+- [Generate Heading and body font](https://typescale.com/)
+- [Font library](https://fontlibrary.dev/)
