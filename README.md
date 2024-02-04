@@ -88,6 +88,7 @@ A list of tools for CSS and web design
 - [Flat UI Colors - a list of flat color](https://flatuicolors.com/)
 - [A tool for colors](https://colordesigner.io/tools)
 - [Get color palette inspiration from nature - updated daily](https://colorpalettes.earth/)
+- [Awesome HEX colors for CSS](http://bada55.io/)
 
 - [Convert SVG to font icons](https://glyphter.com/)
 - [Generate Heading and body font](https://typescale.com/)
@@ -105,3 +106,13 @@ A list of tools for CSS and web design
 - [Flex box generator](https://bennettfeely.com/flexplorer/)
 - [Grid CSS generator](https://cssgrid-generator.netlify.app/)
 - [Layout generator](https://layout.bradwoods.io/)
+
+- [CSS Ruler](https://katydecorah.com/css-ruler/)
+- [Can i use](https://caniuse.com/)
+- [Can i email](https://www.caniemail.com/)
+- [CSS tools online](https://codebeautify.org/css-tools)
+- [Component gallery - a list of components](https://component.gallery/components/accordion/)
+- [Design system gallery - a list of design systems](https://designsystemsrepo.com/design-systems-recent/)
+- [Checklist design](https://www.checklist.design/)
+- [CSS reference](https://cssreference.io/)
+
