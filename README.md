@@ -46,6 +46,10 @@ A list of tools for CSS and web design
 - [CSS Patterns - tranglify](https://trianglify.io/)
 - [Animate background](https://animatedbackgrounds.me/)
 - [Make SVG background pattern](https://animatedbackgrounds.me/)
+- [Hero patterns](https://heropatterns.com/)
+- [Haikei - generate background patterns](https://heropatterns.com/)
+- [Magic patterns - CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
+- [Haikei - generate background patterns](https://heropatterns.com/)
 
 - [Awesome tool for web developers, generate any section of your website ✨](https://webcode.tools/)
 
@@ -68,3 +72,10 @@ A list of tools for CSS and web design
 - [Tailwind UI Kit](https://www.tailwind-kit.com/)
 
 - [Get cute cat images based HTTP status code](https://http.cat/)
+
+- [Generate cubic bezier](https://cubic-bezier.com)
+- [Generate key frames](https://keyframes.app/animate)
+- [Generate animate](https://waitanimate.wstone.uk/)
+- [Generate transitions](https://www.transition.style/#in:circle:hesitate)
+- [Generate transitions](https://www.transition.style/#in:circle:hesitate)
+
