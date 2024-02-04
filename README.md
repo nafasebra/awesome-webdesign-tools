@@ -10,7 +10,6 @@ A list of tools for CSS and web design
 
 - [Convert font file to any type](https://www.fontconverter.io/en)
 
-- [CSS gradient](https://cssgradient.io/)
 - [Get image of specialy map](https://openlayers.org/en/latest/examples/accessible.html)
 
 - [Make gitignore files](https://www.toptal.com/developers/gitignore)
@@ -79,3 +78,13 @@ A list of tools for CSS and web design
 - [Generate transitions](https://www.transition.style/#in:circle:hesitate)
 - [Generate transitions](https://www.transition.style/#in:circle:hesitate)
 
+- [CSS gradient](https://cssgradient.io/)
+- [Parametric color - generate gradient](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset)
+- [grabient - a list of some gradient colors](https://www.grabient.com/)
+- [Generate palette colors](https://palettte.app/)
+- [paletton - generate palette](https://paletton.com/)
+- [color hunt - a list of palette colors](https://colorhunt.co/)
+- [Generator and learn about CSS Gradients](https://larsenwork.com/easing-gradients)
+- [Flat UI Colors - a list of flat color](https://flatuicolors.com/)
+- [A tool for colors](https://colordesigner.io/tools)
+- [Get color palette inspiration from nature - updated daily](https://colorpalettes.earth/)
