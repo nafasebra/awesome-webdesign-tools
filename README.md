@@ -116,3 +116,7 @@ A list of tools for CSS and web design
 - [Checklist design](https://www.checklist.design/)
 - [CSS reference](https://cssreference.io/)
 
+- [SVG Icons and backgroud](https://www.svgbackgrounds.com/)
+- [Make face 3d icons](https://peeps.ui8.net/)
+- [A list of colorful images](blush.design/collections)
+- [Sapiens Character Builder by UI8.net](https://sapiens.ui8.net/9f4c6r2)
