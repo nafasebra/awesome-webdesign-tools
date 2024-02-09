@@ -1,18 +1,18 @@
-# awesome-css-tools
-A list of tools for CSS and web design
+# awesome-webdesign-tools
+### A list of awesome tools for Web and UI/UX design.
 
 
-- [Tiny PNG](https://tinypng.com/)
-- [CSS Cliper](https://bennettfeely.com/clippy/)
+- [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
+- [CSS Cliper](https://bennettfeely.com/clippy/) - Make shape with `clip` CSS property
   
-- [blobmaker (for create curve shapes)](https://www.blobmaker.app/)
-- [Create SVG waves](https://getwaves.io/)
+- [blobmaker](https://www.blobmaker.app/) - for create curve shapes
+- [Get waves](https://getwaves.io/) - Create SVG waves
 
-- [Convert font file to any type](https://www.fontconverter.io/en)
+- [Front Converter](https://www.fontconverter.io/en) - Convert font file to any type
 
-- [Get image of specialy map](https://openlayers.org/en/latest/examples/accessible.html)
+- [Get image of specialy map](https://openlayers.org/en/latest/examples/accessible.html) - for get placeholder map image
 
-- [Make gitignore files](https://www.toptal.com/developers/gitignore)
+- [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
 
 - [CSS loading animations](https://www.html-code-generator.com/css/loading-animation-generator)
 
@@ -26,11 +26,11 @@ A list of tools for CSS and web design
 - [Iconer - list of many icons](https://iconer.app/) 
 - [Radix icons](https://www.radix-ui.com/icons) 
 
-- [SVG to JSX](https://svg2jsx.com/)
+- [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
 
-- [UI Faces - get example profile images](https://uifaces.co/)
+- [UI Faces](https://uifaces.co/) - get example profile images
 
-- [CSS buttons example](https://getcssscan.com/css-buttons-examples)
+- [CSS buttons example](https://getcssscan.com/css-buttons-examples) - A list of awesome buttons for using them.
 
 - [Create neomorphism box](https://neumorphism.io/#e0e0e0)
 - [Make soft box shadows](https://shadows.brumm.af/)
