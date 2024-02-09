@@ -23,6 +23,8 @@ A list of tools for CSS and web design
 - [CSS icons](https://css.gg/app)
 - [Icons JS](https://icones.js.org/)
 - [3DIcons](https://3dicons.co/)
+- [Iconer - list of many icons](https://iconer.app/) 
+- [Radix icons](https://www.radix-ui.com/icons) 
 
 - [SVG to JSX](https://svg2jsx.com/)
 
@@ -120,3 +122,11 @@ A list of tools for CSS and web design
 - [Make face 3d icons](https://peeps.ui8.net/)
 - [A list of colorful images](blush.design/collections)
 - [Sapiens Character Builder by UI8.net](https://sapiens.ui8.net/9f4c6r2)
+
+- [Toools design - Discover highly useful Design Resources & Tools](https://www.toools.design/)
+- [openpeeps - Download black-and-white illustration images](https://www.toools.design/)
+- [Shapefest - A massive library of free 3D illustrations for web design](https://www.toools.design/)
+- [The best web design inspiration site](https://godly.website/)
+- [Biggest web design inspiration website](https://dribbble.com/)
+- [Dribbble - Biggest web design inspiration website](https://www.behance.net/)
+- [Figma community - The world of designs with figma](https://www.figma.com/community)
