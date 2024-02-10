@@ -130,3 +130,12 @@
 - [Biggest web design inspiration website](https://dribbble.com/)
 - [Dribbble - Biggest web design inspiration website](https://www.behance.net/)
 - [Figma community - The world of designs with figma](https://www.figma.com/community)
+
+- [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
+- [prioritize your tasks](https://prioritize.songthamtung.com/)
+
+- [Down for everyone or just me](https://downforeveryoneorjustme.com/) - Check if a website or app is down for everyone or just you.
+- [Hidden tools](https://hiddentools-eight.vercel.app/) - Discover a wide collection of unique tools.
+
+- [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
+- [Programming language convertor](https://ide.onelang.io/) - Convert any program languages
