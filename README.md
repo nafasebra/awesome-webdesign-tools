@@ -92,6 +92,7 @@
 - [A tool for colors](https://colordesigner.io/tools)
 - [Get color palette inspiration from nature - updated daily](https://colorpalettes.earth/)
 - [Awesome HEX colors for CSS](http://bada55.io/)
+- [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
 
 - [Convert SVG to font icons](https://glyphter.com/)
 - [Generate Heading and body font](https://typescale.com/)
@@ -165,6 +166,9 @@
 - [Devdocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers.
 
 - [Fun javascript projects](https://fun-javascript-projects.com/) - A FREE series of fun JavaScript, HTML & CSS projects.
+- [1LOC](https://phuoc.ng/collection/1-loc/) - Top JavaScript utilities, in just One Line of Code!
 
 - [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
 
+- [Am i responsive](https://ui.dev/amiresponsive) - Show off how responsive design looks across different browsers easily with this 4 in 1 viewport tool
+- [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
