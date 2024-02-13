@@ -25,6 +25,7 @@
 - [3DIcons](https://3dicons.co/)
 - [Iconer - list of many icons](https://iconer.app/) 
 - [Radix icons](https://www.radix-ui.com/icons) 
+- [Icon sccut](https://iconscout.com/) 
 
 - [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
 
@@ -78,9 +79,9 @@
 - [Generate key frames](https://keyframes.app/animate)
 - [Generate animate](https://waitanimate.wstone.uk/)
 - [Generate transitions](https://www.transition.style/#in:circle:hesitate)
-- [Generate transitions](https://www.transition.style/#in:circle:hesitate)
 
 - [CSS gradient](https://cssgradient.io/)
+- [Gradient magic](https://www.gradientmagic.com/)
 - [Parametric color - generate gradient](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset)
 - [grabient - a list of some gradient colors](https://www.grabient.com/)
 - [Generate palette colors](https://palettte.app/)
@@ -139,3 +140,15 @@
 
 - [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
 - [Programming language convertor](https://ide.onelang.io/) - Convert any program languages
+
+- [Coderops](https://tympanus.net/codrops/) 
+- [Codepen](https://codepen.io/) 
+- [Free frontend](https://freefrontend.com/) - Free hand-picked code examples, tutorials and articles.
+
+- [CSS battle](https://cssbattle.dev/)
+- [Code wars](https://www.codewars.com/)
+
+- [Wordpress video tutorals](https://wpsessions.com/)
+
+- [CSS Author](https://cssauthor.com/) - CSS Author is a design and development blog.
+
