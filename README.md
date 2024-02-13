@@ -118,6 +118,7 @@
 - [Design system gallery - a list of design systems](https://designsystemsrepo.com/design-systems-recent/)
 - [Checklist design](https://www.checklist.design/)
 - [CSS reference](https://cssreference.io/)
+- [HTML reference](https://htmlreference.io/)
 
 - [SVG Icons and backgroud](https://www.svgbackgrounds.com/)
 - [Make face 3d icons](https://peeps.ui8.net/)
@@ -151,4 +152,19 @@
 - [Wordpress video tutorals](https://wpsessions.com/)
 
 - [CSS Author](https://cssauthor.com/) - CSS Author is a design and development blog.
+
+- [Code my UI](https://codemyui.com/) - Handpicked collection of Web Design & UI Inspiration with Code Snippets. 
+
+- [Site my point](https://www.sitepoint.com/) - Learn Web Design & Development with SitePoint tutorials, courses and books - HTML, CSS, JavaScript, PHP, Responsive Web Design.
+- [Freecodecamp](https://www.freecodecamp.org/) - freeCodeCamp is a community of people from all around the world who are learning to code together. We're a 501(c)(3) public charity.
+- [Daily dev](https://daily.dev/) - Where developers suffer together
+- [egghead](https://egghead.io/) - Learn Modern Web Development in a Fraction of the Time
+- [Dev community](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
+
+- [Free CSS](https://www.free-css.com/) - Free CSS has 3552 free website templates
+- [Devdocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers.
+
+- [Fun javascript projects](https://fun-javascript-projects.com/) - A FREE series of fun JavaScript, HTML & CSS projects.
+
+- [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
 
