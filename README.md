@@ -34,35 +34,30 @@
 
 - [CSS buttons example](https://getcssscan.com/css-buttons-examples) - A list of awesome buttons for using them.
 
-- [Create neomorphism box](https://neumorphism.io/#e0e0e0)
-- [Make soft box shadows](https://shadows.brumm.af/)
-- [Fancy border radius](https://9elements.github.io/fancy-border-radius/)
-- [Make Glow Shadow on CSS](https://cssbud.com/css-generator/css-glow-generator/)
-- [Make tiny neomorphism boxes](https://hype4.academy/tools/glassmorphism-generator)
+- [Create neomorphism box](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
+- [Make soft box shadows](https://shadows.brumm.af/) - Make a smooth css shadow
+- [Fancy border radius](https://9elements.github.io/fancy-border-radius/) - Generator to build organic shapes with CSS3 border-radius
+- [Make Glow Shadow on CSS](https://cssbud.com/css-generator/css-glow-generator/) - https://cssbud.com/css-generator/css-glow-generator/
+- [Make tiny neomorphism boxes](https://hype4.academy/tools/glassmorphism-generator) - Glassmorphism is a unified name for the popular Frosted Glass aesthetic.
 
-- [Image editor with AI](https://hotpot.ai/)
+- [Image editor with AI](https://hotpot.ai/) - Hotpot helps you create amazing images, graphics, and writing with AI. Visualize ideas with AI Image Generator, reimagine yourself with AI Headshots, or spark creativity with other products from our AI platform. Automate away drudgery with AI photo editing tools while easy-to-edit templates empower anyone to create social media posts, marketing images, app icons, and other work graphics.
 
-- [Get key number of keyboard](https://www.toptal.com/developers/keycode)
+- [Keycode info](https://www.toptal.com/developers/keycode) - KeyCode.Info allows users to press any key and instantly get the JavaScript Key or Key Code KeyboardEvent. Check out the Tool and Event List.
 
-- [Pattern generator](https://doodad.dev/pattern-generator/)
-- [CSS Patterns](https://css-pattern.com/)
-- [CSS Patterns - tranglify](https://trianglify.io/)
-- [Animate background](https://animatedbackgrounds.me/)
-- [Make SVG background pattern](https://animatedbackgrounds.me/)
-- [Hero patterns](https://heropatterns.com/)
-- [Haikei - generate background patterns](https://heropatterns.com/)
-- [Magic patterns - CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
-- [Haikei - generate background patterns](https://heropatterns.com/)
+- [Pattern generator](https://doodad.dev/pattern-generator/) - Generate seamless, unique, royalty-free patterns to use for free in any project. Export as SVG, JPEG, or PNG.
+- [CSS Patterns](https://css-pattern.com/) - A collection of 100+ background patterns powered by CSS gradients. All the best CSS Patterns are here! Made by Temani Afif
+- [CSS Patterns - tranglify](https://trianglify.io/) - Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
+- [Animate background](https://animatedbackgrounds.me/) - A list of animated backgrounds
+- [Haikei](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
+- [Magic patterns](https://www.magicpattern.design/tools/css-backgrounds) - Beautiful pure CSS background patterns that you can actually use in your projects!
 
-- [Awesome tool for web developers, generate any section of your website ✨](https://webcode.tools/)
+- [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
 
-- [Remove unused CSS](https://unused-css.com/)
+- [Unused CSS](https://unused-css.com/) - UnusedCSS is an online tool to remove unused CSS rules. It will check your pages, find unused CSS and let you download a clean CSS file.
 
-- [Use cities and provides in Iran](https://iran-locations-api.vercel.app/)
+- [JSON Check](https://jsoncrack.com/editor) - Visualize your JSON code
 
-- [Visualize your JSON code](https://jsoncrack.com/editor)
-
-- [CSS loader generator](https://www.cssportal.com/css-loader-generator/)
+- [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
 
 - [Custom scrollbar maker](https://codepen.io/stephenpaton-tech/full/JjRvGmY)
 - [Generate CSS filter](https://www.cssfilters.co/)
