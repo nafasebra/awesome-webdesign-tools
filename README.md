@@ -77,18 +77,18 @@
 - [Wait animate](https://waitanimate.wstone.uk/) - Wait animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
 - [argyleink/transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS transitions
 
-- [CSS gradient](https://cssgradient.io/)
-- [Gradient magic](https://www.gradientmagic.com/)
-- [Parametric color - generate gradient](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset)
-- [grabient - a list of some gradient colors](https://www.grabient.com/)
-- [Generate palette colors](https://palettte.app/)
-- [paletton - generate palette](https://paletton.com/)
-- [color hunt - a list of palette colors](https://colorhunt.co/)
-- [Generator and learn about CSS Gradients](https://larsenwork.com/easing-gradients)
-- [Flat UI Colors - a list of flat color](https://flatuicolors.com/)
-- [A tool for colors](https://colordesigner.io/tools)
-- [Get color palette inspiration from nature - updated daily](https://colorpalettes.earth/)
-- [Awesome HEX colors for CSS](http://bada55.io/)
+- [CSS gradient](https://cssgradient.io/) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
+- [Gradient magic](https://www.gradientmagic.com/) - A Free Gallery of Fantastic and Unique CSS Gradients.
+- [Parametric color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - A color palette composer inspired by audio parametric equalizers. Create beautiful color palettes with a scientific precision.
+- [grabient](https://www.grabient.com/) - Beautiful and simple UI for generating web gradients.
+- [Palettte App](https://palettte.app/) - The definitive palette editing and remapping tool
+- [paletton](https://paletton.com/) - In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.
+- [color hunt](https://colorhunt.co/) - Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.
+- [Easing gradient](https://larsenwork.com/easing-gradients) - Supercharge your gradients with non-linear color mix and custom color spaces.
+- [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready for COPY & PASTE
+- [A tool for colors](https://colordesigner.io/tools) - List of all tools: Palette Generator, Gradient Generator, Color Name Finder
+- [Color palette](https://colorpalettes.earth/) - Get color palette inspiration from nature - updated daily
+- [Bada55](http://bada55.io/) - Looking for a BADA55 hex color words for your css code? Come here now!
 - [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
 
 - [Convert SVG to font icons](https://glyphter.com/)
