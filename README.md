@@ -14,18 +14,19 @@
 
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
 
-- [CSS loading animations](https://www.html-code-generator.com/css/loading-animation-generator)
+- [CSS loading animations](https://www.html-code-generator.com/css/loading-animation-generator) - CSS loading circle and create online CSS Loading effect animations.
 
-- [Heroicons](https://heroicons.dev/)
-- [Iconfinder](https://www.iconfinder.com)
-- [Tabler Icons](https://tablericons.com/)
-- [Icon8](https://icons8.com/)
-- [CSS icons](https://css.gg/app)
-- [Icons JS](https://icones.js.org/)
-- [3DIcons](https://3dicons.co/)
-- [Iconer - list of many icons](https://iconer.app/) 
-- [Radix icons](https://www.radix-ui.com/icons) 
-- [Icon sccut](https://iconscout.com/) 
+- [Heroicons](https://heroicons.dev/) - Heroicons is a collection of MIT open source interface icons for web and app development.
+- [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS (like previos website)
+- [Iconfinder](https://www.iconfinder.com) - Iconfinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format.
+- [Tabler Icons](https://tablericons.com/) - 800+ Highly customizable & free SVG icons
+- [Icon8](https://icons8.com/) - Download design elements for free: icons, photos, vector illustrations, and music for your videos. All the assets made by designers → consistent quality ⚡️
+- [CSS icons](https://css.gg/app) - App for css.gg icons with custom selection for all pure CSS icons
+- [Icons JS](https://icones.js.org/) - A list of awesome icons
+- [3DIcons](https://3dicons.co/) - 1440+ beautifully crafted open-source 3D icons. You can use completely free and without attribution for personal or commercial project
+- [Iconer](https://iconer.app/) - list of many icons
+- [Radix icons](https://www.radix-ui.com/icons) - A crisp set of 15×15 icons designed by the WorkOS team.
+- [Icon sccut](https://iconscout.com/) - Access 8.2 Million+ free or premium vector icons, illustrations, 3D illustrations, and Lottie animations for any design.
 
 - [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
 
