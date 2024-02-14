@@ -59,22 +59,23 @@
 
 - [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
 
-- [Custom scrollbar maker](https://codepen.io/stephenpaton-tech/full/JjRvGmY)
-- [Generate CSS filter](https://www.cssfilters.co/)
-- [Make high quality media query](https://quantityqueries.com/)
+- [Custom scrollbar maker](https://codepen.io/stephenpaton-tech/full/JjRvGmY) - A simple tool for making custom scrollbars for your websites....
+- [Generate CSS filter](https://www.cssfilters.co/) - Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
+- [Make high quality media query](https://quantityqueries.com/) - A tool to help build Quantity Queries for your projects
 
-- [Encode Image file to base64 code](https://www.base64-image.de/)
+- [Base64](https://www.base64-image.de/) - Optimize your images and convert them to base64 online. Drag & Drop your files, copy to clipboard with a click and use the result in HTML and CSS.
 
-- [List of UI components for your projects](https://uiverse.io/)
+- [List of UI components for your projects](https://uiverse.io/) - Library of free and customizable UI elements made with CSS or Tailwind. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.
 
-- [Tailwind UI Kit](https://www.tailwind-kit.com/)
+- [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.
 
-- [Get cute cat images based HTTP status code](https://http.cat/)
+- [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
+- [HTTP Cat](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
 
-- [Generate cubic bezier](https://cubic-bezier.com)
-- [Generate key frames](https://keyframes.app/animate)
-- [Generate animate](https://waitanimate.wstone.uk/)
-- [Generate transitions](https://www.transition.style/#in:circle:hesitate)
+- [Cubic bezier](https://cubic-bezier.com) - Generate cubic bezier
+- [Generate key frames](https://keyframes.app/animate) - Browser-based, mobile-friendly, actually private tools that make CSS a little less bad.
+- [Wait animate](https://waitanimate.wstone.uk/) - Wait animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
+- [argyleink/transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS transitions
 
 - [CSS gradient](https://cssgradient.io/)
 - [Gradient magic](https://www.gradientmagic.com/)
