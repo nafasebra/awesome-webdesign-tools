@@ -91,32 +91,31 @@
 - [Bada55](http://bada55.io/) - Looking for a BADA55 hex color words for your css code? Come here now!
 - [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
 
-- [Convert SVG to font icons](https://glyphter.com/)
-- [Generate Heading and body font](https://typescale.com/)
-- [Font library](https://fontlibrary.dev/)
+- [Gliphter](https://glyphter.com/) - Create icon fonts in seconds! Just drag & drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!
+- [Typescale](https://typescale.com/) - Create stunning typography, generate CSS, and find inspiration.
+- [Font library](https://fontlibrary.dev/) - An open source project to tag Google Fonts.
+ 
+- [Spinner kit](https://tobiasahlin.com/spinkit/) - Simple CSS Spinners
+- [whirl - CSS loading](https://whirl.netlify.app/) - CSS loadings
+- [cssloaders](https://cssloaders.github.io/) - CSS Loader is a collection of different types of loaders, spinners and their source code. There are no image dependencies in this. It's is done using pure CSS. Hence it is easily customization too.
+- [Pure CSS loader](https://loading.io/css/) - 12 CSS spinners with CSS animation optimized in size, speed and dev-friendly for your next web project
 
-- [Spinner kit - CSS loading](https://tobiasahlin.com/spin)
-- [whirl - CSS loading](https://whirl.netlify.app/)
-- [Single element CSS spenners](https://whirl.netlify.app/)
-- [cssloaders](https://cssloaders.github.io/)
-- [Pure CSS loader](https://loading.io/css/)
-
-- [Grid layouts](https://cssgridgarden.com/)
-- [Flex layouts](https://flexboxfroggy.com/)
-- [Box sizing generator](https://codepen.io/carolineartz/full/ogVXZj)
-- [Flex box generator](https://bennettfeely.com/flexplorer/)
+- [Grid garden](https://cssgridgarden.com/) - A game for learning CSS grid layout
+- [Flexbox froggy](https://flexboxfroggy.com/) - A game for learning CSS flexbox
+- [Box sizing generator](https://codepen.io/carolineartz/full/ogVXZj) - Visualize the box-model and see how changing the value of box-sizing affects element size.
+- [Flex box generator](https://bennettfeely.com/flexplorer/) - Dive in to and explore the wonders of the CSS3 Flexible Box model.
 - [Grid CSS generator](https://cssgrid-generator.netlify.app/)
-- [Layout generator](https://layout.bradwoods.io/)
+- [Layout generator](https://layout.bradwoods.io/) - A CSS Grid generator & CSS Flexbox generator. A tool for generating UI layout component code.
 
-- [CSS Ruler](https://katydecorah.com/css-ruler/)
-- [Can i use](https://caniuse.com/)
-- [Can i email](https://www.caniemail.com/)
-- [CSS tools online](https://codebeautify.org/css-tools)
-- [Component gallery - a list of components](https://component.gallery/components/accordion/)
-- [Design system gallery - a list of design systems](https://designsystemsrepo.com/design-systems-recent/)
+- [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore CSS lengths.
+- [Can i use](https://caniuse.com/) - &quot;Can I use&quot; provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- [Can i email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails
+- [CSS tools online](https://codebeautify.org/css-tools) - Collection of CSS Tools which helps developer to solve css problems.
+- [Component gallery](https://component.gallery/components/accordion/) - A list of components
+- [Design system gallery](https://designsystemsrepo.com/design-systems-recent/) - A list of design systems
 - [Checklist design](https://www.checklist.design/)
-- [CSS reference](https://cssreference.io/)
-- [HTML reference](https://htmlreference.io/)
+- [CSS reference](https://cssreference.io/) - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
+- [HTML reference](https://htmlreference.io/) - A free guide to all HTML elements and attributes.
 
 - [SVG Icons and backgroud](https://www.svgbackgrounds.com/)
 - [Make face 3d icons](https://peeps.ui8.net/)
