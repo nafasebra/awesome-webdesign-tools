@@ -117,21 +117,20 @@
 - [CSS reference](https://cssreference.io/) - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 - [HTML reference](https://htmlreference.io/) - A free guide to all HTML elements and attributes.
 
-- [SVG Icons and backgroud](https://www.svgbackgrounds.com/)
-- [Make face 3d icons](https://peeps.ui8.net/)
-- [A list of colorful images](blush.design/collections)
-- [Sapiens Character Builder by UI8.net](https://sapiens.ui8.net/9f4c6r2)
+- [SVG Icons and backgroud](https://www.svgbackgrounds.com/) - SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.
+- [Make face 3d icons](https://peeps.ui8.net/) - Peeps Avatar Builder by UI8.net
+- [A list of colorful images](https://blush.design/collections) - Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
+- [Sapiens UI8.net](https://sapiens.ui8.net/9f4c6r2) - Sapiens Character Builder by UI8.net
 
-- [Toools design - Discover highly useful Design Resources & Tools](https://www.toools.design/)
-- [openpeeps - Download black-and-white illustration images](https://www.toools.design/)
-- [Shapefest - A massive library of free 3D illustrations for web design](https://www.toools.design/)
-- [The best web design inspiration site](https://godly.website/)
-- [Biggest web design inspiration website](https://dribbble.com/)
-- [Dribbble - Biggest web design inspiration website](https://www.behance.net/)
-- [Figma community - The world of designs with figma](https://www.figma.com/community)
+- [Toools design](https://www.toools.design/) - Discover highly useful Design Resources & Tools
+- [Godly.website](https://godly.website/) - The best web design inspiration site
+- [Dribbble](https://dribbble.com/) - Biggest web design inspiration website
+- [Bihance](https://www.behance.net/)
+- [Figma community](https://www.figma.com/community) - The world of designs with figma
 
 - [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
-- [prioritize your tasks](https://prioritize.songthamtung.com/)
+- [prioritize your tasks](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
+- [Pomofocus](https://pomofocus.io/) - A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study, writing, or coding.
 
 - [Down for everyone or just me](https://downforeveryoneorjustme.com/) - Check if a website or app is down for everyone or just you.
 - [Hidden tools](https://hiddentools-eight.vercel.app/) - Discover a wide collection of unique tools.
