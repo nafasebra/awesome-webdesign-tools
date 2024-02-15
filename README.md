@@ -138,14 +138,14 @@
 - [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
 - [Programming language convertor](https://ide.onelang.io/) - Convert any program languages
 
-- [Coderops](https://tympanus.net/codrops/) 
-- [Codepen](https://codepen.io/) 
+- [Coderops](https://tympanus.net/codrops/) - Codrops is a destination for web design and development enthusiasts.
+- [Codepen](https://codepen.io/)
 - [Free frontend](https://freefrontend.com/) - Free hand-picked code examples, tutorials and articles.
 
-- [CSS battle](https://cssbattle.dev/)
+- [CSS battle](https://cssbattle.dev/) - The funnest CSS game for web designers & developers
 - [Code wars](https://www.codewars.com/)
 
-- [Wordpress video tutorals](https://wpsessions.com/)
+- [Wordpress video tutorals](https://wpsessions.com/) - Learn WordPress directly from the experts! Video-based instruction, live events, detailed tutorials, and interactive chat. New content every month.
 
 - [CSS Author](https://cssauthor.com/) - CSS Author is a design and development blog.
 
