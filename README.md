@@ -199,3 +199,28 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
 
 - [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
+
+- [Imgur](https://imgur.com/) - Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more.
+
+- [SVG Artista](https://svgartista.net/) - SVG Artista is a free tool that helps you easily create amazing SVG drawing animations by animating stroke and fill properties of your SVG graphics.
+
+- [Shape so](https://shape.so/) - 36000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.
+
+- [Shape so](https://shape.so/) - 36000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.
+
+- [Really good emails](https://reallygoodemails.com/) - With over 12,000 curated emails and counting, discover the best examples to help build your next campaign. Get inspiration and join millions of marketers.
+
+- [Clean mock](https://cleanmock.com/) - Mockup your website and design simply and beautifully.
+
+- [Color slurp](https://colorslurp.com/) - Pick, edit, and copy colors with the best color picker for Mac and iOS!
+
+- [Get station](https://getstation.com/) - Station unifies all your work tools in one neat and productive interface.
+
+
+- [Stick PNG](https://stickpng.com/) - StickPNG is a vibrant community of creative people sharing transparent PNG images which you can download for free and use in your personal non-commercial or educational projects.
+- [Free PNG IMG](https://freepngimg.com/) - Download free PNG images, pictures and cliparts with transparent background in best resolution and  high quality(HQ) and icons. Available for Mobile, Dual Monitors, HD, Fullscreen and Widescreen.
+- [PNG Tree](https://pngtree.com/) - Pngtree provides free download of png, png images, backgrounds and vector. Millions of high quality free png images, PSD, AI and EPS Files are available.
+- [Fav PNG](https://favpng.com/) - Free Transparent PNG Images. Our database contains more than 16 million free transparent PNG files.
+- [Fav PNG](https://favpng.com/) - Free Transparent PNG Images. Our database contains more than 16 million free transparent PNG files.
+
+
