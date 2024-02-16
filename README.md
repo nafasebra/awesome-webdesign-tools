@@ -1,6 +1,36 @@
-# awesome-webdesign-tools
-### A list of awesome tools for Web and UI/UX design.
+<h1 style="text-align: center;">
+    🎊 awesome-webdesign-tools
+</h1>
+<p style="text-align: center;">
+    Unleash Your Web Dev Potential: Awesome Tools You'll 💎 there is an awesome list of tools for Web developers such as wesites, libraries and etc. enjoy ❤️✌️
+</p>
 
+---
+
+## Contributions
+
+Before you contribute, read `contributing.md` file for guidelines and expectations.
+
+1. Fork this repository.
+2. Add your idea or fix, following the contribution guidelines.
+3. Submit a Pull Request (PR).
+4. Report any issues you find by opening a new issue.
+
+
+## Table of contents
+
+- [Colors]()
+- [Gradiant]()
+- [Designs]()
+- [Shape makers]()
+- [Icons]()
+- [Font]()
+- [Layouts]()
+- [CSS loading]()
+- [Libraries]()
+- [Utils]()
+
+## The list
 
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
 - [CSS Cliper](https://bennettfeely.com/clippy/) - Make shape with `clip` CSS property
@@ -8,7 +38,7 @@
 - [blobmaker](https://www.blobmaker.app/) - for create curve shapes
 - [Get waves](https://getwaves.io/) - Create SVG waves
 
-- [Front Converter](https://www.fontconverter.io/en) - Convert font file to any type
+- [Font Converter](https://www.fontconverter.io/en) - Convert font file to any type
 
 - [Get image of specialy map](https://openlayers.org/en/latest/examples/accessible.html) - for get placeholder map image
 
@@ -166,4 +196,6 @@
 - [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
 
 - [Am i responsive](https://ui.dev/amiresponsive) - Show off how responsive design looks across different browsers easily with this 4 in 1 viewport tool
+- [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
+
 - [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
