@@ -221,6 +221,15 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Free PNG IMG](https://freepngimg.com/) - Download free PNG images, pictures and cliparts with transparent background in best resolution and  high quality(HQ) and icons. Available for Mobile, Dual Monitors, HD, Fullscreen and Widescreen.
 - [PNG Tree](https://pngtree.com/) - Pngtree provides free download of png, png images, backgrounds and vector. Millions of high quality free png images, PSD, AI and EPS Files are available.
 - [Fav PNG](https://favpng.com/) - Free Transparent PNG Images. Our database contains more than 16 million free transparent PNG files.
-- [Fav PNG](https://favpng.com/) - Free Transparent PNG Images. Our database contains more than 16 million free transparent PNG files.
 
+- [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
+
+
+## sketchs
+- [UI Store design](https://www.uistore.design/) - 656 Free Handpicked UI Kits for your real life projects
+- [Sketch app sources](https://www.sketchappsources.com/) - Thousands of UI/UX resources from great and resourceful designers around the world.
+- [UI8](https://ui8.net/) - 8,667 curated design resources to speed up your creative workflow.
+- [XD Guru](https://www.xdguru.com/) - Adobe XD Resources, UI kits & Templates
+- [Sketch repo](https://sketchrepo.com/) - Sketch templates and Sketch resources for your next design project. Free, high quality icons, mockups, and UI kits for Sketch App.
+- [Free design resources](https://freedesignresources.net/) - Daily Freebies for Creatives
 
