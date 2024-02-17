@@ -233,3 +233,28 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Sketch repo](https://sketchrepo.com/) - Sketch templates and Sketch resources for your next design project. Free, high quality icons, mockups, and UI kits for Sketch App.
 - [Free design resources](https://freedesignresources.net/) - Daily Freebies for Creatives
 
+## icons
+- [Material io]() - .
+- [Noun project]() - .
+- [Icon monstr]() - .
+- [Feathur]() - .
+- [Visual pharm]() - .
+- [Digital nomad icons]() - .
+- [Core UI]() - .
+- [Zwicon]() - .
+- [ICONSVG]() - .
+- [Illustrio]() - .
+- [Tilda]() - .
+- [Lonicons]() - .
+- [Simple icons]() - .
+- [Flaticons]() - .
+- [Streamline icons]() - .
+- [Ikonate]() - .
+
+## icons
+- [Font squirrel]() - 
+- [Font space]() - 
+- [Da font]() - 
+- [Abstract fonts]() - 
+- [1001 fonts]() - 
+- [Fontsly]() - 
