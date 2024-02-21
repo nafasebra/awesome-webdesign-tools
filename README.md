@@ -23,7 +23,7 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Colors](#colors)
 - [Designs](#designs)
 - [Shape makers](#shape-makers)
-- [Font]()
+- [Fonts]()
 - [Layouts]()
 - [CSS loading]()
 - [Libraries]()
@@ -76,6 +76,9 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Dribbble](https://dribbble.com/) - Biggest web design inspiration website
 - [Bihance](https://www.behance.net/)
 - [Figma community](https://www.figma.com/community) - The world of designs with figma
+- [Coderops](https://tympanus.net/codrops/) - Codrops is a destination for web design and development enthusiasts.
+- [Codepen](https://codepen.io/)
+- [Free frontend](https://freefrontend.com/) - Free hand-picked code examples, tutorials and articles.
 
 
 ## Shape makers
@@ -103,10 +106,26 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Wait animate](https://waitanimate.wstone.uk/) - Wait animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
 - [argyleink/transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS transitions
 
+
+## Fonts
+- [Font Converter](https://www.fontconverter.io/en) - Convert font file to any type
+- [Gliphter](https://glyphter.com/) - Create icon fonts in seconds! Just drag & drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!
+- [Typescale](https://typescale.com/) - Create stunning typography, generate CSS, and find inspiration.
+- [Font library](https://fontlibrary.dev/) - An open source project to tag Google Fonts.
+
+
+## Layouts
+- [Grid garden](https://cssgridgarden.com/) - A game for learning CSS grid layout
+- [Flexbox froggy](https://flexboxfroggy.com/) - A game for learning CSS flexbox
+- [Box sizing generator](https://codepen.io/carolineartz/full/ogVXZj) - Visualize the box-model and see how changing the value of box-sizing affects element size.
+- [Flex box generator](https://bennettfeely.com/flexplorer/) - Dive in to and explore the wonders of the CSS3 Flexible Box model.
+- [Grid CSS generator](https://cssgrid-generator.netlify.app/)
+- [Layout generator](https://layout.bradwoods.io/) - A CSS Grid generator & CSS Flexbox generator. A tool for generating UI layout component code.
+
+
 ---
 
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
-- [Font Converter](https://www.fontconverter.io/en) - Convert font file to any type
 
 
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
@@ -137,24 +156,12 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 - [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [HTTP Cat](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
-
-
-
-- [Gliphter](https://glyphter.com/) - Create icon fonts in seconds! Just drag & drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!
-- [Typescale](https://typescale.com/) - Create stunning typography, generate CSS, and find inspiration.
-- [Font library](https://fontlibrary.dev/) - An open source project to tag Google Fonts.
  
 - [Spinner kit](https://tobiasahlin.com/spinkit/) - Simple CSS Spinners
 - [whirl - CSS loading](https://whirl.netlify.app/) - CSS loadings
 - [cssloaders](https://cssloaders.github.io/) - CSS Loader is a collection of different types of loaders, spinners and their source code. There are no image dependencies in this. It's is done using pure CSS. Hence it is easily customization too.
 - [Pure CSS loader](https://loading.io/css/) - 12 CSS spinners with CSS animation optimized in size, speed and dev-friendly for your next web project
 
-- [Grid garden](https://cssgridgarden.com/) - A game for learning CSS grid layout
-- [Flexbox froggy](https://flexboxfroggy.com/) - A game for learning CSS flexbox
-- [Box sizing generator](https://codepen.io/carolineartz/full/ogVXZj) - Visualize the box-model and see how changing the value of box-sizing affects element size.
-- [Flex box generator](https://bennettfeely.com/flexplorer/) - Dive in to and explore the wonders of the CSS3 Flexible Box model.
-- [Grid CSS generator](https://cssgrid-generator.netlify.app/)
-- [Layout generator](https://layout.bradwoods.io/) - A CSS Grid generator & CSS Flexbox generator. A tool for generating UI layout component code.
 
 - [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore CSS lengths.
 - [Can i use](https://caniuse.com/) - &quot;Can I use&quot; provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
@@ -174,10 +181,6 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 - [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
 - [Programming language convertor](https://ide.onelang.io/) - Convert any program languages
-
-- [Coderops](https://tympanus.net/codrops/) - Codrops is a destination for web design and development enthusiasts.
-- [Codepen](https://codepen.io/)
-- [Free frontend](https://freefrontend.com/) - Free hand-picked code examples, tutorials and articles.
 
 - [CSS battle](https://cssbattle.dev/) - The funnest CSS game for web designers & developers
 - [Code wars](https://www.codewars.com/)
