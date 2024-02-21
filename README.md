@@ -47,6 +47,18 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Make face 3d icons](https://peeps.ui8.net/) - Peeps Avatar Builder by UI8.net
 - [A list of colorful images](https://blush.design/collections) - Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
 - [Sapiens UI8.net](https://sapiens.ui8.net/9f4c6r2) - Sapiens Character Builder by UI8.net
+- [Noun project](https://thenounproject.com/) - Noun Project has the most diverse collection of free icons and stock photos. Download SVG and PNG. Over 5 million art-quality icons and free photos.
+- [Icon monstr](https://iconmonstr.com/) - Free simple icons for your next project
+- [Feather](https://feathericons.com/) - Simply beautiful open source icons
+- [Visual pharm](https://www.visualpharm.com/) - 400k free icons available for free download in SVG and PNG. One-click download.
+- [Digital nomad icons](https://digitalnomadicons.com/) - Digital nomad themed set of 25 high resolution flat icons, for free.
+- [Core UI](https://coreui.io/icons/) - Premium designed free icon set with marks in SVG, JavaScript, and Webfont formats. CoreUI Icons are beautifully crafted symbols for common actions and items.
+- [Zwicon](https://www.zwicon.com/) - The zwicon icon library was made to support our work @zwoelf. Now it is available to download.
+- [ICONSVG](https://iconsvg.xyz/) - Simple tool to find, customize and generate common SVG icons for your project
+- [Tilda](https://tilda.cc/free-icons/) - Download free icons for landing pages. More than 400 vector icons, collected in 27 sets for business.
+- [Flaticons](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects. Images made by and for designers in PNG, SVG, EPS, PSD and CSS formats
+- [Streamline icons](https://www.streamlinehq.com/) - 177,289 Streamline icons in line, regular, bold, colors, freehand, cyber, and more styles. Download the largest icons sets of the world in one place. 
+- [Ikonate](https://ikonate.com/) - Customise, adjust and download free vector icons.
 
 
 ## Colors
@@ -243,22 +255,7 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Free design resources](https://freedesignresources.net/) - Daily Freebies for Creatives
 
 ## icons
-- [Material io]() - .
-- [Noun project]() - .
-- [Icon monstr]() - .
-- [Feathur]() - .
-- [Visual pharm]() - .
-- [Digital nomad icons]() - .
-- [Core UI]() - .
-- [Zwicon]() - .
-- [ICONSVG]() - .
-- [Illustrio]() - .
-- [Tilda]() - .
-- [Lonicons]() - .
-- [Simple icons]() - .
-- [Flaticons]() - .
-- [Streamline icons]() - .
-- [Ikonate]() - .
+
 
 ## icons
 - [Font squirrel]() - 
