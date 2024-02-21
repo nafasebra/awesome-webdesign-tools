@@ -21,8 +21,8 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 - [Icons](#icons)
 - [Colors](#colors)
-- [Designs]()
-- [Shape makers]()
+- [Designs](#designs)
+- [Shape makers](#shape-makers)
 - [Font]()
 - [Layouts]()
 - [CSS loading]()
@@ -43,8 +43,13 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Radix icons](https://www.radix-ui.com/icons) - A crisp set of 15×15 icons designed by the WorkOS team.
 - [Icon sccut](https://iconscout.com/) - Access 8.2 Million+ free or premium vector icons, illustrations, 3D illustrations, and Lottie animations for any design.
 
+- [SVG Icons and backgroud](https://www.svgbackgrounds.com/) - SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.
+- [Make face 3d icons](https://peeps.ui8.net/) - Peeps Avatar Builder by UI8.net
+- [A list of colorful images](https://blush.design/collections) - Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
+- [Sapiens UI8.net](https://sapiens.ui8.net/9f4c6r2) - Sapiens Character Builder by UI8.net
 
-# Colors
+
+## Colors
 - [CSS gradient](https://cssgradient.io/) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
 - [Gradient magic](https://www.gradientmagic.com/) - A Free Gallery of Fantastic and Unique CSS Gradients.
 - [Parametric color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - A color palette composer inspired by audio parametric equalizers. Create beautiful color palettes with a scientific precision.
@@ -60,7 +65,7 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
 
 
-# Designs
+## Designs
 - [List of UI components for your projects](https://uiverse.io/) - Library of free and customizable UI elements made with CSS or Tailwind. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.
 - [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.
 - [Component gallery](https://component.gallery/components/accordion/) - A list of components
@@ -72,17 +77,37 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Bihance](https://www.behance.net/)
 - [Figma community](https://www.figma.com/community) - The world of designs with figma
 
+
+## Shape makers
+- [CSS Cliper](https://bennettfeely.com/clippy/) - Make shape with `clip` CSS property  
+- [blobmaker](https://www.blobmaker.app/) - for create curve shapes
+- [Get waves](https://getwaves.io/) - Create SVG waves
+- [Get image of specialy map](https://openlayers.org/en/latest/examples/accessible.html) - for get placeholder map image
+- [Create neomorphism box](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
+- [Make soft box shadows](https://shadows.brumm.af/) - Make a smooth css shadow
+- [Fancy border radius](https://9elements.github.io/fancy-border-radius/) - Generator to build organic shapes with CSS3 border-radius
+- [Make Glow Shadow on CSS](https://cssbud.com/css-generator/css-glow-generator/) - https://cssbud.com/css-generator/css-glow-generator/
+- [Make tiny neomorphism boxes](https://hype4.academy/tools/glassmorphism-generator) - Glassmorphism is a unified name for the popular Frosted Glass aesthetic.
+- [Pattern generator](https://doodad.dev/pattern-generator/) - Generate seamless, unique, royalty-free patterns to use for free in any project. Export as SVG, JPEG, or PNG.
+- [CSS Patterns](https://css-pattern.com/) - A collection of 100+ background patterns powered by CSS gradients. All the best CSS Patterns are here! Made by Temani Afif
+- [CSS Patterns - tranglify](https://trianglify.io/) - Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
+- [Animate background](https://animatedbackgrounds.me/) - A list of animated backgrounds
+- [Haikei](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
+- [Magic patterns](https://www.magicpattern.design/tools/css-backgrounds) - Beautiful pure CSS background patterns that you can actually use in your projects!
+- [Custom scrollbar maker](https://codepen.io/stephenpaton-tech/full/JjRvGmY) - A simple tool for making custom scrollbars for your websites....
+- [Generate CSS filter](https://www.cssfilters.co/) - Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
+- [Make high quality media query](https://quantityqueries.com/) - A tool to help build Quantity Queries for your projects
+
+- [Cubic bezier](https://cubic-bezier.com) - Generate cubic bezier
+- [Generate key frames](https://keyframes.app/animate) - Browser-based, mobile-friendly, actually private tools that make CSS a little less bad.
+- [Wait animate](https://waitanimate.wstone.uk/) - Wait animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
+- [argyleink/transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS transitions
+
 ---
 
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
-- [CSS Cliper](https://bennettfeely.com/clippy/) - Make shape with `clip` CSS property
-  
-- [blobmaker](https://www.blobmaker.app/) - for create curve shapes
-- [Get waves](https://getwaves.io/) - Create SVG waves
-
 - [Font Converter](https://www.fontconverter.io/en) - Convert font file to any type
 
-- [Get image of specialy map](https://openlayers.org/en/latest/examples/accessible.html) - for get placeholder map image
 
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
 
@@ -94,22 +119,9 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 - [CSS buttons example](https://getcssscan.com/css-buttons-examples) - A list of awesome buttons for using them.
 
-- [Create neomorphism box](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
-- [Make soft box shadows](https://shadows.brumm.af/) - Make a smooth css shadow
-- [Fancy border radius](https://9elements.github.io/fancy-border-radius/) - Generator to build organic shapes with CSS3 border-radius
-- [Make Glow Shadow on CSS](https://cssbud.com/css-generator/css-glow-generator/) - https://cssbud.com/css-generator/css-glow-generator/
-- [Make tiny neomorphism boxes](https://hype4.academy/tools/glassmorphism-generator) - Glassmorphism is a unified name for the popular Frosted Glass aesthetic.
-
 - [Image editor with AI](https://hotpot.ai/) - Hotpot helps you create amazing images, graphics, and writing with AI. Visualize ideas with AI Image Generator, reimagine yourself with AI Headshots, or spark creativity with other products from our AI platform. Automate away drudgery with AI photo editing tools while easy-to-edit templates empower anyone to create social media posts, marketing images, app icons, and other work graphics.
 
 - [Keycode info](https://www.toptal.com/developers/keycode) - KeyCode.Info allows users to press any key and instantly get the JavaScript Key or Key Code KeyboardEvent. Check out the Tool and Event List.
-
-- [Pattern generator](https://doodad.dev/pattern-generator/) - Generate seamless, unique, royalty-free patterns to use for free in any project. Export as SVG, JPEG, or PNG.
-- [CSS Patterns](https://css-pattern.com/) - A collection of 100+ background patterns powered by CSS gradients. All the best CSS Patterns are here! Made by Temani Afif
-- [CSS Patterns - tranglify](https://trianglify.io/) - Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
-- [Animate background](https://animatedbackgrounds.me/) - A list of animated backgrounds
-- [Haikei](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
-- [Magic patterns](https://www.magicpattern.design/tools/css-backgrounds) - Beautiful pure CSS background patterns that you can actually use in your projects!
 
 - [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
 
@@ -119,10 +131,6 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 - [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
 
-- [Custom scrollbar maker](https://codepen.io/stephenpaton-tech/full/JjRvGmY) - A simple tool for making custom scrollbars for your websites....
-- [Generate CSS filter](https://www.cssfilters.co/) - Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
-- [Make high quality media query](https://quantityqueries.com/) - A tool to help build Quantity Queries for your projects
-
 - [Base64](https://www.base64-image.de/) - Optimize your images and convert them to base64 online. Drag & Drop your files, copy to clipboard with a click and use the result in HTML and CSS.
 
 
@@ -130,10 +138,6 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [HTTP Cat](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
 
-- [Cubic bezier](https://cubic-bezier.com) - Generate cubic bezier
-- [Generate key frames](https://keyframes.app/animate) - Browser-based, mobile-friendly, actually private tools that make CSS a little less bad.
-- [Wait animate](https://waitanimate.wstone.uk/) - Wait animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
-- [argyleink/transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS transitions
 
 
 - [Gliphter](https://glyphter.com/) - Create icon fonts in seconds! Just drag & drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!
@@ -160,12 +164,6 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 - [CSS reference](https://cssreference.io/) - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 - [HTML reference](https://htmlreference.io/) - A free guide to all HTML elements and attributes.
-
-- [SVG Icons and backgroud](https://www.svgbackgrounds.com/) - SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.
-- [Make face 3d icons](https://peeps.ui8.net/) - Peeps Avatar Builder by UI8.net
-- [A list of colorful images](https://blush.design/collections) - Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
-- [Sapiens UI8.net](https://sapiens.ui8.net/9f4c6r2) - Sapiens Character Builder by UI8.net
-
 
 - [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
 - [prioritize your tasks](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
