@@ -19,18 +19,60 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 ## Table of contents
 
-- [Colors]()
-- [Gradiant]()
+- [Icons](#icons)
+- [Colors](#colors)
 - [Designs]()
 - [Shape makers]()
-- [Icons]()
 - [Font]()
 - [Layouts]()
 - [CSS loading]()
 - [Libraries]()
 - [Utils]()
 
-## The list
+
+## Icons
+- [Heroicons](https://heroicons.dev/) - Heroicons is a collection of MIT open source interface icons for web and app development.
+- [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS (like previos website)
+- [Iconfinder](https://www.iconfinder.com) - Iconfinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format.
+- [Tabler Icons](https://tablericons.com/) - 800+ Highly customizable & free SVG icons
+- [Icon8](https://icons8.com/) - Download design elements for free: icons, photos, vector illustrations, and music for your videos. All the assets made by designers → consistent quality ⚡️
+- [CSS icons](https://css.gg/app) - App for css.gg icons with custom selection for all pure CSS icons
+- [Icons JS](https://icones.js.org/) - A list of awesome icons
+- [3DIcons](https://3dicons.co/) - 1440+ beautifully crafted open-source 3D icons. You can use completely free and without attribution for personal or commercial project
+- [Iconer](https://iconer.app/) - list of many icons
+- [Radix icons](https://www.radix-ui.com/icons) - A crisp set of 15×15 icons designed by the WorkOS team.
+- [Icon sccut](https://iconscout.com/) - Access 8.2 Million+ free or premium vector icons, illustrations, 3D illustrations, and Lottie animations for any design.
+
+
+# Colors
+- [CSS gradient](https://cssgradient.io/) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
+- [Gradient magic](https://www.gradientmagic.com/) - A Free Gallery of Fantastic and Unique CSS Gradients.
+- [Parametric color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - A color palette composer inspired by audio parametric equalizers. Create beautiful color palettes with a scientific precision.
+- [grabient](https://www.grabient.com/) - Beautiful and simple UI for generating web gradients.
+- [Palettte App](https://palettte.app/) - The definitive palette editing and remapping tool
+- [paletton](https://paletton.com/) - In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.
+- [color hunt](https://colorhunt.co/) - Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.
+- [Easing gradient](https://larsenwork.com/easing-gradients) - Supercharge your gradients with non-linear color mix and custom color spaces.
+- [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready for COPY & PASTE
+- [A tool for colors](https://colordesigner.io/tools) - List of all tools: Palette Generator, Gradient Generator, Color Name Finder
+- [Color palette](https://colorpalettes.earth/) - Get color palette inspiration from nature - updated daily
+- [Bada55](http://bada55.io/) - Looking for a BADA55 hex color words for your css code? Come here now!
+- [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
+
+
+# Designs
+- [List of UI components for your projects](https://uiverse.io/) - Library of free and customizable UI elements made with CSS or Tailwind. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.
+- [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.
+- [Component gallery](https://component.gallery/components/accordion/) - A list of components
+- [Design system gallery](https://designsystemsrepo.com/design-systems-recent/) - A list of design systems
+- [Checklist design](https://www.checklist.design/)
+- [Toools design](https://www.toools.design/) - Discover highly useful Design Resources & Tools
+- [Godly.website](https://godly.website/) - The best web design inspiration site
+- [Dribbble](https://dribbble.com/) - Biggest web design inspiration website
+- [Bihance](https://www.behance.net/)
+- [Figma community](https://www.figma.com/community) - The world of designs with figma
+
+---
 
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
 - [CSS Cliper](https://bennettfeely.com/clippy/) - Make shape with `clip` CSS property
@@ -45,18 +87,6 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
 
 - [CSS loading animations](https://www.html-code-generator.com/css/loading-animation-generator) - CSS loading circle and create online CSS Loading effect animations.
-
-- [Heroicons](https://heroicons.dev/) - Heroicons is a collection of MIT open source interface icons for web and app development.
-- [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS (like previos website)
-- [Iconfinder](https://www.iconfinder.com) - Iconfinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format.
-- [Tabler Icons](https://tablericons.com/) - 800+ Highly customizable & free SVG icons
-- [Icon8](https://icons8.com/) - Download design elements for free: icons, photos, vector illustrations, and music for your videos. All the assets made by designers → consistent quality ⚡️
-- [CSS icons](https://css.gg/app) - App for css.gg icons with custom selection for all pure CSS icons
-- [Icons JS](https://icones.js.org/) - A list of awesome icons
-- [3DIcons](https://3dicons.co/) - 1440+ beautifully crafted open-source 3D icons. You can use completely free and without attribution for personal or commercial project
-- [Iconer](https://iconer.app/) - list of many icons
-- [Radix icons](https://www.radix-ui.com/icons) - A crisp set of 15×15 icons designed by the WorkOS team.
-- [Icon sccut](https://iconscout.com/) - Access 8.2 Million+ free or premium vector icons, illustrations, 3D illustrations, and Lottie animations for any design.
 
 - [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
 
@@ -95,9 +125,7 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 - [Base64](https://www.base64-image.de/) - Optimize your images and convert them to base64 online. Drag & Drop your files, copy to clipboard with a click and use the result in HTML and CSS.
 
-- [List of UI components for your projects](https://uiverse.io/) - Library of free and customizable UI elements made with CSS or Tailwind. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.
 
-- [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.
 
 - [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [HTTP Cat](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
@@ -107,19 +135,6 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Wait animate](https://waitanimate.wstone.uk/) - Wait animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
 - [argyleink/transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS transitions
 
-- [CSS gradient](https://cssgradient.io/) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
-- [Gradient magic](https://www.gradientmagic.com/) - A Free Gallery of Fantastic and Unique CSS Gradients.
-- [Parametric color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - A color palette composer inspired by audio parametric equalizers. Create beautiful color palettes with a scientific precision.
-- [grabient](https://www.grabient.com/) - Beautiful and simple UI for generating web gradients.
-- [Palettte App](https://palettte.app/) - The definitive palette editing and remapping tool
-- [paletton](https://paletton.com/) - In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.
-- [color hunt](https://colorhunt.co/) - Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.
-- [Easing gradient](https://larsenwork.com/easing-gradients) - Supercharge your gradients with non-linear color mix and custom color spaces.
-- [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready for COPY & PASTE
-- [A tool for colors](https://colordesigner.io/tools) - List of all tools: Palette Generator, Gradient Generator, Color Name Finder
-- [Color palette](https://colorpalettes.earth/) - Get color palette inspiration from nature - updated daily
-- [Bada55](http://bada55.io/) - Looking for a BADA55 hex color words for your css code? Come here now!
-- [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
 
 - [Gliphter](https://glyphter.com/) - Create icon fonts in seconds! Just drag & drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!
 - [Typescale](https://typescale.com/) - Create stunning typography, generate CSS, and find inspiration.
@@ -141,9 +156,8 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Can i use](https://caniuse.com/) - &quot;Can I use&quot; provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [Can i email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails
 - [CSS tools online](https://codebeautify.org/css-tools) - Collection of CSS Tools which helps developer to solve css problems.
-- [Component gallery](https://component.gallery/components/accordion/) - A list of components
-- [Design system gallery](https://designsystemsrepo.com/design-systems-recent/) - A list of design systems
-- [Checklist design](https://www.checklist.design/)
+
+
 - [CSS reference](https://cssreference.io/) - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 - [HTML reference](https://htmlreference.io/) - A free guide to all HTML elements and attributes.
 
@@ -152,11 +166,6 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [A list of colorful images](https://blush.design/collections) - Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
 - [Sapiens UI8.net](https://sapiens.ui8.net/9f4c6r2) - Sapiens Character Builder by UI8.net
 
-- [Toools design](https://www.toools.design/) - Discover highly useful Design Resources & Tools
-- [Godly.website](https://godly.website/) - The best web design inspiration site
-- [Dribbble](https://dribbble.com/) - Biggest web design inspiration website
-- [Bihance](https://www.behance.net/)
-- [Figma community](https://www.figma.com/community) - The world of designs with figma
 
 - [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
 - [prioritize your tasks](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
@@ -223,7 +232,6 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Fav PNG](https://favpng.com/) - Free Transparent PNG Images. Our database contains more than 16 million free transparent PNG files.
 
 - [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
-
 
 ## sketchs
 - [UI Store design](https://www.uistore.design/) - 656 Free Handpicked UI Kits for your real life projects
