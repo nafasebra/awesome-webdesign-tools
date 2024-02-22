@@ -27,8 +27,8 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Layouts](#layouts)
 - [CSS loading](#css-loaders)
 - [Utils](#utils)
-- [Learning]()
-- [Good for you :)]()
+- [Learning](#learning)
+- [Good for you :)](#good-for-you)
 
 
 ## Icons
@@ -142,6 +142,11 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Gliphter](https://glyphter.com/) - Create icon fonts in seconds! Just drag & drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!
 - [Typescale](https://typescale.com/) - Create stunning typography, generate CSS, and find inspiration.
 - [Font library](https://fontlibrary.dev/) - An open source project to tag Google Fonts.
+- [Font squirrel](https://www.fontsquirrel.com/) - Handpicked free fonts for graphic designers with commercial-use licenses.
+- [Font space](https://www.fontspace.com/) - Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.
+- [Abstract fonts](https://www.abstractfonts.com/) - Download more than 10,000 free fonts hassle free, desktop and mobile optimized, around for more than 20 years. Categories, popular, designers, optional web font download and links to similar fonts.
+- [1001 fonts](https://www.1001fonts.com/) - 56932 free fonts in 32193 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux
+- [Fontsly](https://fontsly.com/) - Big collection of Free Fonts for Download. Browse fonts by style, by type, by alphabet, by author or by popularity. Everyday updates!
 
 
 ## Layouts
@@ -216,12 +221,3 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 
 ---
-
-
-## icons
-- [Font squirrel]() - 
-- [Font space]() - 
-- [Da font]() - 
-- [Abstract fonts]() - 
-- [1001 fonts]() - 
-- [Fontsly]() - 
