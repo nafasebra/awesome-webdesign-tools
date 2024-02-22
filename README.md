@@ -23,11 +23,12 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Colors](#colors)
 - [Designs](#designs)
 - [Shape makers](#shape-makers)
-- [Fonts]()
-- [Layouts]()
-- [CSS loading]()
-- [Libraries]()
-- [Utils]()
+- [Fonts](#fonts)
+- [Layouts](#layouts)
+- [CSS loading](#css-loaders)
+- [Utils](#utils)
+- [Learning]()
+- [Good for you :)]()
 
 
 ## Icons
@@ -91,6 +92,9 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Coderops](https://tympanus.net/codrops/) - Codrops is a destination for web design and development enthusiasts.
 - [Codepen](https://codepen.io/)
 - [Free frontend](https://freefrontend.com/) - Free hand-picked code examples, tutorials and articles.
+- [Code my UI](https://codemyui.com/) - Handpicked collection of Web Design & UI Inspiration with Code Snippets. 
+- [UI Faces](https://uifaces.co/) - get example profile images
+- [CSS buttons example](https://getcssscan.com/css-buttons-examples) - A list of awesome buttons for using them.
 
 
 ## Shape makers
@@ -134,88 +138,67 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Grid CSS generator](https://cssgrid-generator.netlify.app/)
 - [Layout generator](https://layout.bradwoods.io/) - A CSS Grid generator & CSS Flexbox generator. A tool for generating UI layout component code.
 
-
----
-
-- [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
-
-
-- [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
-
+## CSS loaders
 - [CSS loading animations](https://www.html-code-generator.com/css/loading-animation-generator) - CSS loading circle and create online CSS Loading effect animations.
-
-- [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
-
-- [UI Faces](https://uifaces.co/) - get example profile images
-
-- [CSS buttons example](https://getcssscan.com/css-buttons-examples) - A list of awesome buttons for using them.
-
-- [Image editor with AI](https://hotpot.ai/) - Hotpot helps you create amazing images, graphics, and writing with AI. Visualize ideas with AI Image Generator, reimagine yourself with AI Headshots, or spark creativity with other products from our AI platform. Automate away drudgery with AI photo editing tools while easy-to-edit templates empower anyone to create social media posts, marketing images, app icons, and other work graphics.
-
-- [Keycode info](https://www.toptal.com/developers/keycode) - KeyCode.Info allows users to press any key and instantly get the JavaScript Key or Key Code KeyboardEvent. Check out the Tool and Event List.
-
-- [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
-
-- [Unused CSS](https://unused-css.com/) - UnusedCSS is an online tool to remove unused CSS rules. It will check your pages, find unused CSS and let you download a clean CSS file.
-
-- [JSON Check](https://jsoncrack.com/editor) - Visualize your JSON code
-
-- [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
-
-- [Base64](https://www.base64-image.de/) - Optimize your images and convert them to base64 online. Drag & Drop your files, copy to clipboard with a click and use the result in HTML and CSS.
-
-
-
-- [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
-- [HTTP Cat](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
- 
 - [Spinner kit](https://tobiasahlin.com/spinkit/) - Simple CSS Spinners
 - [whirl - CSS loading](https://whirl.netlify.app/) - CSS loadings
 - [cssloaders](https://cssloaders.github.io/) - CSS Loader is a collection of different types of loaders, spinners and their source code. There are no image dependencies in this. It's is done using pure CSS. Hence it is easily customization too.
 - [Pure CSS loader](https://loading.io/css/) - 12 CSS spinners with CSS animation optimized in size, speed and dev-friendly for your next web project
+- [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
 
 
+## Utils
+- [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
+- [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
+- [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
+- [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
+- [Image editor with AI](https://hotpot.ai/) - Hotpot helps you create amazing images, graphics, and writing with AI. Visualize ideas with AI Image Generator, reimagine yourself with AI Headshots, or spark creativity with other products from our AI platform.
+- [Keycode info](https://www.toptal.com/developers/keycode) - KeyCode.Info allows users to press any key and instantly get the JavaScript Key or Key Code KeyboardEvent. Check out the Tool and Event List.
+- [Unused CSS](https://unused-css.com/) - UnusedCSS is an online tool to remove unused CSS rules. It will check your pages, find unused CSS and let you download a clean CSS file.
+- [JSON Check](https://jsoncrack.com/editor) - Visualize your JSON code
+- [Base64](https://www.base64-image.de/) - Optimize your images and convert them to base64 online. Drag & Drop your files, copy to clipboard with a click and use the result in HTML and CSS.
 - [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore CSS lengths.
 - [Can i use](https://caniuse.com/) - &quot;Can I use&quot; provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [Can i email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails
 - [CSS tools online](https://codebeautify.org/css-tools) - Collection of CSS Tools which helps developer to solve css problems.
+- [Hidden tools](https://hiddentools-eight.vercel.app/) - Discover a wide collection of unique tools.
+- [Programming language convertor](https://ide.onelang.io/) - Convert any program languages
+- [Down for everyone or just me](https://downforeveryoneorjustme.com/) - Check if a website or app is down for everyone or just you.
 
 
+## learning
+- [30 seconds of code](https://www.30secondsofcode.org/) - Discover short code snippets for all your development needs.
 - [CSS reference](https://cssreference.io/) - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 - [HTML reference](https://htmlreference.io/) - A free guide to all HTML elements and attributes.
-
-- [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
-- [prioritize your tasks](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
-- [Pomofocus](https://pomofocus.io/) - A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study, writing, or coding.
-
-- [Down for everyone or just me](https://downforeveryoneorjustme.com/) - Check if a website or app is down for everyone or just you.
-- [Hidden tools](https://hiddentools-eight.vercel.app/) - Discover a wide collection of unique tools.
-
-- [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
-- [Programming language convertor](https://ide.onelang.io/) - Convert any program languages
-
 - [CSS battle](https://cssbattle.dev/) - The funnest CSS game for web designers & developers
 - [Code wars](https://www.codewars.com/)
-
 - [Wordpress video tutorals](https://wpsessions.com/) - Learn WordPress directly from the experts! Video-based instruction, live events, detailed tutorials, and interactive chat. New content every month.
-
 - [CSS Author](https://cssauthor.com/) - CSS Author is a design and development blog.
-
-- [Code my UI](https://codemyui.com/) - Handpicked collection of Web Design & UI Inspiration with Code Snippets. 
-
+- [CSS tricks](https://css-tricks.com/) - CSS-Tricks is a website about websites.
 - [Site my point](https://www.sitepoint.com/) - Learn Web Design & Development with SitePoint tutorials, courses and books - HTML, CSS, JavaScript, PHP, Responsive Web Design.
 - [Freecodecamp](https://www.freecodecamp.org/) - freeCodeCamp is a community of people from all around the world who are learning to code together. We're a 501(c)(3) public charity.
 - [Daily dev](https://daily.dev/) - Where developers suffer together
 - [egghead](https://egghead.io/) - Learn Modern Web Development in a Fraction of the Time
 - [Dev community](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
-
-- [Free CSS](https://www.free-css.com/) - Free CSS has 3552 free website templates
 - [Devdocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers.
-
 - [Fun javascript projects](https://fun-javascript-projects.com/) - A FREE series of fun JavaScript, HTML & CSS projects.
 - [1LOC](https://phuoc.ng/collection/1-loc/) - Top JavaScript utilities, in just One Line of Code!
-
 - [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
+
+
+---
+
+- [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
+- [HTTP Dog](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
+
+
+- [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
+- [prioritize your tasks](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
+- [Pomofocus](https://pomofocus.io/) - A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study, writing, or coding.
+
+- [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
+
+- [Free CSS](https://www.free-css.com/) - Free CSS has 3552 free website templates
 
 - [Am i responsive](https://ui.dev/amiresponsive) - Show off how responsive design looks across different browsers easily with this 4 in 1 viewport tool
 - [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
