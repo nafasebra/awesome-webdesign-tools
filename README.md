@@ -43,7 +43,6 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Iconer](https://iconer.app/) - list of many icons
 - [Radix icons](https://www.radix-ui.com/icons) - A crisp set of 15×15 icons designed by the WorkOS team.
 - [Icon sccut](https://iconscout.com/) - Access 8.2 Million+ free or premium vector icons, illustrations, 3D illustrations, and Lottie animations for any design.
-
 - [SVG Icons and backgroud](https://www.svgbackgrounds.com/) - SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.
 - [Make face 3d icons](https://peeps.ui8.net/) - Peeps Avatar Builder by UI8.net
 - [A list of colorful images](https://blush.design/collections) - Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
@@ -60,6 +59,13 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Flaticons](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects. Images made by and for designers in PNG, SVG, EPS, PSD and CSS formats
 - [Streamline icons](https://www.streamlinehq.com/) - 177,289 Streamline icons in line, regular, bold, colors, freehand, cyber, and more styles. Download the largest icons sets of the world in one place. 
 - [Ikonate](https://ikonate.com/) - Customise, adjust and download free vector icons.
+- [Stick PNG](https://stickpng.com/) - StickPNG is a vibrant community of creative people sharing transparent PNG images which you can download for free and use in your personal non-commercial or educational projects.
+- [Free PNG IMG](https://freepngimg.com/) - Download free PNG images, pictures and cliparts with transparent background in best resolution and  high quality(HQ) and icons. Available for Mobile, Dual Monitors, HD, Fullscreen and Widescreen.
+- [PNG Tree](https://pngtree.com/) - Pngtree provides free download of png, png images, backgrounds and vector. Millions of high quality free png images, PSD, AI and EPS Files are available.
+- [Fav PNG](https://favpng.com/) - Free Transparent PNG Images. Our database contains more than 16 million free transparent PNG files.
+- [SVG Artista](https://svgartista.net/) - SVG Artista is a free tool that helps you easily create amazing SVG drawing animations by animating stroke and fill properties of your SVG graphics.
+- [Shape so](https://shape.so/) - 36000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.
+- [Imgur](https://imgur.com/) - Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more.
 
 
 ## Colors
@@ -95,6 +101,13 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Code my UI](https://codemyui.com/) - Handpicked collection of Web Design & UI Inspiration with Code Snippets. 
 - [UI Faces](https://uifaces.co/) - get example profile images
 - [CSS buttons example](https://getcssscan.com/css-buttons-examples) - A list of awesome buttons for using them.
+
+- [UI Store design](https://www.uistore.design/) - 656 Free Handpicked UI Kits for your real life projects
+- [Sketch app sources](https://www.sketchappsources.com/) - Thousands of UI/UX resources from great and resourceful designers around the world.
+- [UI8](https://ui8.net/) - 8,667 curated design resources to speed up your creative workflow.
+- [XD Guru](https://www.xdguru.com/) - Adobe XD Resources, UI kits & Templates
+- [Sketch repo](https://sketchrepo.com/) - Sketch templates and Sketch resources for your next design project. Free, high quality icons, mockups, and UI kits for Sketch App.
+- [Free design resources](https://freedesignresources.net/) - Daily Freebies for Creatives
 
 
 ## Shape makers
@@ -164,6 +177,9 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Hidden tools](https://hiddentools-eight.vercel.app/) - Discover a wide collection of unique tools.
 - [Programming language convertor](https://ide.onelang.io/) - Convert any program languages
 - [Down for everyone or just me](https://downforeveryoneorjustme.com/) - Check if a website or app is down for everyone or just you.
+- [Am i responsive](https://ui.dev/amiresponsive) - Show off how responsive design looks across different browsers easily with this 4 in 1 viewport tool
+- [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
+- [Clean mock](https://cleanmock.com/) - Mockup your website and design simply and beautifully.
 
 
 ## learning
@@ -186,58 +202,26 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
 
 
----
-
+## Good for you
+- [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
+- [prioritize your tasks](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
+- [Pomofocus](https://pomofocus.io/) - A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study, writing, or coding.
+- [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
 - [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [HTTP Dog](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
 
 
-- [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
-- [prioritize your tasks](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
-- [Pomofocus](https://pomofocus.io/) - A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study, writing, or coding.
-
-- [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
+---
 
 - [Free CSS](https://www.free-css.com/) - Free CSS has 3552 free website templates
 
-- [Am i responsive](https://ui.dev/amiresponsive) - Show off how responsive design looks across different browsers easily with this 4 in 1 viewport tool
-- [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
-
-- [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
-
-- [Imgur](https://imgur.com/) - Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more.
-
-- [SVG Artista](https://svgartista.net/) - SVG Artista is a free tool that helps you easily create amazing SVG drawing animations by animating stroke and fill properties of your SVG graphics.
-
-- [Shape so](https://shape.so/) - 36000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.
-
-- [Shape so](https://shape.so/) - 36000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.
-
 - [Really good emails](https://reallygoodemails.com/) - With over 12,000 curated emails and counting, discover the best examples to help build your next campaign. Get inspiration and join millions of marketers.
-
-- [Clean mock](https://cleanmock.com/) - Mockup your website and design simply and beautifully.
 
 - [Color slurp](https://colorslurp.com/) - Pick, edit, and copy colors with the best color picker for Mac and iOS!
 
 - [Get station](https://getstation.com/) - Station unifies all your work tools in one neat and productive interface.
 
-
-- [Stick PNG](https://stickpng.com/) - StickPNG is a vibrant community of creative people sharing transparent PNG images which you can download for free and use in your personal non-commercial or educational projects.
-- [Free PNG IMG](https://freepngimg.com/) - Download free PNG images, pictures and cliparts with transparent background in best resolution and  high quality(HQ) and icons. Available for Mobile, Dual Monitors, HD, Fullscreen and Widescreen.
-- [PNG Tree](https://pngtree.com/) - Pngtree provides free download of png, png images, backgrounds and vector. Millions of high quality free png images, PSD, AI and EPS Files are available.
-- [Fav PNG](https://favpng.com/) - Free Transparent PNG Images. Our database contains more than 16 million free transparent PNG files.
-
 - [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
-
-## sketchs
-- [UI Store design](https://www.uistore.design/) - 656 Free Handpicked UI Kits for your real life projects
-- [Sketch app sources](https://www.sketchappsources.com/) - Thousands of UI/UX resources from great and resourceful designers around the world.
-- [UI8](https://ui8.net/) - 8,667 curated design resources to speed up your creative workflow.
-- [XD Guru](https://www.xdguru.com/) - Adobe XD Resources, UI kits & Templates
-- [Sketch repo](https://sketchrepo.com/) - Sketch templates and Sketch resources for your next design project. Free, high quality icons, mockups, and UI kits for Sketch App.
-- [Free design resources](https://freedesignresources.net/) - Daily Freebies for Creatives
-
-## icons
 
 
 ## icons
