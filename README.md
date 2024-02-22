@@ -82,6 +82,7 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Color palette](https://colorpalettes.earth/) - Get color palette inspiration from nature - updated daily
 - [Bada55](http://bada55.io/) - Looking for a BADA55 hex color words for your css code? Come here now!
 - [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
+- [Color slurp](https://colorslurp.com/) - Pick, edit, and copy colors with the best color picker for Mac and iOS!
 
 
 ## Designs
@@ -101,13 +102,13 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Code my UI](https://codemyui.com/) - Handpicked collection of Web Design & UI Inspiration with Code Snippets. 
 - [UI Faces](https://uifaces.co/) - get example profile images
 - [CSS buttons example](https://getcssscan.com/css-buttons-examples) - A list of awesome buttons for using them.
-
 - [UI Store design](https://www.uistore.design/) - 656 Free Handpicked UI Kits for your real life projects
 - [Sketch app sources](https://www.sketchappsources.com/) - Thousands of UI/UX resources from great and resourceful designers around the world.
 - [UI8](https://ui8.net/) - 8,667 curated design resources to speed up your creative workflow.
 - [XD Guru](https://www.xdguru.com/) - Adobe XD Resources, UI kits & Templates
 - [Sketch repo](https://sketchrepo.com/) - Sketch templates and Sketch resources for your next design project. Free, high quality icons, mockups, and UI kits for Sketch App.
 - [Free design resources](https://freedesignresources.net/) - Daily Freebies for Creatives
+- [Free CSS](https://www.free-css.com/) - Free CSS has 3552 free website templates
 
 
 ## Shape makers
@@ -180,6 +181,8 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Am i responsive](https://ui.dev/amiresponsive) - Show off how responsive design looks across different browsers easily with this 4 in 1 viewport tool
 - [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
 - [Clean mock](https://cleanmock.com/) - Mockup your website and design simply and beautifully.
+- [Really good emails](https://reallygoodemails.com/) - With over 12,000 curated emails and counting, discover the best examples to help build your next campaign. Get inspiration and join millions of marketers.
+- [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
 
 
 ## learning
@@ -209,19 +212,10 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
 - [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [HTTP Dog](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
+- [Get station](https://getstation.com/) - Station unifies all your work tools in one neat and productive interface.
 
 
 ---
-
-- [Free CSS](https://www.free-css.com/) - Free CSS has 3552 free website templates
-
-- [Really good emails](https://reallygoodemails.com/) - With over 12,000 curated emails and counting, discover the best examples to help build your next campaign. Get inspiration and join millions of marketers.
-
-- [Color slurp](https://colorslurp.com/) - Pick, edit, and copy colors with the best color picker for Mac and iOS!
-
-- [Get station](https://getstation.com/) - Station unifies all your work tools in one neat and productive interface.
-
-- [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
 
 
 ## icons
