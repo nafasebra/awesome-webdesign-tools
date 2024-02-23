@@ -32,7 +32,7 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 
 ## Icons
-- [Heroicons (dev vertion)](https://heroicons.dev/) - Heroicons is a collection of MIT open source interface icons for web and app development.
+- [Heroicons (dev version)](https://heroicons.dev/) - Heroicons is a collection of MIT open source interface icons for web and app development.
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS (like previos website)
 - [Iconfinder](https://www.iconfinder.com) - Iconfinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format.
 - [Tabler Icons](https://tablericons.com/) - 800+ Highly customizable & free SVG icons
