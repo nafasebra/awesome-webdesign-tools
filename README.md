@@ -222,4 +222,4 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 
 ---
 
-The list will be to update. enjoy to use ❤️
+Heads up, this list will grow over time! Have fun using it! ❤️✌️
