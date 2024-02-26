@@ -188,6 +188,7 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Clean mock](https://cleanmock.com/) - Mockup your website and design simply and beautifully.
 - [Really good emails](https://reallygoodemails.com/) - With over 12,000 curated emails and counting, discover the best examples to help build your next campaign. Get inspiration and join millions of marketers.
 - [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
+- [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Automatically generate a fully functional web app manifest along with size-optimized icons for your PWA.
 
 
 ## learning
