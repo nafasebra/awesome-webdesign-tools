@@ -190,6 +190,7 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Automatically generate a fully functional web app manifest along with size-optimized icons for your PWA.
 - [Free Sound Effects](https://www.zapsplat.com/) - 150,000+ professionally recorded SFX. Free sound effects downloads for your creative projects.
+- [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
 
 
 ## learning
