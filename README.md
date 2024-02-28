@@ -188,6 +188,9 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Clean mock](https://cleanmock.com/) - Mockup your website and design simply and beautifully.
 - [Really good emails](https://reallygoodemails.com/) - With over 12,000 curated emails and counting, discover the best examples to help build your next campaign. Get inspiration and join millions of marketers.
 - [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
+- [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Automatically generate a fully functional web app manifest along with size-optimized icons for your PWA.
+- [Free Sound Effects](https://www.zapsplat.com/) - 150,000+ professionally recorded SFX. Free sound effects downloads for your creative projects.
+- [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
 
 
 ## learning
@@ -208,6 +211,9 @@ Before you contribute, read `contributing.md` file for guidelines and expectatio
 - [Fun javascript projects](https://fun-javascript-projects.com/) - A FREE series of fun JavaScript, HTML & CSS projects.
 - [1LOC](https://phuoc.ng/collection/1-loc/) - Top JavaScript utilities, in just One Line of Code!
 - [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
+- [devhints](https://devhints.io/) - A collection of cheatsheets.
+- [Flex](https://flexbox.malven.co/) - cheatsheets of flex-box.
+- [Grid](https://grid.malven.co/) - cheatsheets of grid.
 
 
 ## Good for you
