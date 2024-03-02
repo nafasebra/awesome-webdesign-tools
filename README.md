@@ -2,7 +2,7 @@
     🎊 awesome-webdesign-tools
 </h1>
 <p style="text-align: center;">
-    Unleash Your Web Dev Potential: Awesome Tools You'll 💎 there is an awesome list of tools for Web developers such as wesites, libraries and etc. enjoy ❤️✌️
+    Unleash Your Web Dev Potential: Awesome Tools You'll 💎 there is an awesome list of tools for Web developers such as websites, libraries and etc. enjoy ❤️✌️
 </p>
 
 ---
