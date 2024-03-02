@@ -9,8 +9,6 @@
 
 ## Contributions
 
-Before you contribute, read `contributing.md` file for guidelines and expectations.
-
 1. Fork this repository.
 2. Add your idea or fix, following the contribution guidelines.
 3. Submit a Pull Request (PR).
