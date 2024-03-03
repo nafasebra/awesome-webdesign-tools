@@ -112,6 +112,7 @@
 - [Free design resources](https://freedesignresources.net/) - Daily Freebies for Creatives
 - [Free CSS](https://www.free-css.com/) - Free CSS has 3552 free website templates
 - [cssbuttons](https://cssbuttons.app/) - Button collection with a focus on simplicity and ease of use.
+- [Checkboxes examples](https://getcssscan.com/css-checkboxes-examples) - A list of Beautiful CSS checkboxes examples.
 
 
 ## Shape makers
