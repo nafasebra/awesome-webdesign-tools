@@ -82,6 +82,8 @@
 - [Bada55](http://bada55.io/) - Looking for a BADA55 hex color words for your css code? Come here now!
 - [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
 - [Color slurp](https://colorslurp.com/) - Pick, edit, and copy colors with the best color picker for Mac and iOS!
+- [WebGradients](https://webgradients.com/) - WebGradients is a free collection of 180 linear gradients that you can use as
+  content backdrops in any part of your website.
 
 
 ## Designs
