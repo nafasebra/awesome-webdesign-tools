@@ -189,6 +189,7 @@
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Automatically generate a fully functional web app manifest along with size-optimized icons for your PWA.
 - [Free Sound Effects](https://www.zapsplat.com/) - 150,000+ professionally recorded SFX. Free sound effects downloads for your creative projects.
 - [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
+- [Haikei](https://app.haikei.app/) - Generate unique SVG design assets
 
 
 ## learning
