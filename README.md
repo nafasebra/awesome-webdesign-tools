@@ -64,6 +64,7 @@
 - [SVG Artista](https://svgartista.net/) - SVG Artista is a free tool that helps you easily create amazing SVG drawing animations by animating stroke and fill properties of your SVG graphics.
 - [Shape so](https://shape.so/) - 36000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.
 - [Imgur](https://imgur.com/) - Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more.
+- [svgrepo](https://www.svgrepo.com/) - 500.000+ Open-licensed SVG Vector and Icons
 
 
 ## Colors
