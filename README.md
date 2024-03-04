@@ -64,6 +64,8 @@
 - [SVG Artista](https://svgartista.net/) - SVG Artista is a free tool that helps you easily create amazing SVG drawing animations by animating stroke and fill properties of your SVG graphics.
 - [Shape so](https://shape.so/) - 36000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.
 - [Imgur](https://imgur.com/) - Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more.
+- [svgrepo](https://www.svgrepo.com/) - 500.000+ Open-licensed SVG Vector and Icons
+- [svgicons](https://svgicons.sparkk.fr/) - Ready to use SVG icons for the web
 
 
 ## Colors
@@ -81,6 +83,8 @@
 - [Bada55](http://bada55.io/) - Looking for a BADA55 hex color words for your css code? Come here now!
 - [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
 - [Color slurp](https://colorslurp.com/) - Pick, edit, and copy colors with the best color picker for Mac and iOS!
+- [WebGradients](https://webgradients.com/) - WebGradients is a free collection of 180 linear gradients that you can use as
+  content backdrops in any part of your website.
 
 
 ## Designs
@@ -107,6 +111,8 @@
 - [Sketch repo](https://sketchrepo.com/) - Sketch templates and Sketch resources for your next design project. Free, high quality icons, mockups, and UI kits for Sketch App.
 - [Free design resources](https://freedesignresources.net/) - Daily Freebies for Creatives
 - [Free CSS](https://www.free-css.com/) - Free CSS has 3552 free website templates
+- [cssbuttons](https://cssbuttons.app/) - Button collection with a focus on simplicity and ease of use.
+- [Checkboxes examples](https://getcssscan.com/css-checkboxes-examples) - A list of Beautiful CSS checkboxes examples.
 
 
 ## Shape makers
@@ -189,6 +195,7 @@
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Automatically generate a fully functional web app manifest along with size-optimized icons for your PWA.
 - [Free Sound Effects](https://www.zapsplat.com/) - 150,000+ professionally recorded SFX. Free sound effects downloads for your creative projects.
 - [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
+- [Haikei](https://app.haikei.app/) - Generate unique SVG design assets
 
 
 ## learning
