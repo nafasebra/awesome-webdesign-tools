@@ -27,6 +27,7 @@
 - [Utils](#utils)
 - [Learning](#learning)
 - [Good for you :)](#good-for-you)
+- [AI tools](#ai)
 
 
 ## Icons
@@ -175,7 +176,6 @@
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
 - [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
-- [Image editor with AI](https://hotpot.ai/) - Hotpot helps you create amazing images, graphics, and writing with AI. Visualize ideas with AI Image Generator, reimagine yourself with AI Headshots, or spark creativity with other products from our AI platform.
 - [Keycode info](https://www.toptal.com/developers/keycode) - KeyCode.Info allows users to press any key and instantly get the JavaScript Key or Key Code KeyboardEvent. Check out the Tool and Event List.
 - [Unused CSS](https://unused-css.com/) - UnusedCSS is an online tool to remove unused CSS rules. It will check your pages, find unused CSS and let you download a clean CSS file.
 - [JSON Check](https://jsoncrack.com/editor) - Visualize your JSON code
@@ -191,10 +191,8 @@
 - [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
 - [Clean mock](https://cleanmock.com/) - Mockup your website and design simply and beautifully.
 - [Really good emails](https://reallygoodemails.com/) - With over 12,000 curated emails and counting, discover the best examples to help build your next campaign. Get inspiration and join millions of marketers.
-- [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Automatically generate a fully functional web app manifest along with size-optimized icons for your PWA.
 - [Free Sound Effects](https://www.zapsplat.com/) - 150,000+ professionally recorded SFX. Free sound effects downloads for your creative projects.
-- [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
 - [Haikei](https://app.haikei.app/) - Generate unique SVG design assets
 
 
@@ -229,6 +227,12 @@
 - [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [HTTP Dog](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
 - [Get station](https://getstation.com/) - Station unifies all your work tools in one neat and productive interface.
+
+
+## AI
+- [Image editor with AI](https://hotpot.ai/) - Hotpot helps you create amazing images, graphics, and writing with AI. Visualize ideas with AI Image Generator, reimagine yourself with AI Headshots, or spark creativity with other products from our AI platform.
+- [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
+- [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
 
 
 ---
