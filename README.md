@@ -14,7 +14,6 @@
 3. Submit a Pull Request (PR).
 4. Report any issues you find by opening a new issue.
 
-
 ## Table of contents
 
 - [Icons](#icons)
@@ -29,8 +28,8 @@
 - [Good for you :)](#good-for-you)
 - [AI tools](#ai)
 
-
 ## Icons
+
 - [Heroicons (dev version)](https://heroicons.dev/) - Heroicons is a collection of MIT open source interface icons for web and app development.
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS (like previos website)
 - [Iconfinder](https://www.iconfinder.com) - Iconfinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format.
@@ -56,10 +55,10 @@
 - [ICONSVG](https://iconsvg.xyz/) - Simple tool to find, customize and generate common SVG icons for your project
 - [Tilda](https://tilda.cc/free-icons/) - Download free icons for landing pages. More than 400 vector icons, collected in 27 sets for business.
 - [Flaticons](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects. Images made by and for designers in PNG, SVG, EPS, PSD and CSS formats
-- [Streamline icons](https://www.streamlinehq.com/) - 177,289 Streamline icons in line, regular, bold, colors, freehand, cyber, and more styles. Download the largest icons sets of the world in one place. 
+- [Streamline icons](https://www.streamlinehq.com/) - 177,289 Streamline icons in line, regular, bold, colors, freehand, cyber, and more styles. Download the largest icons sets of the world in one place.
 - [Ikonate](https://ikonate.com/) - Customise, adjust and download free vector icons.
 - [Stick PNG](https://stickpng.com/) - StickPNG is a vibrant community of creative people sharing transparent PNG images which you can download for free and use in your personal non-commercial or educational projects.
-- [Free PNG IMG](https://freepngimg.com/) - Download free PNG images, pictures and cliparts with transparent background in best resolution and  high quality(HQ) and icons. Available for Mobile, Dual Monitors, HD, Fullscreen and Widescreen.
+- [Free PNG IMG](https://freepngimg.com/) - Download free PNG images, pictures and cliparts with transparent background in best resolution and high quality(HQ) and icons. Available for Mobile, Dual Monitors, HD, Fullscreen and Widescreen.
 - [PNG Tree](https://pngtree.com/) - Pngtree provides free download of png, png images, backgrounds and vector. Millions of high quality free png images, PSD, AI and EPS Files are available.
 - [Fav PNG](https://favpng.com/) - Free Transparent PNG Images. Our database contains more than 16 million free transparent PNG files.
 - [SVG Artista](https://svgartista.net/) - SVG Artista is a free tool that helps you easily create amazing SVG drawing animations by animating stroke and fill properties of your SVG graphics.
@@ -67,9 +66,12 @@
 - [Imgur](https://imgur.com/) - Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more.
 - [svgrepo](https://www.svgrepo.com/) - 500.000+ Open-licensed SVG Vector and Icons
 - [svgicons](https://svgicons.sparkk.fr/) - Ready to use SVG icons for the web
-
+- [Fave Icon Generator](https://favicon.io/) - creating a favicon should be a simple process. No other favicon generator or favicon creator can make a well designed favicon from text.
+- [Boxicon](https://boxicons.com/) - High Quality Web Icons Simple Open Source icons carefully crafted for designers & developers.
+- [Fontawesome](https://fontawesome.com/search) - Font Awesome is the internet's icon library and toolkit used by millions of designers, developers, and content creators.
 
 ## Colors
+
 - [CSS gradient](https://cssgradient.io/) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
 - [Gradient magic](https://www.gradientmagic.com/) - A Free Gallery of Fantastic and Unique CSS Gradients.
 - [Parametric color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - A color palette composer inspired by audio parametric equalizers. Create beautiful color palettes with a scientific precision.
@@ -87,8 +89,8 @@
 - [WebGradients](https://webgradients.com/) - WebGradients is a free collection of 180 linear gradients that you can use as
   content backdrops in any part of your website.
 
-
 ## Designs
+
 - [List of UI components for your projects](https://uiverse.io/) - Library of free and customizable UI elements made with CSS or Tailwind. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.
 - [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.
 - [Component gallery](https://component.gallery/components/accordion/) - A list of components
@@ -102,7 +104,7 @@
 - [Coderops](https://tympanus.net/codrops/) - Codrops is a destination for web design and development enthusiasts.
 - [Codepen](https://codepen.io/)
 - [Free frontend](https://freefrontend.com/) - Free hand-picked code examples, tutorials and articles.
-- [Code my UI](https://codemyui.com/) - Handpicked collection of Web Design & UI Inspiration with Code Snippets. 
+- [Code my UI](https://codemyui.com/) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
 - [UI Faces](https://uifaces.co/) - get example profile images
 - [CSS buttons example](https://getcssscan.com/css-buttons-examples) - A list of awesome buttons for using them.
 - [UI Store design](https://www.uistore.design/) - 656 Free Handpicked UI Kits for your real life projects
@@ -115,9 +117,9 @@
 - [cssbuttons](https://cssbuttons.app/) - Button collection with a focus on simplicity and ease of use.
 - [Checkboxes examples](https://getcssscan.com/css-checkboxes-examples) - A list of Beautiful CSS checkboxes examples.
 
-
 ## Shape makers
-- [CSS Cliper](https://bennettfeely.com/clippy/) - Make shape with `clip` CSS property  
+
+- [CSS Cliper](https://bennettfeely.com/clippy/) - Make shape with `clip` CSS property
 - [blobmaker](https://www.blobmaker.app/) - for create curve shapes
 - [Get waves](https://getwaves.io/) - Create SVG waves
 - [Get image of specialy map](https://openlayers.org/en/latest/examples/accessible.html) - for get placeholder map image
@@ -141,8 +143,8 @@
 - [Wait animate](https://waitanimate.wstone.uk/) - Wait animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
 - [argyleink/transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS transitions
 
-
 ## Fonts
+
 - [Font Converter](https://www.fontconverter.io/en) - Convert font file to any type
 - [Gliphter](https://glyphter.com/) - Create icon fonts in seconds! Just drag & drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!
 - [Typescale](https://typescale.com/) - Create stunning typography, generate CSS, and find inspiration.
@@ -152,9 +154,10 @@
 - [Abstract fonts](https://www.abstractfonts.com/) - Download more than 10,000 free fonts hassle free, desktop and mobile optimized, around for more than 20 years. Categories, popular, designers, optional web font download and links to similar fonts.
 - [1001 fonts](https://www.1001fonts.com/) - 56932 free fonts in 32193 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux
 - [Fontsly](https://fontsly.com/) - Big collection of Free Fonts for Download. Browse fonts by style, by type, by alphabet, by author or by popularity. Everyday updates!
-
+- [1Fonts by AliMD](http://alimd.github.io/1fonts/demo/) - Good Collection of Farsi(Persian)/Arabic Fonts to use on the web . made by iranian to use in easy way.
 
 ## Layouts
+
 - [Grid garden](https://cssgridgarden.com/) - A game for learning CSS grid layout
 - [Flexbox froggy](https://flexboxfroggy.com/) - A game for learning CSS flexbox
 - [Box sizing generator](https://codepen.io/carolineartz/full/ogVXZj) - Visualize the box-model and see how changing the value of box-sizing affects element size.
@@ -163,6 +166,7 @@
 - [Layout generator](https://layout.bradwoods.io/) - A CSS Grid generator & CSS Flexbox generator. A tool for generating UI layout component code.
 
 ## CSS loaders
+
 - [CSS loading animations](https://www.html-code-generator.com/css/loading-animation-generator) - CSS loading circle and create online CSS Loading effect animations.
 - [Spinner kit](https://tobiasahlin.com/spinkit/) - Simple CSS Spinners
 - [whirl - CSS loading](https://whirl.netlify.app/) - CSS loadings
@@ -170,8 +174,8 @@
 - [Pure CSS loader](https://loading.io/css/) - 12 CSS spinners with CSS animation optimized in size, speed and dev-friendly for your next web project
 - [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
 
-
 ## Utils
+
 - [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
@@ -195,8 +199,8 @@
 - [Free Sound Effects](https://www.zapsplat.com/) - 150,000+ professionally recorded SFX. Free sound effects downloads for your creative projects.
 - [Haikei](https://app.haikei.app/) - Generate unique SVG design assets
 
-
 ## learning
+
 - [30 seconds of code](https://www.30secondsofcode.org/) - Discover short code snippets for all your development needs.
 - [CSS reference](https://cssreference.io/) - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 - [HTML reference](https://htmlreference.io/) - A free guide to all HTML elements and attributes.
@@ -216,24 +220,27 @@
 - [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
 - [devhints](https://devhints.io/) - A collection of cheatsheets.
 - [Flex](https://flexbox.malven.co/) - cheatsheets of flex-box.
+- [FlexBox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code!
 - [Grid](https://grid.malven.co/) - cheatsheets of grid.
-
+- [Grid Garden](https://cssgridgarden.com/) - Grid Garden, where you write CSS code to grow your carrot garden!
+- [Git](https://www.w3schools.com/git/) - Good and simple Git tutorial for begginer for free made by w3schools.
 
 ## Good for you
+
 - [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
 - [prioritize your tasks](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
 - [Pomofocus](https://pomofocus.io/) - A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study, writing, or coding.
-- [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy 
+- [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy
 - [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [HTTP Dog](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
 - [Get station](https://getstation.com/) - Station unifies all your work tools in one neat and productive interface.
 
-
 ## AI
+
 - [Image editor with AI](https://hotpot.ai/) - Hotpot helps you create amazing images, graphics, and writing with AI. Visualize ideas with AI Image Generator, reimagine yourself with AI Headshots, or spark creativity with other products from our AI platform.
 - [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
 - [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
-
+- [Rix](https://hashnode.com/rix) - ChatBot for solving your programming bugs. Rix is still under beta and may make inaccurate statements.
 
 ---
 
