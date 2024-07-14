@@ -10,9 +10,8 @@
 ## Contributions
 
 1. Fork this repository.
-2. Add your idea or fix, following the contribution guidelines.
-3. Submit a Pull Request (PR).
-4. Report any issues you find by opening a new issue.
+2. Submit a Pull Request (PR).
+3. Report any issues you find by opening a new issue.
 
 ## Table of contents
 
@@ -244,4 +243,4 @@
 
 ---
 
-Heads up, this list will grow over time! Have fun using it! ❤️✌️
+The list will grow over time! Have fun using it! ❤️✌️
