@@ -87,6 +87,7 @@
 - [Color slurp](https://colorslurp.com/) - Pick, edit, and copy colors with the best color picker for Mac and iOS!
 - [WebGradients](https://webgradients.com/) - WebGradients is a free collection of 180 linear gradients that you can use as
   content backdrops in any part of your website.
+- [InclusiveColors accessible UI palette creator](https://www.inclusivecolors.com/) - Create accessible Tailwind-style UI color palettes, with WCAG/APCA contrast checks, live previews on a mockup and CSS/Figma/Adobe export.
 
 ## Designs
 
