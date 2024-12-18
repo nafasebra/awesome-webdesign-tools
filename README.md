@@ -238,7 +238,9 @@
 
 ## Components UI
 
-- [UI aceternity](https://ui.aceternity.com/) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
+- [UI aceternity](https://ui.aceternity.com/) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations. (Mostly with tailwindCSS)
+- [magic UI](https://magicui.design/) - 50+ free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. Perfect companion for shadcn/ui.
+- [Universe](https://uiverse.io/) - Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.
 
 
 ## AI
