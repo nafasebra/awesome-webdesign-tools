@@ -25,6 +25,7 @@
 - [Utils](#utils)
 - [Learning](#learning)
 - [Good for you :)](#good-for-you)
+- [Components](#components)
 - [AI tools](#ai)
 
 ## Icons
@@ -234,6 +235,11 @@
 - [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [HTTP Dog](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
 - [Get station](https://getstation.com/) - Station unifies all your work tools in one neat and productive interface.
+
+## Components UI
+
+- [UI aceternity](https://ui.aceternity.com/) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
+
 
 ## AI
 
