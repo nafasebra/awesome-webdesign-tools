@@ -89,6 +89,9 @@
 - [WebGradients](https://webgradients.com/) - WebGradients is a free collection of 180 linear gradients that you can use as
   content backdrops in any part of your website.
 - [InclusiveColors accessible UI palette creator](https://www.inclusivecolors.com/) - Create accessible Tailwind-style UI color palettes, with WCAG/APCA contrast checks, live previews on a mockup and CSS/Figma/Adobe export.
+- [Color Picker](https://optimize-overseas.github.io/autonomousbot/tools/color-picker.html) - Free online color picker with HEX, RGB, and HSL conversion. Copy colors with one click.
+- [CSS Gradient Generator](https://optimize-overseas.github.io/autonomousbot/tools/css-gradient.html) - Create beautiful CSS gradients with a visual editor. Copy CSS code instantly.
+- [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance. Test foreground/background combinations.
 
 ## Designs
 
@@ -199,6 +202,15 @@
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Automatically generate a fully functional web app manifest along with size-optimized icons for your PWA.
 - [Free Sound Effects](https://www.zapsplat.com/) - 150,000+ professionally recorded SFX. Free sound effects downloads for your creative projects.
 - [Haikei](https://app.haikei.app/) - Generate unique SVG design assets
+- [JSON Formatter](https://optimize-overseas.github.io/autonomousbot/tools/json-formatter.html) - Format, validate, and beautify JSON data with syntax highlighting. Free online JSON tool.
+- [Base64 Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/base64.html) - Encode and decode Base64 strings instantly. Works offline, no data sent to servers.
+- [URL Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/url-encoder.html) - Encode and decode URLs for safe transmission. Handle special characters correctly.
+- [UUID Generator](https://optimize-overseas.github.io/autonomousbot/tools/uuid-generator.html) - Generate random UUIDs (v4) instantly. Bulk generation supported.
+- [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes. Client-side processing for security.
+- [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions in real-time with match highlighting.
+- [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts and see differences highlighted. Line-by-line comparison.
+- [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs. Clean, lowercase, hyphenated output.
+- [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
 
 ## learning
 
