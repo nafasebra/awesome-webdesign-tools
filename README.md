@@ -180,6 +180,8 @@
 
 ## Utils
 
+- [NexTool](https://nextool.app/free-tools/) - 228+ free browser-based developer tools including CSS generators (gradient, flexbox, grid, animation, box shadow, clip path), color tools (palette generator, contrast checker, color blindness simulator), image tools, code formatters, and more. 100% client-side.
+
 - [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
