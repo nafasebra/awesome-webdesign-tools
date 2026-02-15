@@ -230,6 +230,7 @@
 - [Devdocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers.
 - [Fun javascript projects](https://fun-javascript-projects.com/) - A FREE series of fun JavaScript, HTML & CSS projects.
 - [1LOC](https://phuoc.ng/collection/1-loc/) - Top JavaScript utilities, in just One Line of Code!
+- [ToolArks](https://toolarks.com) - Modern, privacy-first online toolbox. Features smart, ad-free utilities like image compression and JSON formatting—all processed 100% locally in your browser.
 - [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
 - [devhints](https://devhints.io/) - A collection of cheatsheets.
 - [Flex](https://flexbox.malven.co/) - cheatsheets of flex-box.
