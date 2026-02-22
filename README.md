@@ -90,7 +90,9 @@
   content backdrops in any part of your website.
 - [InclusiveColors accessible UI palette creator](https://www.inclusivecolors.com/) - Create accessible Tailwind-style UI color palettes, with WCAG/APCA contrast checks, live previews on a mockup and CSS/Figma/Adobe export.
 - [Color Picker](https://optimize-overseas.github.io/autonomousbot/tools/color-picker.html) - Free online color picker with HEX, RGB, and HSL conversion. Copy colors with one click.
+- [Color Forge](https://ryudi84.github.io/sovereign-tools/tools/color_forge/) - Generate and explore color palettes with CSS export. Free, no signup required.
 - [CSS Gradient Generator](https://optimize-overseas.github.io/autonomousbot/tools/css-gradient.html) - Create beautiful CSS gradients with a visual editor. Copy CSS code instantly.
+- [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output. Free, no signup required.
 - [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance. Test foreground/background combinations.
 
 ## Designs
@@ -129,6 +131,7 @@
 - [Get image of specialy map](https://openlayers.org/en/latest/examples/accessible.html) - for get placeholder map image
 - [Create neomorphism box](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
 - [Make soft box shadows](https://shadows.brumm.af/) - Make a smooth css shadow
+- [Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder. Free, no signup required.
 - [Fancy border radius](https://9elements.github.io/fancy-border-radius/) - Generator to build organic shapes with CSS3 border-radius
 - [Make Glow Shadow on CSS](https://cssbud.com/css-generator/css-glow-generator/) - https://cssbud.com/css-generator/css-glow-generator/
 - [Make tiny neomorphism boxes](https://hype4.academy/tools/glassmorphism-generator) - Glassmorphism is a unified name for the popular Frosted Glass aesthetic.
