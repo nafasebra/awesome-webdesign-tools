@@ -97,7 +97,7 @@
 
 ## Designs
 
-- [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free all-in-one website health scanner that audits your web designs for SEO, performance, accessibility, and best practices. AI-powered reports help ensure your designs meet modern web standards. No signup required.
+- [PageGuard](https://pageguard.org) - Free all-in-one website health scanner that audits your web designs for SEO, performance, accessibility, and best practices. AI-powered reports help ensure your designs meet modern web standards. No signup required.
 
 - [List of UI components for your projects](https://uiverse.io/) - Library of free and customizable UI elements made with CSS or Tailwind. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.
 - [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.
