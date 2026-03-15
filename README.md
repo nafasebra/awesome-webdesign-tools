@@ -218,6 +218,7 @@
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts and see differences highlighted. Line-by-line comparison.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs. Clean, lowercase, hyphenated output.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
+- [Pixelate Image](https://www.pixelateimage.co/) - Pixelate Your Images Instantly
 
 ## learning
 
