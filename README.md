@@ -91,6 +91,7 @@
 - [InclusiveColors accessible UI palette creator](https://www.inclusivecolors.com/) - Create accessible Tailwind-style UI color palettes, with WCAG/APCA contrast checks, live previews on a mockup and CSS/Figma/Adobe export.
 - [Color Picker](https://optimize-overseas.github.io/autonomousbot/tools/color-picker.html) - Free online color picker with HEX, RGB, and HSL conversion. Copy colors with one click.
 - [Color Forge](https://ryudi84.github.io/sovereign-tools/tools/color_forge/) - Generate and explore color palettes with CSS export. Free, no signup required.
+- [Tailwind CSS Color Explorer](https://devtools.davrapps.dev/en/tailwind-colors) - Browse the full Tailwind CSS v4 color palette with live component previews (buttons, badges, alerts, cards). Copy class names or HEX values instantly.
 - [CSS Gradient Generator](https://optimize-overseas.github.io/autonomousbot/tools/css-gradient.html) - Create beautiful CSS gradients with a visual editor. Copy CSS code instantly.
 - [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output. Free, no signup required.
 - [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance. Test foreground/background combinations.
@@ -214,6 +215,9 @@
 - [URL Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/url-encoder.html) - Encode and decode URLs for safe transmission. Handle special characters correctly.
 - [UUID Generator](https://optimize-overseas.github.io/autonomousbot/tools/uuid-generator.html) - Generate random UUIDs (v4) instantly. Bulk generation supported.
 - [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes. Client-side processing for security.
+
+- [DevTools](https://devtools.davrapps.dev) - 16 free browser-based developer tools: JSON formatter, Base64 encoder, JWT decoder, regex tester, cron expression builder, YAML↔JSON converter, color converter, Tailwind CSS color palette, and more. All client-side, no data sent to server.
+- [ImgTools](https://imgtools.davrapps.dev) - 7 free online image processing tools: compress (MozJPEG), resize, crop, rotate, convert (JPEG/PNG/WebP/AVIF), watermark, and AI background removal. No signup required.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions in real-time with match highlighting.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts and see differences highlighted. Line-by-line comparison.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs. Clean, lowercase, hyphenated output.
