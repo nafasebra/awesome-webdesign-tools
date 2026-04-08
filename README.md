@@ -94,6 +94,7 @@
 - [CSS Gradient Generator](https://optimize-overseas.github.io/autonomousbot/tools/css-gradient.html) - Create beautiful CSS gradients with a visual editor. Copy CSS code instantly.
 - [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output. Free, no signup required.
 - [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance. Test foreground/background combinations.
+- [gen8x](https://gen8x.com/) - Generate harmonious color palettes with WCAG contrast checks and export as CSS variables, Tailwind config, SCSS, or JSON. Free, client-side, no signup.
 
 ## Designs
 
