@@ -91,13 +91,15 @@
 - [InclusiveColors accessible UI palette creator](https://www.inclusivecolors.com/) - Create accessible Tailwind-style UI color palettes, with WCAG/APCA contrast checks, live previews on a mockup and CSS/Figma/Adobe export.
 - [Color Picker](https://optimize-overseas.github.io/autonomousbot/tools/color-picker.html) - Free online color picker with HEX, RGB, and HSL conversion. Copy colors with one click.
 - [Color Forge](https://ryudi84.github.io/sovereign-tools/tools/color_forge/) - Generate and explore color palettes with CSS export. Free, no signup required.
+- [Tailwind CSS Color Explorer](https://devtools.davrapps.dev/en/tailwind-colors) - Browse the full Tailwind CSS v4 color palette with live component previews (buttons, badges, alerts, cards). Copy class names or HEX values instantly.
 - [CSS Gradient Generator](https://optimize-overseas.github.io/autonomousbot/tools/css-gradient.html) - Create beautiful CSS gradients with a visual editor. Copy CSS code instantly.
 - [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output. Free, no signup required.
 - [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance. Test foreground/background combinations.
+- [gen8x](https://gen8x.com/) - Generate harmonious color palettes with WCAG contrast checks and export as CSS variables, Tailwind config, SCSS, or JSON. Free, client-side, no signup.
 
 ## Designs
 
-- [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free all-in-one website health scanner that audits your web designs for SEO, performance, accessibility, and best practices. AI-powered reports help ensure your designs meet modern web standards. No signup required.
+- [PageGuard](https://pageguard.org) - Free all-in-one website health scanner that audits your web designs for SEO, performance, accessibility, and best practices. AI-powered reports help ensure your designs meet modern web standards. No signup required.
 
 - [List of UI components for your projects](https://uiverse.io/) - Library of free and customizable UI elements made with CSS or Tailwind. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.
 - [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.
@@ -185,10 +187,12 @@
 
 ## Utils
 
+- [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers: invoice generator, time tracker, Pomodoro timer, QR code maker, URL shortener, UTM builder, rate calculator, and more. No signup required.
 - [NexTool](https://nextool.app/free-tools/) - 228+ free browser-based developer tools including CSS generators (gradient, flexbox, grid, animation, box shadow, clip path), color tools (palette generator, contrast checker, color blindness simulator), image tools, code formatters, and more. 100% client-side.
 
 - [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
+- [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Free online tool to rotate portrait or sideways photos to landscape orientation. 100% browser-based, no upload required.
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
 - [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
 - [Keycode info](https://www.toptal.com/developers/keycode) - KeyCode.Info allows users to press any key and instantly get the JavaScript Key or Key Code KeyboardEvent. Check out the Tool and Event List.
@@ -214,11 +218,15 @@
 - [URL Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/url-encoder.html) - Encode and decode URLs for safe transmission. Handle special characters correctly.
 - [UUID Generator](https://optimize-overseas.github.io/autonomousbot/tools/uuid-generator.html) - Generate random UUIDs (v4) instantly. Bulk generation supported.
 - [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes. Client-side processing for security.
+
+- [DevTools](https://devtools.davrapps.dev) - 16 free browser-based developer tools: JSON formatter, Base64 encoder, JWT decoder, regex tester, cron expression builder, YAML↔JSON converter, color converter, Tailwind CSS color palette, and more. All client-side, no data sent to server.
+- [ImgTools](https://imgtools.davrapps.dev) - 7 free online image processing tools: compress (MozJPEG), resize, crop, rotate, convert (JPEG/PNG/WebP/AVIF), watermark, and AI background removal. No signup required.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions in real-time with match highlighting.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts and see differences highlighted. Line-by-line comparison.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs. Clean, lowercase, hyphenated output.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate Your Images Instantly
+- [ToolSparkr](https://toolsparkr.com) - Collection of 35+ free online developer tools — JSON formatter, URL encoder, password generator, Base64 encoder, hash generators, QR code generator, DNS lookup, and more. No signup, runs in browser.
 
 ## learning
 
