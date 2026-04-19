@@ -189,6 +189,7 @@
 
 - [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
+- [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Free online tool to rotate portrait or sideways photos to landscape orientation. 100% browser-based, no upload required.
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
 - [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
 - [Keycode info](https://www.toptal.com/developers/keycode) - KeyCode.Info allows users to press any key and instantly get the JavaScript Key or Key Code KeyboardEvent. Check out the Tool and Event List.
