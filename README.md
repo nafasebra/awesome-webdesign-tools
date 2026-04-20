@@ -223,6 +223,10 @@
 - [DevTools](https://devtools.davrapps.dev) - 16 free browser-based developer tools: JSON formatter, Base64 encoder, JWT decoder, regex tester, cron expression builder, YAML↔JSON converter, color converter, Tailwind CSS color palette, and more. All client-side, no data sent to server.
 - [ImgTools](https://imgtools.davrapps.dev) - 7 free online image processing tools: compress (MozJPEG), resize, crop, rotate, convert (JPEG/PNG/WebP/AVIF), watermark, and AI background removal. No signup required.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions in real-time with match highlighting.
+- [CronExplain](https://genesisaiservices.github.io/cronexplain/) - Paste any cron expression and get an instant plain-English explanation. Free, no signup, 100% client-side.
+- [JSON2TS](https://genesisaiservices.github.io/json2ts/) - Paste JSON and get TypeScript interface definitions instantly. Handles nested objects, arrays, and optional fields. Free, no signup, 100% client-side.
+- [RegExplain](https://genesisaiservices.github.io/regexplain/) - Paste any regex pattern and get a plain-English explanation of what it matches. Free, no signup, 100% client-side.
+- [BashExplain](https://genesisaiservices.github.io/bashexplain/) - Paste any bash command and get a plain-English explanation of what it does. Free, no signup, 100% client-side.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts and see differences highlighted. Line-by-line comparison.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs. Clean, lowercase, hyphenated output.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
