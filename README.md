@@ -96,6 +96,7 @@
 - [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output. Free, no signup required.
 - [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance. Test foreground/background combinations.
 - [gen8x](https://gen8x.com/) - Generate harmonious color palettes with WCAG contrast checks and export as CSS variables, Tailwind config, SCSS, or JSON. Free, client-side, no signup.
+- [FastTool Design](https://fasttool.app/category/design) - Free browser-based color picker, palette generator, CSS gradient builder, contrast checker, and format converters.
 
 ## Designs
 
