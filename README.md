@@ -279,6 +279,7 @@
 - [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
 - [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
 - [Rix](https://hashnode.com/rix) - ChatBot for solving your programming bugs. Rix is still under beta and may make inaccurate statements.
+- [Image Translate with AI](https://imagetranslateai.org/) - Translate text in images instantly with Image Translate AI. Support 200+ languages, preserve original layout and design. Perfect for e-commerce, documents, menus, comics and more. Try Image Translate AI free today.
 
 ---
 
