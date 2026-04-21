@@ -188,6 +188,8 @@
 
 ## Utils
 
+- [Accessalyze](https://accessalyze.com) - Free WCAG 2.1 AA web accessibility scanner. Detects 80+ violations with AI-generated fix code. No sign-up required.
+
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers: invoice generator, time tracker, Pomodoro timer, QR code maker, URL shortener, UTM builder, rate calculator, and more. No signup required.
 - [NexTool](https://nextool.app/free-tools/) - 228+ free browser-based developer tools including CSS generators (gradient, flexbox, grid, animation, box shadow, clip path), color tools (palette generator, contrast checker, color blindness simulator), image tools, code formatters, and more. 100% client-side.
 
