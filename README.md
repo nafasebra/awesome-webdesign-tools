@@ -189,6 +189,7 @@
 ## Utils
 
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers: invoice generator, time tracker, Pomodoro timer, QR code maker, URL shortener, UTM builder, rate calculator, and more. No signup required.
+- [EncodingBase64 & DecodingBase64](https://encodingbase64.com/) - Free browser-based Base64 encoding and decoding tools for text, files, images, URL-safe Base64, hex, and URL encoding.
 - [NexTool](https://nextool.app/free-tools/) - 228+ free browser-based developer tools including CSS generators (gradient, flexbox, grid, animation, box shadow, clip path), color tools (palette generator, contrast checker, color blindness simulator), image tools, code formatters, and more. 100% client-side.
 
 - [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
