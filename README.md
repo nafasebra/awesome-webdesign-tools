@@ -1,8 +1,8 @@
 <h1 style="text-align: center;">
-    ð awesome-webdesign-tools
+    🎊 awesome-webdesign-tools
 </h1>
 <p style="text-align: center;">
-    Unleash Your Web Dev Potential: Awesome Tools You'll ð there is an awesome list of tools for Web developers such as websites, libraries and etc. enjoy â¤ï¸âï¸
+    Unleash Your Web Dev Potential: Awesome Tools You'll 💎 there is an awesome list of tools for Web developers such as websites, libraries and etc. enjoy ❤️✌️
 </p>
 
 ---
@@ -34,12 +34,12 @@
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS (like previos website)
 - [Iconfinder](https://www.iconfinder.com) - Iconfinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format.
 - [Tabler Icons](https://tablericons.com/) - 800+ Highly customizable & free SVG icons
-- [Icon8](https://icons8.com/) - Download design elements for free: icons, photos, vector illustrations, and music for your videos. All the assets made by designers â consistent quality â¡ï¸
+- [Icon8](https://icons8.com/) - Download design elements for free: icons, photos, vector illustrations, and music for your videos. All the assets made by designers → consistent quality ⚡️
 - [CSS icons](https://css.gg/app) - App for css.gg icons with custom selection for all pure CSS icons
 - [Icons JS](https://icones.js.org/) - A list of awesome icons
 - [3DIcons](https://3dicons.co/) - 1440+ beautifully crafted open-source 3D icons. You can use completely free and without attribution for personal or commercial project
 - [Iconer](https://iconer.app/) - list of many icons
-- [Radix icons](https://www.radix-ui.com/icons) - A crisp set of 15Ã15 icons designed by the WorkOS team.
+- [Radix icons](https://www.radix-ui.com/icons) - A crisp set of 15×15 icons designed by the WorkOS team.
 - [Icon sccut](https://iconscout.com/) - Access 8.2 Million+ free or premium vector icons, illustrations, 3D illustrations, and Lottie animations for any design.
 - [SVG Icons and backgroud](https://www.svgbackgrounds.com/) - SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.
 - [Make face 3d icons](https://peeps.ui8.net/) - Peeps Avatar Builder by UI8.net
@@ -103,7 +103,7 @@
 - [PageGuard](https://pageguard.org) - Free all-in-one website health scanner that audits your web designs for SEO, performance, accessibility, and best practices. AI-powered reports help ensure your designs meet modern web standards. No signup required.
 
 - [List of UI components for your projects](https://uiverse.io/) - Library of free and customizable UI elements made with CSS or Tailwind. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.
-- [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT â 250 components and templates for React, VueJS and Angular.
+- [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.
 - [Component gallery](https://component.gallery/components/accordion/) - A list of components
 - [Design system gallery](https://designsystemsrepo.com/design-systems-recent/) - A list of design systems
 - [Checklist design](https://www.checklist.design/)
@@ -164,7 +164,7 @@
 - [Font squirrel](https://www.fontsquirrel.com/) - Handpicked free fonts for graphic designers with commercial-use licenses.
 - [Font space](https://www.fontspace.com/) - Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.
 - [Abstract fonts](https://www.abstractfonts.com/) - Download more than 10,000 free fonts hassle free, desktop and mobile optimized, around for more than 20 years. Categories, popular, designers, optional web font download and links to similar fonts.
-- [1001 fonts](https://www.1001fonts.com/) - 56932 free fonts in 32193 families Â· Free licenses for commercial use Â· Direct font downloads Â· Mac Â· Windows Â· Linux
+- [1001 fonts](https://www.1001fonts.com/) - 56932 free fonts in 32193 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux
 - [Fontsly](https://fontsly.com/) - Big collection of Free Fonts for Download. Browse fonts by style, by type, by alphabet, by author or by popularity. Everyday updates!
 - [1Fonts by AliMD](http://alimd.github.io/1fonts/demo/) - Good Collection of Farsi(Persian)/Arabic Fonts to use on the web . made by iranian to use in easy way.
 
@@ -187,13 +187,13 @@
 - [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
 
 ## Utils
-- [Remove Audio](https://remove-audio.com) — Free browser-based tool to strip audio from video files. Runs locally via WebAssembly, no uploads, no account. Batch up to 20 clips.
+- [Remove Audio](https://remove-audio.com) - Free browser-based tool to strip audio from video files. Runs locally via WebAssembly, no uploads, no sign-up, batch up to 20 clips.
 
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers: invoice generator, time tracker, Pomodoro timer, QR code maker, URL shortener, UTM builder, rate calculator, and more. No signup required.
 - [EncodingBase64 & DecodingBase64](https://encodingbase64.com/) - Free browser-based Base64 encoding and decoding tools for text, files, images, URL-safe Base64, hex, and URL encoding.
 - [NexTool](https://nextool.app/free-tools/) - 228+ free browser-based developer tools including CSS generators (gradient, flexbox, grid, animation, box shadow, clip path), color tools (palette generator, contrast checker, color blindness simulator), image tools, code formatters, and more. 100% client-side.
 
-- [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website â¨
+- [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
 - [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
 - [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Free online tool to rotate portrait or sideways photos to landscape orientation. 100% browser-based, no upload required.
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
@@ -222,15 +222,15 @@
 - [UUID Generator](https://optimize-overseas.github.io/autonomousbot/tools/uuid-generator.html) - Generate random UUIDs (v4) instantly. Bulk generation supported.
 - [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes. Client-side processing for security.
 
-- [DevTools](https://devtools.davrapps.dev) - 16 free browser-based developer tools: JSON formatter, Base64 encoder, JWT decoder, regex tester, cron expression builder, YAMLâJSON converter, color converter, Tailwind CSS color palette, and more. All client-side, no data sent to server.
+- [DevTools](https://devtools.davrapps.dev) - 16 free browser-based developer tools: JSON formatter, Base64 encoder, JWT decoder, regex tester, cron expression builder, YAML↔JSON converter, color converter, Tailwind CSS color palette, and more. All client-side, no data sent to server.
 - [ImgTools](https://imgtools.davrapps.dev) - 7 free online image processing tools: compress (MozJPEG), resize, crop, rotate, convert (JPEG/PNG/WebP/AVIF), watermark, and AI background removal. No signup required.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions in real-time with match highlighting.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts and see differences highlighted. Line-by-line comparison.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs. Clean, lowercase, hyphenated output.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate Your Images Instantly
-- [ToolSparkr](https://toolsparkr.com) - Collection of 35+ free online developer tools â JSON formatter, URL encoder, password generator, Base64 encoder, hash generators, QR code generator, DNS lookup, and more. No signup, runs in browser.
-- [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, and crop 1,000+ images at once â no upload, no account needed.
+- [ToolSparkr](https://toolsparkr.com) - Collection of 35+ free online developer tools — JSON formatter, URL encoder, password generator, Base64 encoder, hash generators, QR code generator, DNS lookup, and more. No signup, runs in browser.
+- [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, and crop 1,000+ images at once — no upload, no account needed.
 
 ## learning
 
@@ -250,7 +250,7 @@
 - [Devdocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers.
 - [Fun javascript projects](https://fun-javascript-projects.com/) - A FREE series of fun JavaScript, HTML & CSS projects.
 - [1LOC](https://phuoc.ng/collection/1-loc/) - Top JavaScript utilities, in just One Line of Code!
-- [ToolArks](https://toolarks.com) - Modern, privacy-first online toolbox. Features smart, ad-free utilities like image compression and JSON formattingâall processed 100% locally in your browser.
+- [ToolArks](https://toolarks.com) - Modern, privacy-first online toolbox. Features smart, ad-free utilities like image compression and JSON formatting—all processed 100% locally in your browser.
 - [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
 - [devhints](https://devhints.io/) - A collection of cheatsheets.
 - [Flex](https://flexbox.malven.co/) - cheatsheets of flex-box.
@@ -286,4 +286,4 @@
 
 ---
 
-The list will grow over time! Have fun using it! â¤ï¸âï¸
+The list will grow over time! Have fun using it! ❤️✌️
