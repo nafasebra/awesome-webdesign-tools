@@ -187,6 +187,7 @@
 - [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
 
 ## Utils
+- [Remove Audio](https://remove-audio.com) - Free browser-based tool to strip audio from video files. Runs locally via WebAssembly, no uploads, no sign-up, batch up to 20 clips.
 
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers: invoice generator, time tracker, Pomodoro timer, QR code maker, URL shortener, UTM builder, rate calculator, and more. No signup required.
 - [EncodingBase64 & DecodingBase64](https://encodingbase64.com/) - Free browser-based Base64 encoding and decoding tools for text, files, images, URL-safe Base64, hex, and URL encoding.
