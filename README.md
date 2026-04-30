@@ -9,6 +9,10 @@
 
 ## Contributions
 
+- [TinyTools — Color Palette Generator](https://tinytools-smoky.vercel.app/color-palette/) - Generate analogous, complementary, triadic, monochromatic palettes. Export as CSS, Tailwind, JSON.
+- [TinyTools — Favicon Generator](https://tinytools-smoky.vercel.app/favicon-generator/) - Complete favicon set (16/32/48/96/180/192/512 PNGs + manifest.json) from text/emoji/image.
+- [TinyTools — OG Image Generator](https://tinytools-smoky.vercel.app/og-image-generator/) - 1200×630 social cards. 8 templates, 8 themes, pure browser canvas.
+
 1. Fork this repository.
 2. Submit a Pull Request (PR).
 3. Report any issues you find by opening a new issue.
@@ -287,3 +291,4 @@
 ---
 
 The list will grow over time! Have fun using it! ❤️✌️
+
