@@ -198,6 +198,7 @@
 - [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Free online tool to rotate portrait or sideways photos to landscape orientation. 100% browser-based, no upload required.
 - [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
 - [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
+- [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Actual-size browser ruler for measuring on-screen elements in pixels, inches, and centimeters after quick calibration.
 - [Keycode info](https://www.toptal.com/developers/keycode) - KeyCode.Info allows users to press any key and instantly get the JavaScript Key or Key Code KeyboardEvent. Check out the Tool and Event List.
 - [Unused CSS](https://unused-css.com/) - UnusedCSS is an online tool to remove unused CSS rules. It will check your pages, find unused CSS and let you download a clean CSS file.
 - [JSON Check](https://jsoncrack.com/editor) - Visualize your JSON code
