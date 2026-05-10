@@ -289,3 +289,8 @@
 ---
 
 The list will grow over time! Have fun using it! ❤️✌️
+
+## More Tools
+
+- [Bytepane](https://bytepane.com/) - Free developer tools suite (50+ utilities). JSON formatter, regex tester (with ReDoS detection), base64, JWT decoder, hash generators, color converters (Hex/RGB/HSL), CSS gradient generator. All client-side.
+
