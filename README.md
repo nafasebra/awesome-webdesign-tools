@@ -285,6 +285,7 @@
 - [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
 - [Rix](https://hashnode.com/rix) - ChatBot for solving your programming bugs. Rix is still under beta and may make inaccurate statements.
 - [Image Translate with AI](https://imagetranslateai.org/) - Translate text in images instantly with Image Translate AI. Support 200+ languages, preserve original layout and design. Perfect for e-commerce, documents, menus, comics and more. Try Image Translate AI free today.
+- [WebCoreLab](https://webcorelab.com) — 272-check SEO + Core Web Vitals audit tool. AI-powered, tracks GEO/AEO visibility for AI search engines.
 
 ---
 
