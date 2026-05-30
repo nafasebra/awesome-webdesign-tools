@@ -282,6 +282,7 @@
 ## AI
 
 - [Image editor with AI](https://hotpot.ai/) - Hotpot helps you create amazing images, graphics, and writing with AI. Visualize ideas with AI Image Generator, reimagine yourself with AI Headshots, or spark creativity with other products from our AI platform.
+- [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill.
 - [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
 - [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
 - [Rix](https://hashnode.com/rix) - ChatBot for solving your programming bugs. Rix is still under beta and may make inaccurate statements.
