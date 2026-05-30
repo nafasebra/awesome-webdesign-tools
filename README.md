@@ -284,6 +284,8 @@
 - [Rix](https://hashnode.com/rix) - ChatBot for solving your programming bugs. Rix is still under beta and may make inaccurate statements.
 - [Image Translate with AI](https://imagetranslateai.org/) - Translate text in images instantly with Image Translate AI. Support 200+ languages, preserve original layout and design. Perfect for e-commerce, documents, menus, comics and more. Try Image Translate AI free today.
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based AI utilities: AI background remover (runs locally via WebAssembly), AI content disclosure generator (EU AI Act compliant), AI robots.txt generator, AI cost calculator, OG image generator, favicon generator, color palette generator, and SEO meta tag generator. No signup, open source.
+
 ---
 
 The list will grow over time! Have fun using it! ❤️✌️
