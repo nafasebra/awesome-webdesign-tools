@@ -187,6 +187,7 @@
 - [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
 
 ## Utils
+- [TinyTools](https://tinytools-smoky.vercel.app/) - 9+ free browser-based utilities for web developers and designers. Features include domain name generator, OG image generator (with AI), favicon generator, color palette generator, SEO meta tag generator, AI background remover (runs locally), AI cost calculator, content disclosure generator, and robots.txt generator. No signup required, fully open source.
 - [Remove Audio](https://remove-audio.com) - Free browser-based tool to strip audio from video files. Runs locally via WebAssembly, no uploads, no sign-up, batch up to 20 clips.
 
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers: invoice generator, time tracker, Pomodoro timer, QR code maker, URL shortener, UTM builder, rate calculator, and more. No signup required.
