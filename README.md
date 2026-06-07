@@ -233,6 +233,7 @@
 - [ToolSparkr](https://toolsparkr.com) - Collection of 35+ free online developer tools — JSON formatter, URL encoder, password generator, Base64 encoder, hash generators, QR code generator, DNS lookup, and more. No signup, runs in browser.
 - [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, and crop 1,000+ images at once — no upload, no account needed.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based web utilities including domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator, and AI robots.txt generator. No signup, open source.
+- [ToolBox](https://www.toolbox-kit.com) - 170+ free browser-based tools for developers and designers (image compressor, color tools, JSON formatter, diff checker). No signup; client-side.
 - - [CSS Toolkit](https://csstoolkit.net) - Free online CSS tools including box shadow generator, border radius generator, PX to REM converter, text shadow generator, and CSS animation generator.
 
 ## learning
