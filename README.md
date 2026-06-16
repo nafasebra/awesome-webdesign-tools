@@ -9,9 +9,7 @@
 
 ## Contributions
 
-1. Fork this repository.
-2. Submit a Pull Request (PR).
-3. Report any issues you find by opening a new issue.
+Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding tools, entry format, and how to submit a pull request.
 
 ## Table of contents
 
