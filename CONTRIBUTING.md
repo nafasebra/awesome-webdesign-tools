@@ -25,6 +25,7 @@ Each entry follows this format:
 - **Clear description** — One sentence is enough. Focus on what the tool does, not marketing copy.
 - **Right category** — Place the entry in the most fitting section. If you're unsure, mention it in your PR.
 - **No duplicates** — Search the README first to make sure the tool isn't already listed.
+- **Alphabetical order** — Within each section, keep entries sorted alphabetically by tool name.
 
 ### Categories
 

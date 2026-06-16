@@ -1,9 +1,6 @@
-<h1 style="text-align: center;">
-    🎊 awesome-webdesign-tools
-</h1>
-<p style="text-align: center;">
-    Unleash Your Web Dev Potential: Awesome Tools You'll 💎 there is an awesome list of tools for Web developers such as websites, libraries and etc. enjoy ❤️✌️
-</p>
+# 🎊 awesome-webdesign-tools
+
+An awesome list of tools for web designers and developers — websites, libraries, utilities, and more.
 
 ---
 
@@ -19,274 +16,266 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Shape makers](#shape-makers)
 - [Fonts](#fonts)
 - [Layouts](#layouts)
-- [CSS loading](#css-loaders)
+- [CSS loaders](#css-loaders)
 - [Utils](#utils)
 - [Learning](#learning)
-- [Good for you :)](#good-for-you)
-- [Components](#components)
-- [AI tools](#ai)
+- [Good for you](#good-for-you)
+- [Components UI](#components-ui)
+- [AI](#ai)
 
 ## Icons
 
-- [Heroicons (dev version)](https://heroicons.dev/) - Heroicons is a collection of MIT open source interface icons for web and app development.
-- [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS (like previos website)
-- [Iconfinder](https://www.iconfinder.com) - Iconfinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format.
-- [Tabler Icons](https://tablericons.com/) - 800+ Highly customizable & free SVG icons
-- [Icon8](https://icons8.com/) - Download design elements for free: icons, photos, vector illustrations, and music for your videos. All the assets made by designers → consistent quality ⚡️
-- [CSS icons](https://css.gg/app) - App for css.gg icons with custom selection for all pure CSS icons
-- [Icons JS](https://icones.js.org/) - A list of awesome icons
-- [3DIcons](https://3dicons.co/) - 1440+ beautifully crafted open-source 3D icons. You can use completely free and without attribution for personal or commercial project
-- [Iconer](https://iconer.app/) - list of many icons
-- [Radix icons](https://www.radix-ui.com/icons) - A crisp set of 15×15 icons designed by the WorkOS team.
-- [Icon sccut](https://iconscout.com/) - Access 8.2 Million+ free or premium vector icons, illustrations, 3D illustrations, and Lottie animations for any design.
-- [SVG Icons and backgroud](https://www.svgbackgrounds.com/) - SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.
-- [Make face 3d icons](https://peeps.ui8.net/) - Peeps Avatar Builder by UI8.net
-- [A list of colorful images](https://blush.design/collections) - Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
-- [Sapiens UI8.net](https://sapiens.ui8.net/9f4c6r2) - Sapiens Character Builder by UI8.net
-- [Noun project](https://thenounproject.com/) - Noun Project has the most diverse collection of free icons and stock photos. Download SVG and PNG. Over 5 million art-quality icons and free photos.
-- [Icon monstr](https://iconmonstr.com/) - Free simple icons for your next project
-- [Feather](https://feathericons.com/) - Simply beautiful open source icons
-- [Visual pharm](https://www.visualpharm.com/) - 400k free icons available for free download in SVG and PNG. One-click download.
-- [Digital nomad icons](https://digitalnomadicons.com/) - Digital nomad themed set of 25 high resolution flat icons, for free.
-- [Core UI](https://coreui.io/icons/) - Premium designed free icon set with marks in SVG, JavaScript, and Webfont formats. CoreUI Icons are beautifully crafted symbols for common actions and items.
-- [Zwicon](https://www.zwicon.com/) - The zwicon icon library was made to support our work @zwoelf. Now it is available to download.
-- [ICONSVG](https://iconsvg.xyz/) - Simple tool to find, customize and generate common SVG icons for your project
-- [Tilda](https://tilda.cc/free-icons/) - Download free icons for landing pages. More than 400 vector icons, collected in 27 sets for business.
-- [Flaticons](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects. Images made by and for designers in PNG, SVG, EPS, PSD and CSS formats
-- [Streamline icons](https://www.streamlinehq.com/) - 177,289 Streamline icons in line, regular, bold, colors, freehand, cyber, and more styles. Download the largest icons sets of the world in one place.
-- [Ikonate](https://ikonate.com/) - Customise, adjust and download free vector icons.
-- [Stick PNG](https://stickpng.com/) - StickPNG is a vibrant community of creative people sharing transparent PNG images which you can download for free and use in your personal non-commercial or educational projects.
-- [Free PNG IMG](https://freepngimg.com/) - Download free PNG images, pictures and cliparts with transparent background in best resolution and high quality(HQ) and icons. Available for Mobile, Dual Monitors, HD, Fullscreen and Widescreen.
-- [PNG Tree](https://pngtree.com/) - Pngtree provides free download of png, png images, backgrounds and vector. Millions of high quality free png images, PSD, AI and EPS Files are available.
-- [Fav PNG](https://favpng.com/) - Free Transparent PNG Images. Our database contains more than 16 million free transparent PNG files.
-- [SVG Artista](https://svgartista.net/) - SVG Artista is a free tool that helps you easily create amazing SVG drawing animations by animating stroke and fill properties of your SVG graphics.
-- [Shape so](https://shape.so/) - 36000+ Icons & Illustrations to SVG, Lottie, React. Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.
-- [Imgur](https://imgur.com/) - Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more.
-- [svgrepo](https://www.svgrepo.com/) - 500.000+ Open-licensed SVG Vector and Icons
-- [svgicons](https://svgicons.sparkk.fr/) - Ready to use SVG icons for the web
-- [Fave Icon Generator](https://favicon.io/) - creating a favicon should be a simple process. No other favicon generator or favicon creator can make a well designed favicon from text.
-- [Boxicon](https://boxicons.com/) - High Quality Web Icons Simple Open Source icons carefully crafted for designers & developers.
-- [Fontawesome](https://fontawesome.com/search) - Font Awesome is the internet's icon library and toolkit used by millions of designers, developers, and content creators.
+- [3DIcons](https://3dicons.co/) - 1440+ beautifully crafted open-source 3D icons, free for personal and commercial use without attribution.
+- [Boxicons](https://boxicons.com/) - High-quality open source web icons for designers and developers.
+- [Core UI](https://coreui.io/icons/) - Premium-designed free icon set in SVG, JavaScript, and webfont formats.
+- [CSS icons](https://css.gg/app) - App for css.gg icons with custom selection for all pure CSS icons.
+- [Digital nomad icons](https://digitalnomadicons.com/) - Digital nomad themed set of 25 high-resolution flat icons, free to use.
+- [Feather](https://feathericons.com/) - Simply beautiful open source icons.
+- [Flaticon](https://www.flaticon.com/) - Free icons and stickers in PNG, SVG, EPS, PSD, and CSS formats.
+- [Font Awesome](https://fontawesome.com/search) - The internet's icon library and toolkit used by millions of designers and developers.
+- [Favicon Generator](https://favicon.io/) - Generate favicons from text, images, or emojis.
+- [FavPNG](https://favpng.com/) - Database of 16+ million free transparent PNG files.
+- [Free PNG IMG](https://freepngimg.com/) - Free PNG images, cliparts, and icons with transparent backgrounds in high quality.
+- [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
+- [Heroicons (dev version)](https://heroicons.dev/) - MIT open source interface icons for web and app development.
+- [Iconer](https://iconer.app/) - Curated collection of icons from multiple libraries.
+- [Iconfinder](https://www.iconfinder.com) - Marketplace for icons, illustrations, and 3D assets in SVG, AI, and PNG format.
+- [Iconmonstr](https://iconmonstr.com/) - Free simple icons for your next project.
+- [Iconscout](https://iconscout.com/) - 8.2M+ free or premium vector icons, illustrations, 3D assets, and Lottie animations.
+- [Icons8](https://icons8.com/) - Icons, photos, vector illustrations, and music for your videos.
+- [Icones](https://icones.js.org/) - Searchable collection of icon sets for web projects.
+- [ICONSVG](https://iconsvg.xyz/) - Find, customize, and generate common SVG icons for your project.
+- [Ikonate](https://ikonate.com/) - Customize, adjust, and download free vector icons.
+- [Noun Project](https://thenounproject.com/) - Diverse collection of 5M+ free icons and stock photos in SVG and PNG.
+- [PNG Tree](https://pngtree.com/) - Millions of free PNG images, backgrounds, vectors, PSD, AI, and EPS files.
+- [Radix Icons](https://www.radix-ui.com/icons) - Crisp set of 15×15 icons designed by the WorkOS team.
+- [Shape.so](https://shape.so/) - 36,000+ customizable icons and illustrations exportable to SVG, Lottie, and React.
+- [StickPNG](https://stickpng.com/) - Community-shared transparent PNG images for personal and educational projects.
+- [Streamline Icons](https://www.streamlinehq.com/) - 177,000+ icons in line, bold, color, and more styles.
+- [SVG Artista](https://svgartista.net/) - Create SVG drawing animations by animating stroke and fill properties.
+- [SVG Backgrounds](https://www.svgbackgrounds.com/) - Customizable SVG-based repeating patterns and backgrounds.
+- [svgicons](https://svgicons.sparkk.fr/) - Ready-to-use SVG icons for the web.
+- [SVG Repo](https://www.svgrepo.com/) - 500,000+ open-licensed SVG vectors and icons.
+- [Tabler Icons](https://tablericons.com/) - 800+ highly customizable free SVG icons.
+- [Tilda](https://tilda.cc/free-icons/) - 400+ free vector icons in 27 sets for landing pages.
+- [VisualPharm](https://www.visualpharm.com/) - 400k free icons available for download in SVG and PNG.
+- [Zwicon](https://www.zwicon.com/) - Open icon library originally built to support work at @zwoelf.
+- [Blush](https://blush.design/collections) - Free customizable illustrations made by artists worldwide.
+- [Peeps Avatar Builder](https://peeps.ui8.net/) - Build custom 3D-style avatar illustrations by UI8.
+- [Sapiens Character Builder](https://sapiens.ui8.net/9f4c6r2) - Character builder for illustrations by UI8.
 
 ## Colors
 
-- [CSS gradient](https://cssgradient.io/) - As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
-- [Gradient magic](https://www.gradientmagic.com/) - A Free Gallery of Fantastic and Unique CSS Gradients.
-- [Parametric color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - A color palette composer inspired by audio parametric equalizers. Create beautiful color palettes with a scientific precision.
-- [grabient](https://www.grabient.com/) - Beautiful and simple UI for generating web gradients.
-- [Palettte App](https://palettte.app/) - The definitive palette editing and remapping tool
-- [paletton](https://paletton.com/) - In love with colors, since 2002. A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer. Use the color wheel to create great color palettes.
-- [color hunt](https://colorhunt.co/) - Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.
-- [Easing gradient](https://larsenwork.com/easing-gradients) - Supercharge your gradients with non-linear color mix and custom color spaces.
-- [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready for COPY & PASTE
-- [A tool for colors](https://colordesigner.io/tools) - List of all tools: Palette Generator, Gradient Generator, Color Name Finder
-- [Color palette](https://colorpalettes.earth/) - Get color palette inspiration from nature - updated daily
-- [Bada55](http://bada55.io/) - Looking for a BADA55 hex color words for your css code? Come here now!
-- [Shape divider](https://www.shapedivider.app/) - Custom Shape Dividers.
-- [Color slurp](https://colorslurp.com/) - Pick, edit, and copy colors with the best color picker for Mac and iOS!
-- [WebGradients](https://webgradients.com/) - WebGradients is a free collection of 180 linear gradients that you can use as
-  content backdrops in any part of your website.
-- [InclusiveColors accessible UI palette creator](https://www.inclusivecolors.com/) - Create accessible Tailwind-style UI color palettes, with WCAG/APCA contrast checks, live previews on a mockup and CSS/Figma/Adobe export.
-- [Color Picker](https://optimize-overseas.github.io/autonomousbot/tools/color-picker.html) - Free online color picker with HEX, RGB, and HSL conversion. Copy colors with one click.
+- [Bada55](http://bada55.io/) - Find memorable hex color words for your CSS code.
+- [Color Designer](https://colordesigner.io/tools) - Palette generator, gradient generator, and color name finder.
 - [Color Forge](https://ryudi84.github.io/sovereign-tools/tools/color_forge/) - Generate and explore color palettes with CSS export. Free, no signup required.
-- [Tailwind CSS Color Explorer](https://devtools.davrapps.dev/en/tailwind-colors) - Browse the full Tailwind CSS v4 color palette with live component previews (buttons, badges, alerts, cards). Copy class names or HEX values instantly.
-- [CSS Gradient Generator](https://optimize-overseas.github.io/autonomousbot/tools/css-gradient.html) - Create beautiful CSS gradients with a visual editor. Copy CSS code instantly.
-- [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output. Free, no signup required.
-- [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance. Test foreground/background combinations.
-- [gen8x](https://gen8x.com/) - Generate harmonious color palettes with WCAG contrast checks and export as CSS variables, Tailwind config, SCSS, or JSON. Free, client-side, no signup.
-- [FastTool Design](https://fasttool.app/category/design) - Free browser-based color picker, palette generator, CSS gradient builder, contrast checker, and format converters.
+- [Color Hunt](https://colorhunt.co/) - Hand-picked color palettes for design and art projects.
+- [Color Palette Earth](https://colorpalettes.earth/) - Daily color palette inspiration from nature.
+- [Color Picker](https://optimize-overseas.github.io/autonomousbot/tools/color-picker.html) - Free online color picker with HEX, RGB, and HSL conversion.
+- [Color Slurp](https://colorslurp.com/) - Pick, edit, and copy colors with a color picker for Mac and iOS.
+- [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance.
+- [CSS Gradient](https://cssgradient.io/) - Create colorful gradient backgrounds for websites, blogs, and social profiles.
+- [CSS Gradient Generator](https://optimize-overseas.github.io/autonomousbot/tools/css-gradient.html) - Create CSS gradients with a visual editor and copy code instantly.
+- [Easing Gradient](https://larsenwork.com/easing-gradients) - Supercharge gradients with non-linear color mix and custom color spaces.
+- [FastTool Design](https://fasttool.app/category/design) - Color picker, palette generator, CSS gradient builder, contrast checker, and format converters.
+- [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready to copy and paste.
+- [gen8x](https://gen8x.com/) - Generate harmonious palettes with WCAG contrast checks; export as CSS, Tailwind, SCSS, or JSON.
+- [Grabient](https://www.grabient.com/) - Beautiful and simple UI for generating web gradients.
+- [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output.
+- [Gradient Magic](https://www.gradientmagic.com/) - Gallery of unique CSS gradients.
+- [InclusiveColors](https://www.inclusivecolors.com/) - Accessible Tailwind-style UI palette creator with WCAG/APCA contrast checks and CSS/Figma export.
+- [Paletton](https://paletton.com/) - Color wheel tool for creating harmonious color combinations (formerly Color Scheme Designer).
+- [Palettte App](https://palettte.app/) - Palette editing and remapping tool.
+- [Parametric Color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - Color palette composer inspired by audio parametric equalizers.
+- [Shape Divider](https://www.shapedivider.app/) - Custom SVG shape dividers for section transitions.
+- [Tailwind CSS Color Explorer](https://devtools.davrapps.dev/en/tailwind-colors) - Browse the Tailwind CSS v4 palette with live component previews.
+- [WebGradients](https://webgradients.com/) - Free collection of 180 linear gradients for website backgrounds.
 
 ## Designs
 
-- [PageGuard](https://pageguard.org) - Free all-in-one website health scanner that audits your web designs for SEO, performance, accessibility, and best practices. AI-powered reports help ensure your designs meet modern web standards. No signup required.
-
-- [List of UI components for your projects](https://uiverse.io/) - Library of free and customizable UI elements made with CSS or Tailwind. It's all open-source, and it's all free. Try it out to save you many hours spent on building & customizing UI components for your next project.
-- [Tailwind UI Kit](https://www.tailwind-kit.com/) - Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.
-- [Component gallery](https://component.gallery/components/accordion/) - A list of components
-- [Design system gallery](https://designsystemsrepo.com/design-systems-recent/) - A list of design systems
-- [Checklist design](https://www.checklist.design/)
-- [Toools design](https://www.toools.design/) - Discover highly useful Design Resources & Tools
-- [Godly.website](https://godly.website/) - The best web design inspiration site
-- [Dribbble](https://dribbble.com/) - Biggest web design inspiration website
-- [Bihance](https://www.behance.net/)
-- [Figma community](https://www.figma.com/community) - The world of designs with figma
-- [Coderops](https://tympanus.net/codrops/) - Codrops is a destination for web design and development enthusiasts.
-- [Codepen](https://codepen.io/)
-- [Free frontend](https://freefrontend.com/) - Free hand-picked code examples, tutorials and articles.
-- [Code my UI](https://codemyui.com/) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
-- [UI Faces](https://uifaces.co/) - get example profile images
-- [CSS buttons example](https://getcssscan.com/css-buttons-examples) - A list of awesome buttons for using them.
-- [UI Store design](https://www.uistore.design/) - 656 Free Handpicked UI Kits for your real life projects
-- [Sketch app sources](https://www.sketchappsources.com/) - Thousands of UI/UX resources from great and resourceful designers around the world.
-- [UI8](https://ui8.net/) - 8,667 curated design resources to speed up your creative workflow.
-- [XD Guru](https://www.xdguru.com/) - Adobe XD Resources, UI kits & Templates
-- [Sketch repo](https://sketchrepo.com/) - Sketch templates and Sketch resources for your next design project. Free, high quality icons, mockups, and UI kits for Sketch App.
-- [Free design resources](https://freedesignresources.net/) - Daily Freebies for Creatives
-- [Free CSS](https://www.free-css.com/) - Free CSS has 3552 free website templates
-- [cssbuttons](https://cssbuttons.app/) - Button collection with a focus on simplicity and ease of use.
-- [Checkboxes examples](https://getcssscan.com/css-checkboxes-examples) - A list of Beautiful CSS checkboxes examples.
+- [Behance](https://www.behance.net/) - Showcase and discover creative work from designers worldwide.
+- [Checklist Design](https://www.checklist.design/) - Collection of checklists for common UI/UX design patterns.
+- [Codrops](https://tympanus.net/codrops/) - Destination for web design and development inspiration and tutorials.
+- [CodePen](https://codepen.io/) - Social development environment for front-end designers and developers.
+- [Code My UI](https://codemyui.com/) - Handpicked web design and UI inspiration with code snippets.
+- [Component Gallery](https://component.gallery/components/accordion/) - Reference guide to UI components across design systems.
+- [CSS Buttons](https://cssbuttons.app/) - Button collection focused on simplicity and ease of use.
+- [CSS Buttons Examples](https://getcssscan.com/css-buttons-examples) - Curated collection of CSS button examples.
+- [Checkboxes Examples](https://getcssscan.com/css-checkboxes-examples) - Curated collection of CSS checkbox examples.
+- [Design Systems Repo](https://designsystemsrepo.com/design-systems-recent/) - Curated gallery of design systems.
+- [Dribbble](https://dribbble.com/) - Community for discovering and sharing web design inspiration.
+- [Figma Community](https://www.figma.com/community) - Free design files, plugins, and resources from the Figma community.
+- [Free CSS](https://www.free-css.com/) - 3,500+ free website templates.
+- [Free Design Resources](https://freedesignresources.net/) - Daily freebies for creatives.
+- [Free Frontend](https://freefrontend.com/) - Hand-picked code examples, tutorials, and articles.
+- [Godly](https://godly.website/) - Curated gallery of the best web design inspiration.
+- [PageGuard](https://pageguard.org) - Free website health scanner for SEO, performance, accessibility, and best practices.
+- [Sketch App Sources](https://www.sketchappsources.com/) - Thousands of UI/UX resources from designers worldwide.
+- [Sketch Repo](https://sketchrepo.com/) - Free Sketch templates, icons, mockups, and UI kits.
+- [Tailwind UI Kit](https://www.tailwind-kit.com/) - 250 components and templates for React, Vue, and Angular.
+- [Toools Design](https://www.toools.design/) - Curated design resources and tools.
+- [UI Faces](https://uifaces.co/) - Sample profile avatars for mockups and prototypes.
+- [UI Store Design](https://www.uistore.design/) - 650+ free handpicked UI kits for real projects.
+- [UI8](https://ui8.net/) - Curated design resources to speed up creative workflows.
+- [XD Guru](https://www.xdguru.com/) - Adobe XD resources, UI kits, and templates.
 
 ## Shape makers
 
-- [CSS Cliper](https://bennettfeely.com/clippy/) - Make shape with `clip` CSS property
-- [blobmaker](https://www.blobmaker.app/) - for create curve shapes
-- [Get waves](https://getwaves.io/) - Create SVG waves
-- [Get image of specialy map](https://openlayers.org/en/latest/examples/accessible.html) - for get placeholder map image
-- [Create neomorphism box](https://neumorphism.io/#e0e0e0) - CSS code generator that will help with colors, gradients and shadows to adapt this new design trend or discover its posibilities.
-- [Make soft box shadows](https://shadows.brumm.af/) - Make a smooth css shadow
-- [Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder. Free, no signup required.
-- [Fancy border radius](https://9elements.github.io/fancy-border-radius/) - Generator to build organic shapes with CSS3 border-radius
-- [Make Glow Shadow on CSS](https://cssbud.com/css-generator/css-glow-generator/) - https://cssbud.com/css-generator/css-glow-generator/
-- [Make tiny neomorphism boxes](https://hype4.academy/tools/glassmorphism-generator) - Glassmorphism is a unified name for the popular Frosted Glass aesthetic.
-- [Pattern generator](https://doodad.dev/pattern-generator/) - Generate seamless, unique, royalty-free patterns to use for free in any project. Export as SVG, JPEG, or PNG.
-- [CSS Patterns](https://css-pattern.com/) - A collection of 100+ background patterns powered by CSS gradients. All the best CSS Patterns are here! Made by Temani Afif
-- [CSS Patterns - tranglify](https://trianglify.io/) - Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
-- [Animate background](https://animatedbackgrounds.me/) - A list of animated backgrounds
-- [Haikei](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
-- [Magic patterns](https://www.magicpattern.design/tools/css-backgrounds) - Beautiful pure CSS background patterns that you can actually use in your projects!
-- [Custom scrollbar maker](https://codepen.io/stephenpaton-tech/full/JjRvGmY) - A simple tool for making custom scrollbars for your websites....
-- [Generate CSS filter](https://www.cssfilters.co/) - Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
-- [Make high quality media query](https://quantityqueries.com/) - A tool to help build Quantity Queries for your projects
-
-- [Cubic bezier](https://cubic-bezier.com) - Generate cubic bezier
-- [Generate key frames](https://keyframes.app/animate) - Browser-based, mobile-friendly, actually private tools that make CSS a little less bad.
-- [Wait animate](https://waitanimate.wstone.uk/) - Wait animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
-- [argyleink/transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS transitions
+- [Animated Backgrounds](https://animatedbackgrounds.me/) - Collection of animated CSS backgrounds.
+- [Blobmaker](https://www.blobmaker.app/) - Generate organic blob shapes for designs.
+- [Clippy](https://bennettfeely.com/clippy/) - CSS `clip-path` shape maker.
+- [CSS Filters](https://www.cssfilters.co/) - Visual playground for custom and Instagram-like CSS photo filters.
+- [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/) - Generate CSS glow and shadow effects.
+- [CSS Patterns](https://css-pattern.com/) - 100+ background patterns powered by CSS gradients by Temani Afif.
+- [Cubic Bezier](https://cubic-bezier.com) - Visual editor for cubic-bezier easing curves.
+- [Custom Scrollbar Maker](https://codepen.io/stephenpaton-tech/full/JjRvGmY) - Simple tool for creating custom scrollbars.
+- [Doodad Pattern Generator](https://doodad.dev/pattern-generator/) - Generate seamless patterns exportable as SVG, JPEG, or PNG.
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Build organic shapes with CSS3 border-radius.
+- [Get Waves](https://getwaves.io/) - Create customizable SVG waves.
+- [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator) - Generate frosted-glass UI styles.
+- [Hero Patterns](https://heropatterns.com/) - Repeatable SVG background patterns for digital projects.
+- [Keyframes.app](https://keyframes.app/animate) - Browser-based tools for creating CSS keyframe animations.
+- [Magic Patterns](https://www.magicpattern.design/tools/css-backgrounds) - Pure CSS background patterns ready for production use.
+- [Neumorphism Generator](https://neumorphism.io/#e0e0e0) - CSS generator for neumorphic colors, gradients, and shadows.
+- [OpenLayers Map Example](https://openlayers.org/en/latest/examples/accessible.html) - Accessible map example useful for placeholder map images.
+- [Quantity Queries](https://quantityqueries.com/) - Tool for building CSS quantity queries.
+- [Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder.
+- [Shadows Brumm](https://shadows.brumm.af/) - Smooth multi-layer CSS box-shadow generator.
+- [transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS page transition effects.
+- [Trianglify](https://trianglify.io/) - Generate low-poly triangle patterns for wallpapers and assets.
+- [Wait Animate](https://waitanimate.wstone.uk/) - Insert delays between CSS animation iterations without JavaScript.
 
 ## Fonts
 
-- [Font Converter](https://www.fontconverter.io/en) - Convert font file to any type
-- [Gliphter](https://glyphter.com/) - Create icon fonts in seconds! Just drag & drop SVGs onto the character grid and download your spiffy new font. Cherry on top - IT'S FREE!
-- [Typescale](https://typescale.com/) - Create stunning typography, generate CSS, and find inspiration.
-- [Font library](https://fontlibrary.dev/) - An open source project to tag Google Fonts.
-- [Font squirrel](https://www.fontsquirrel.com/) - Handpicked free fonts for graphic designers with commercial-use licenses.
-- [Font space](https://www.fontspace.com/) - Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts.
-- [Abstract fonts](https://www.abstractfonts.com/) - Download more than 10,000 free fonts hassle free, desktop and mobile optimized, around for more than 20 years. Categories, popular, designers, optional web font download and links to similar fonts.
-- [1001 fonts](https://www.1001fonts.com/) - 56932 free fonts in 32193 families · Free licenses for commercial use · Direct font downloads · Mac · Windows · Linux
-- [Fontsly](https://fontsly.com/) - Big collection of Free Fonts for Download. Browse fonts by style, by type, by alphabet, by author or by popularity. Everyday updates!
-- [1Fonts by AliMD](http://alimd.github.io/1fonts/demo/) - Good Collection of Farsi(Persian)/Arabic Fonts to use on the web . made by iranian to use in easy way.
+- [1001 Fonts](https://www.1001fonts.com/) - 56,000+ free fonts with commercial-use licenses.
+- [1Fonts by AliMD](http://alimd.github.io/1fonts/demo/) - Collection of Farsi (Persian) and Arabic web fonts.
+- [Abstract Fonts](https://www.abstractfonts.com/) - 10,000+ free fonts with web font download options.
+- [Font Converter](https://www.fontconverter.io/en) - Convert font files between formats.
+- [Font Library](https://fontlibrary.dev/) - Open source project to tag and browse Google Fonts.
+- [Font Space](https://www.fontspace.com/) - Free licensed fonts for design projects.
+- [Font Squirrel](https://www.fontsquirrel.com/) - Handpicked free fonts with commercial-use licenses.
+- [Fontsly](https://fontsly.com/) - Large collection of free fonts browsable by style, type, and author.
+- [Glyphter](https://glyphter.com/) - Create icon fonts by dragging SVGs onto a character grid.
+- [Typescale](https://typescale.com/) - Create typography scales, generate CSS, and find inspiration.
 
 ## Layouts
 
-- [Grid garden](https://cssgridgarden.com/) - A game for learning CSS grid layout
-- [Flexbox froggy](https://flexboxfroggy.com/) - A game for learning CSS flexbox
-- [Box sizing generator](https://codepen.io/carolineartz/full/ogVXZj) - Visualize the box-model and see how changing the value of box-sizing affects element size.
-- [Flex box generator](https://bennettfeely.com/flexplorer/) - Dive in to and explore the wonders of the CSS3 Flexible Box model.
-- [Grid CSS generator](https://cssgrid-generator.netlify.app/)
-- [Layout generator](https://layout.bradwoods.io/) - A CSS Grid generator & CSS Flexbox generator. A tool for generating UI layout component code.
+- [Box Sizing Generator](https://codepen.io/carolineartz/full/ogVXZj) - Visualize the box model and how `box-sizing` affects element size.
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - Visual CSS grid layout generator.
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Game for learning CSS flexbox.
+- [Flexplorer](https://bennettfeely.com/flexplorer/) - Interactive explorer for the CSS Flexible Box model.
+- [Grid Garden](https://cssgridgarden.com/) - Game for learning CSS grid layout.
+- [Layout Generator](https://layout.bradwoods.io/) - CSS Grid and Flexbox generator for UI layout components.
 
 ## CSS loaders
 
-- [CSS loading animations](https://www.html-code-generator.com/css/loading-animation-generator) - CSS loading circle and create online CSS Loading effect animations.
-- [Spinner kit](https://tobiasahlin.com/spinkit/) - Simple CSS Spinners
-- [whirl - CSS loading](https://whirl.netlify.app/) - CSS loadings
-- [cssloaders](https://cssloaders.github.io/) - CSS Loader is a collection of different types of loaders, spinners and their source code. There are no image dependencies in this. It's is done using pure CSS. Hence it is easily customization too.
-- [Pure CSS loader](https://loading.io/css/) - 12 CSS spinners with CSS animation optimized in size, speed and dev-friendly for your next web project
-- [CSS loader generator](https://www.cssportal.com/css-loader-generator/) - Generate the perfect loader with our online collection of spinners and loaders for CSS, currently 310 to select from.
+- [CSS Loader Generator](https://www.cssportal.com/css-loader-generator/) - Collection of 310+ CSS spinners and loaders to customize.
+- [CSS Loaders](https://cssloaders.github.io/) - Pure CSS loaders and spinners with source code.
+- [CSS Loading Animations](https://www.html-code-generator.com/css/loading-animation-generator) - Online CSS loading animation generator.
+- [Loading.io CSS](https://loading.io/css/) - 12 optimized CSS spinners for web projects.
+- [SpinKit](https://tobiasahlin.com/spinkit/) - Simple CSS loading spinners.
+- [Whirl](https://whirl.netlify.app/) - Collection of CSS loading animations.
 
 ## Utils
-- [Remove Audio](https://remove-audio.com) - Free browser-based tool to strip audio from video files. Runs locally via WebAssembly, no uploads, no sign-up, batch up to 20 clips.
 
-- [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers: invoice generator, time tracker, Pomodoro timer, QR code maker, URL shortener, UTM builder, rate calculator, and more. No signup required.
-- [EncodingBase64 & DecodingBase64](https://encodingbase64.com/) - Free browser-based Base64 encoding and decoding tools for text, files, images, URL-safe Base64, hex, and URL encoding.
-- [NexTool](https://nextool.app/free-tools/) - 228+ free browser-based developer tools including CSS generators (gradient, flexbox, grid, animation, box shadow, clip path), color tools (palette generator, contrast checker, color blindness simulator), image tools, code formatters, and more. 100% client-side.
-
-- [webcode tools](https://webcode.tools/) - Awesome tool for web developers, generate any section of your website ✨
-- [Tiny PNG](https://tinypng.com/) - The papular tool for compress images
-- [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Free online tool to rotate portrait or sideways photos to landscape orientation. 100% browser-based, no upload required.
-- [Make gitignore files](https://www.toptal.com/developers/gitignore) - make gitignore files as easy.
-- [SVG to JSX](https://svg2jsx.com/) - convert SVG to JSX to use in ReactJS apps.
-- [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Actual-size browser ruler for measuring on-screen elements in pixels, inches, and centimeters after quick calibration.
-- [Keycode info](https://www.toptal.com/developers/keycode) - KeyCode.Info allows users to press any key and instantly get the JavaScript Key or Key Code KeyboardEvent. Check out the Tool and Event List.
-- [Unused CSS](https://unused-css.com/) - UnusedCSS is an online tool to remove unused CSS rules. It will check your pages, find unused CSS and let you download a clean CSS file.
-- [JSON Check](https://jsoncrack.com/editor) - Visualize your JSON code
-- [Base64](https://www.base64-image.de/) - Optimize your images and convert them to base64 online. Drag & Drop your files, copy to clipboard with a click and use the result in HTML and CSS.
-- [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore CSS lengths.
-- [Can i use](https://caniuse.com/) - &quot;Can I use&quot; provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-- [Can i email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails
-- [CSS tools online](https://codebeautify.org/css-tools) - Collection of CSS Tools which helps developer to solve css problems.
-- [Hidden tools](https://hiddentools-eight.vercel.app/) - Discover a wide collection of unique tools.
-- [Programming language convertor](https://ide.onelang.io/) - Convert any program languages
-- [Down for everyone or just me](https://downforeveryoneorjustme.com/) - Check if a website or app is down for everyone or just you.
-- [Am i responsive](https://ui.dev/amiresponsive) - Show off how responsive design looks across different browsers easily with this 4 in 1 viewport tool
-- [What runs](https://www.whatruns.com/) - Explore the world of website technologies with WhatRuns.com. Identify content management systems (CMS), frameworks, analytics tools, and more.
-- [Clean mock](https://cleanmock.com/) - Mockup your website and design simply and beautifully.
-- [Really good emails](https://reallygoodemails.com/) - With over 12,000 curated emails and counting, discover the best examples to help build your next campaign. Get inspiration and join millions of marketers.
-- [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Automatically generate a fully functional web app manifest along with size-optimized icons for your PWA.
-- [Free Sound Effects](https://www.zapsplat.com/) - 150,000+ professionally recorded SFX. Free sound effects downloads for your creative projects.
-- [Haikei](https://app.haikei.app/) - Generate unique SVG design assets
-- [JSON Formatter](https://optimize-overseas.github.io/autonomousbot/tools/json-formatter.html) - Format, validate, and beautify JSON data with syntax highlighting. Free online JSON tool.
-- [Base64 Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/base64.html) - Encode and decode Base64 strings instantly. Works offline, no data sent to servers.
-- [URL Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/url-encoder.html) - Encode and decode URLs for safe transmission. Handle special characters correctly.
-- [UUID Generator](https://optimize-overseas.github.io/autonomousbot/tools/uuid-generator.html) - Generate random UUIDs (v4) instantly. Bulk generation supported.
-- [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes. Client-side processing for security.
-
-- [DevTools](https://devtools.davrapps.dev) - 16 free browser-based developer tools: JSON formatter, Base64 encoder, JWT decoder, regex tester, cron expression builder, YAML↔JSON converter, color converter, Tailwind CSS color palette, and more. All client-side, no data sent to server.
-- [ImgTools](https://imgtools.davrapps.dev) - 7 free online image processing tools: compress (MozJPEG), resize, crop, rotate, convert (JPEG/PNG/WebP/AVIF), watermark, and AI background removal. No signup required.
-- [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions in real-time with match highlighting.
-- [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts and see differences highlighted. Line-by-line comparison.
-- [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs. Clean, lowercase, hyphenated output.
+- [Am I Responsive](https://ui.dev/amiresponsive) - Preview responsive design across four viewport sizes at once.
+- [Base64 Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/base64.html) - Encode and decode Base64 strings client-side.
+- [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
+- [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
+- [BulkPicTools](https://bulkpictools.com/) - Bulk image processor for compress, convert, resize, and crop — no upload required.
+- [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in email clients.
+- [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
+- [Cleanmock](https://cleanmock.com/) - Create beautiful website and design mockups.
+- [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore and compare CSS length units.
+- [CSS Toolkit](https://csstoolkit.net) - Box shadow, border radius, px-to-rem, text shadow, and animation generators.
+- [CSS Tools Online](https://codebeautify.org/css-tools) - Collection of CSS utilities for common developer tasks.
+- [DevTools](https://devtools.davrapps.dev) - 16 free browser-based tools: JSON formatter, JWT decoder, regex tester, cron builder, and more.
+- [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) - Check if a website is down globally or only for you.
+- [EncodingBase64](https://encodingbase64.com/) - Base64 encoding and decoding for text, files, images, and URL-safe formats.
+- [Gitignore Generator](https://www.toptal.com/developers/gitignore) - Generate `.gitignore` files for any project type.
+- [Haikei](https://app.haikei.app/) - Generate unique SVG design assets.
+- [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes client-side.
+- [Hidden Tools](https://hiddentools-eight.vercel.app/) - Curated collection of unique online tools.
+- [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Rotate portrait photos to landscape orientation in the browser.
+- [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
+- [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
+- [JSON Formatter](https://optimize-overseas.github.io/autonomousbot/tools/json-formatter.html) - Format, validate, and beautify JSON with syntax highlighting.
+- [Keycode Info](https://www.toptal.com/developers/keycode) - Press any key to get its JavaScript key code and KeyboardEvent details.
+- [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Browser ruler for measuring on-screen elements after calibration.
+- [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
+- [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
+- [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
+- [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
+- [Really Good Emails](https://reallygoodemails.com/) - Curated email design inspiration for marketers.
+- [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions with match highlighting.
+- [Remove Audio](https://remove-audio.com) - Strip audio from video files locally via WebAssembly — no uploads.
+- [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs.
+- [SVG to JSX](https://svg2jsx.com/) - Convert SVG markup to JSX for React apps.
+- [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts with line-by-line diff highlighting.
+- [TinyPNG](https://tinypng.com/) - Popular tool for compressing PNG and JPEG images.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Domain generator, OG image maker, favicon generator, and other browser-based utilities.
+- [ToolArks](https://toolarks.com) - Privacy-first toolbox with image compression and JSON formatting — 100% local.
+- [ToolBox](https://www.toolbox-kit.com) - 170+ client-side tools for developers and designers.
+- [ToolSparkr](https://toolsparkr.com) - 35+ developer tools including JSON formatter, hash generators, and DNS lookup.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
-- [Pixelate Image](https://www.pixelateimage.co/) - Pixelate Your Images Instantly
-- [ToolSparkr](https://toolsparkr.com) - Collection of 35+ free online developer tools — JSON formatter, URL encoder, password generator, Base64 encoder, hash generators, QR code generator, DNS lookup, and more. No signup, runs in browser.
-- [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, and crop 1,000+ images at once — no upload, no account needed.
-- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based web utilities including domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator, and AI robots.txt generator. No signup, open source.
-- [ToolBox](https://www.toolbox-kit.com) - 170+ free browser-based tools for developers and designers (image compressor, color tools, JSON formatter, diff checker). No signup; client-side.
-- - [CSS Toolkit](https://csstoolkit.net) - Free online CSS tools including box shadow generator, border radius generator, PX to REM converter, text shadow generator, and CSS animation generator.
+- [Unused CSS](https://unused-css.com/) - Find and remove unused CSS rules from your stylesheets.
+- [URL Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/url-encoder.html) - Encode and decode URLs for safe transmission.
+- [UUID Generator](https://optimize-overseas.github.io/autonomousbot/tools/uuid-generator.html) - Generate random UUID v4 values, including bulk generation.
+- [Webcode Tools](https://webcode.tools/) - Generate common website sections and components.
+- [WhatRuns](https://www.whatruns.com/) - Discover technologies used on any website.
+- [Zapsplat](https://www.zapsplat.com/) - 150,000+ free sound effects for creative projects.
 
-## learning
+## Learning
 
-- [30 seconds of code](https://www.30secondsofcode.org/) - Discover short code snippets for all your development needs.
-- [CSS reference](https://cssreference.io/) - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
-- [HTML reference](https://htmlreference.io/) - A free guide to all HTML elements and attributes.
-- [CSS battle](https://cssbattle.dev/) - The funnest CSS game for web designers & developers
-- [Code wars](https://www.codewars.com/)
-- [Wordpress video tutorals](https://wpsessions.com/) - Learn WordPress directly from the experts! Video-based instruction, live events, detailed tutorials, and interactive chat. New content every month.
-- [CSS Author](https://cssauthor.com/) - CSS Author is a design and development blog.
-- [CSS tricks](https://css-tricks.com/) - CSS-Tricks is a website about websites.
-- [Site my point](https://www.sitepoint.com/) - Learn Web Design & Development with SitePoint tutorials, courses and books - HTML, CSS, JavaScript, PHP, Responsive Web Design.
-- [Freecodecamp](https://www.freecodecamp.org/) - freeCodeCamp is a community of people from all around the world who are learning to code together. We're a 501(c)(3) public charity.
-- [Daily dev](https://daily.dev/) - Where developers suffer together
-- [egghead](https://egghead.io/) - Learn Modern Web Development in a Fraction of the Time
-- [Dev community](https://dev.to/) - A constructive and inclusive social network for software developers. With you every step of your journey.
-- [Devdocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers.
-- [Fun javascript projects](https://fun-javascript-projects.com/) - A FREE series of fun JavaScript, HTML & CSS projects.
-- [1LOC](https://phuoc.ng/collection/1-loc/) - Top JavaScript utilities, in just One Line of Code!
-- [ToolArks](https://toolarks.com) - Modern, privacy-first online toolbox. Features smart, ad-free utilities like image compression and JSON formatting—all processed 100% locally in your browser.
-- [Short code](https://shortcode.dev/) - A collection of useful snippets and code examples. Elements, attributes and selectors.
-- [devhints](https://devhints.io/) - A collection of cheatsheets.
-- [Flex](https://flexbox.malven.co/) - cheatsheets of flex-box.
-- [FlexBox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code!
-- [Grid](https://grid.malven.co/) - cheatsheets of grid.
-- [Grid Garden](https://cssgridgarden.com/) - Grid Garden, where you write CSS code to grow your carrot garden!
-- [Git](https://www.w3schools.com/git/) - Good and simple Git tutorial for begginer for free made by w3schools.
+- [1LOC](https://phuoc.ng/collection/1-loc/) - JavaScript utilities in one line of code.
+- [30 Seconds of Code](https://www.30secondsofcode.org/) - Short code snippets for everyday development tasks.
+- [CodeWars](https://www.codewars.com/) - Practice coding through challenges and kata.
+- [CSS Author](https://cssauthor.com/) - Design and development blog with tutorials and resources.
+- [CSS Battle](https://cssbattle.dev/) - CSS replication game for designers and developers.
+- [CSS Reference](https://cssreference.io/) - Visual guide to popular CSS properties with animated examples.
+- [CSS-Tricks](https://css-tricks.com/) - Articles and guides about web design and development.
+- [Daily.dev](https://daily.dev/) - Developer news feed and learning community.
+- [Dev Community](https://dev.to/) - Inclusive social network for software developers.
+- [DevDocs](https://devdocs.io/) - Fast, offline documentation browser for developers.
+- [devhints](https://devhints.io/) - Collection of programming cheatsheets.
+- [egghead](https://egghead.io/) - Short video courses for modern web development.
+- [Flexbox Cheatsheet](https://flexbox.malven.co/) - Visual flexbox reference.
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Game for learning CSS flexbox.
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Free coding courses and certifications.
+- [Fun JavaScript Projects](https://fun-javascript-projects.com/) - Free JavaScript, HTML, and CSS project tutorials.
+- [Git Tutorial](https://www.w3schools.com/git/) - Beginner-friendly Git tutorial from W3Schools.
+- [Grid Cheatsheet](https://grid.malven.co/) - Visual CSS grid reference.
+- [Grid Garden](https://cssgridgarden.com/) - Game for learning CSS grid layout.
+- [HTML Reference](https://htmlreference.io/) - Guide to HTML elements and attributes.
+- [Shortcode](https://shortcode.dev/) - Useful HTML, CSS, and JavaScript snippets and examples.
+- [SitePoint](https://www.sitepoint.com/) - Web design and development tutorials, courses, and books.
+- [WP Sessions](https://wpsessions.com/) - WordPress video tutorials from industry experts.
 
 ## Good for you
 
-- [GetTerms](https://getterms.io/) - Make privacy and policy content for your website
-- [prioritize your tasks](https://prioritize.songthamtung.com/) - Built by a PM for PMs. Use this tool to create, visualize, and prioritize tasks on a drag and drop interface with different priority boards.
-- [Pomofocus](https://pomofocus.io/) - A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study, writing, or coding.
-- [Music for programming :)](https://musicforprogramming.net/latest/) - Musics for you :) enjoy
-- [HTTP Cat](https://http.cat/) - An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
-- [HTTP Dog](https://http.dog/) - A free HTTP status code API with lots and lots of awesome dogs! Use it to show useful error messages in your website for HTTP response status codes.
-- [Get station](https://getstation.com/) - Station unifies all your work tools in one neat and productive interface.
+- [Get Station](https://getstation.com/) - Unify work tools in one productive desktop interface.
+- [GetTerms](https://getterms.io/) - Generate privacy policy and terms content for your website.
+- [HTTP Cat](https://http.cat/) - HTTP status code API with cat images for error pages.
+- [HTTP Dog](https://http.dog/) - HTTP status code API with dog images for error pages.
+- [Music for Programming](https://musicforprogramming.net/latest/) - Curated ambient mixes for focused work.
+- [Pomofocus](https://pomofocus.io/) - Pomodoro timer for desktop and mobile browsers.
+- [Prioritize](https://prioritize.songthamtung.com/) - Drag-and-drop task prioritization boards for product managers.
 
 ## Components UI
 
-- [UI aceternity](https://ui.aceternity.com/) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations. (Mostly with tailwindCSS)
-- [magic UI](https://magicui.design/) - 50+ free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. Perfect companion for shadcn/ui.
-- [Universe](https://uiverse.io/) - Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.
-
+- [Aceternity UI](https://ui.aceternity.com/) - Trending Tailwind CSS components with animations, ready to copy and paste.
+- [Magic UI](https://magicui.design/) - 50+ animated React components built with Tailwind CSS and Framer Motion.
+- [Uiverse](https://uiverse.io/) - Community-built UI elements copyable as HTML/CSS, Tailwind, React, or Figma.
 
 ## AI
 
-- [Image editor with AI](https://hotpot.ai/) - Hotpot helps you create amazing images, graphics, and writing with AI. Visualize ideas with AI Image Generator, reimagine yourself with AI Headshots, or spark creativity with other products from our AI platform.
+- [DeepSeek Chat](https://chat.deepseek.com/) - AI chat assistant for coding and general questions.
+- [Hotpot.ai](https://hotpot.ai/) - AI image editor, generator, and writing tools.
 - [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill.
-- [Seona Ai](https://seona.usestyle.ai/new) - Streamline your SEO efforts with Seona! Our AI-powered assistant provides automatic weekly optimizations, ensuring your small business ranks higher on search engines. Start your journey towards more visibility and growth today with Seona.
-- [DeepSeek Chat AI](https://chat.deepseek.com/) - Chat with DeepSeek AI.
-- [Rix](https://hashnode.com/rix) - ChatBot for solving your programming bugs. Rix is still under beta and may make inaccurate statements.
-- [Image Translate with AI](https://imagetranslateai.org/) - Translate text in images instantly with Image Translate AI. Support 200+ languages, preserve original layout and design. Perfect for e-commerce, documents, menus, comics and more. Try Image Translate AI free today.
-- [WebCoreLab](https://webcorelab.com) — 272-check SEO + Core Web Vitals audit tool. AI-powered, tracks GEO/AEO visibility for AI search engines.
+- [Image Translate AI](https://imagetranslateai.org/) - Translate text in images across 200+ languages while preserving layout.
+- [Rix](https://hashnode.com/rix) - AI chatbot for debugging programming issues (beta).
+- [Seona AI](https://seona.usestyle.ai/new) - AI-powered SEO assistant with weekly optimization suggestions.
+- [WebCoreLab](https://webcorelab.com) - SEO and Core Web Vitals audit tool with AI-powered GEO/AEO visibility tracking.
 
 ---
 
