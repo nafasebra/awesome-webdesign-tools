@@ -157,6 +157,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Fontsly](https://fontsly.com/) - Large collection of free fonts browsable by style, type, and author.
 - [Glyphter](https://glyphter.com/) - Create icon fonts by dragging SVGs onto a character grid.
 - [Typescale](https://typescale.com/) - Create typography scales, generate CSS, and find inspiration.
+- [BioFontsApp](https://biofontsapp.com/?utm_source=github&utm_medium=awesome_list) - A web-based utility for generating aesthetic fonts for social media with a clean, intuitive interface.
 
 ## Layouts
 
