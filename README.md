@@ -205,6 +205,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Browser ruler for measuring on-screen elements after calibration.
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
+- [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
 - [Really Good Emails](https://reallygoodemails.com/) - Curated email design inspiration for marketers.
