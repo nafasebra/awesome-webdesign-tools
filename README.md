@@ -201,6 +201,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
 - [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
 - [JSON Formatter](https://optimize-overseas.github.io/autonomousbot/tools/json-formatter.html) - Format, validate, and beautify JSON with syntax highlighting.
+- [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect JSON Web Tokens directly in the browser.
 - [Keycode Info](https://www.toptal.com/developers/keycode) - Press any key to get its JavaScript key code and KeyboardEvent details.
 - [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Browser ruler for measuring on-screen elements after calibration.
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
