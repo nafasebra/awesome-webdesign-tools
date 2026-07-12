@@ -117,6 +117,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [UI Faces](https://uifaces.co/) - Sample profile avatars for mockups and prototypes.
 - [UI Store Design](https://www.uistore.design/) - 650+ free handpicked UI kits for real projects.
 - [UI8](https://ui8.net/) - Curated design resources to speed up creative workflows.
+- [UIZZE](https://uizze.com/) - Public catalog of real web and iOS product UI references; full access adds hosted MCP workflows for coding-agent design contracts, validation, audits, and critiques.
 - [XD Guru](https://www.xdguru.com/) - Adobe XD resources, UI kits, and templates.
 
 ## Shape makers
