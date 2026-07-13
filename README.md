@@ -117,6 +117,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [UI Faces](https://uifaces.co/) - Sample profile avatars for mockups and prototypes.
 - [UI Store Design](https://www.uistore.design/) - 650+ free handpicked UI kits for real projects.
 - [UI8](https://ui8.net/) - Curated design resources to speed up creative workflows.
+- [UIZZE](https://uizze.com/) - Public catalog of real web and iOS product UI references; full access adds hosted MCP workflows for coding-agent design contracts, validation, audits, and critiques.
 - [XD Guru](https://www.xdguru.com/) - Adobe XD resources, UI kits, and templates.
 
 ## Shape makers
@@ -201,13 +202,17 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
 - [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
 - [JSON Formatter](https://optimize-overseas.github.io/autonomousbot/tools/json-formatter.html) - Format, validate, and beautify JSON with syntax highlighting.
+- [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect JSON Web Tokens directly in the browser.
 - [Keycode Info](https://www.toptal.com/developers/keycode) - Press any key to get its JavaScript key code and KeyboardEvent details.
 - [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Browser ruler for measuring on-screen elements after calibration.
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
+- [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a formatted README.md by filling in project details.
+- [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create scannable QR codes from text, URLs, or contact info.
+- [Quick Image Kit](https://quickimagekit.com/) - Compress, resize, convert, crop images, and generate favicon packages in the browser.
 - [Really Good Emails](https://reallygoodemails.com/) - Curated email design inspiration for marketers.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions with match highlighting.
 - [Remove Audio](https://remove-audio.com) - Strip audio from video files locally via WebAssembly — no uploads.
@@ -218,6 +223,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Domain generator, OG image maker, favicon generator, and other browser-based utilities.
 - [ToolArks](https://toolarks.com) - Privacy-first toolbox with image compression and JSON formatting — 100% local.
 - [ToolBox](https://www.toolbox-kit.com) - 170+ client-side tools for developers and designers.
+- [Toolio](https://toolio.pongvn.com) - 195 free browser tools including PDF, image, converter, and developer utilities — most run client-side with no upload.
 - [ToolSparkr](https://toolsparkr.com) - 35+ developer tools including JSON formatter, hash generators, and DNS lookup.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
 - [Unused CSS](https://unused-css.com/) - Find and remove unused CSS rules from your stylesheets.
