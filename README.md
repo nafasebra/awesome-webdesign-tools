@@ -211,6 +211,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create scannable QR codes from text, URLs, or contact info.
+- [Quick Image Kit](https://quickimagekit.com/) - Compress, resize, convert, crop images, and generate favicon packages in the browser.
 - [Really Good Emails](https://reallygoodemails.com/) - Curated email design inspiration for marketers.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions with match highlighting.
 - [Remove Audio](https://remove-audio.com) - Strip audio from video files locally via WebAssembly — no uploads.
