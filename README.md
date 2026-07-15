@@ -211,6 +211,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
+- [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a formatted README.md by filling in project details.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create scannable QR codes from text, URLs, or contact info.
 - [Quick Image Kit](https://quickimagekit.com/) - Compress, resize, convert, crop images, and generate favicon packages in the browser.
 - [Really Good Emails](https://reallygoodemails.com/) - Curated email design inspiration for marketers.
