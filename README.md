@@ -85,6 +85,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Gradient Magic](https://www.gradientmagic.com/) - Gallery of unique CSS gradients.
 - [InclusiveColors](https://www.inclusivecolors.com/) - Accessible Tailwind-style UI palette creator with WCAG/APCA contrast checks and CSS/Figma export.
 - [Paletton](https://paletton.com/) - Color wheel tool for creating harmonious color combinations (formerly Color Scheme Designer).
+- [Palette Generator](https://dailytoolkit.app/tools/color-palette-generator) - Generate coordinated color palettes from a base color.
 - [Palettte App](https://palettte.app/) - Palette editing and remapping tool.
 - [Parametric Color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - Color palette composer inspired by audio parametric equalizers.
 - [Shape Divider](https://www.shapedivider.app/) - Custom SVG shape dividers for section transitions.
