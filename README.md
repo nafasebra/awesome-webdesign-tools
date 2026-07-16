@@ -73,6 +73,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Color Palette Earth](https://colorpalettes.earth/) - Daily color palette inspiration from nature.
 - [Color Picker](https://optimize-overseas.github.io/autonomousbot/tools/color-picker.html) - Free online color picker with HEX, RGB, and HSL conversion.
 - [Color Slurp](https://colorslurp.com/) - Pick, edit, and copy colors with a color picker for Mac and iOS.
+- [ColorTools](https://colorpicker.cx/color-picker) - Free browser-based image color picker with a color wheel, palette generator, CSS gradient builder, color converter, and WCAG contrast checker.
 - [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance.
 - [CSS Gradient](https://cssgradient.io/) - Create colorful gradient backgrounds for websites, blogs, and social profiles.
 - [CSS Gradient Generator](https://optimize-overseas.github.io/autonomousbot/tools/css-gradient.html) - Create CSS gradients with a visual editor and copy code instantly.
