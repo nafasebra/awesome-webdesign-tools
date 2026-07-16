@@ -223,6 +223,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs.
 - [SVG to JSX](https://svg2jsx.com/) - Convert SVG markup to JSX for React apps.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts with line-by-line diff highlighting.
+- [TextFaker](https://textfaker.com/) - Create realistic text message screenshots and browser-based content-prep assets for demos and mockups.
 - [TinyPNG](https://tinypng.com/) - Popular tool for compressing PNG and JPEG images.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Domain generator, OG image maker, favicon generator, and other browser-based utilities.
 - [ToolArks](https://toolarks.com) - Privacy-first toolbox with image compression and JSON formatting — 100% local.
