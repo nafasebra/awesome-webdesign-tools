@@ -207,6 +207,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
 - [JSON Formatter](https://optimize-overseas.github.io/autonomousbot/tools/json-formatter.html) - Format, validate, and beautify JSON with syntax highlighting.
 - [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect JSON Web Tokens directly in the browser.
+- [JWT Generator](https://dailytoolkit.app/tools/jwt-generator) - Create signed JSON Web Tokens for testing and development.
 - [Keycode Info](https://www.toptal.com/developers/keycode) - Press any key to get its JavaScript key code and KeyboardEvent details.
 - [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Browser ruler for measuring on-screen elements after calibration.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder text in custom lengths for mockups and layouts.
