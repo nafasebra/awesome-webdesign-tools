@@ -211,6 +211,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Browser ruler for measuring on-screen elements after calibration.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder text in custom lengths for mockups and layouts.
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
+- [Nutilz](https://nutilz.com) - Free browser-based calculators, text, image, and developer tools — no signup required.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
