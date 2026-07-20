@@ -235,7 +235,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [ToolSparkr](https://toolsparkr.com) - 35+ developer tools including JSON formatter, hash generators, and DNS lookup.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
 - [Unused CSS](https://unused-css.com/) - Find and remove unused CSS rules from your stylesheets.
-- [URL Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/url-encoder.html) - Encode and decode URLs for safe transmission.
+- [URL Encoder & Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and percent-encoded strings locally in your browser.
 - [UUID Generator](https://optimize-overseas.github.io/autonomousbot/tools/uuid-generator.html) - Generate random UUID v4 values, including bulk generation.
 - [Webcode Tools](https://webcode.tools/) - Generate common website sections and components.
 - [WhatRuns](https://www.whatruns.com/) - Discover technologies used on any website.
