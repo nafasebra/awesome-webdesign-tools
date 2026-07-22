@@ -185,6 +185,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 - [All Tools Verse](https://alltoolsverse.com/) - 1,000+ free browser-based utilities for developers and designers, including code, data, text, image, document, and conversion tools. No signup required.
 - [Am I Responsive](https://ui.dev/amiresponsive) - Preview responsive design across four viewport sizes at once.
+- [App Doodler](https://doodler.copymyui.com/) - Create multilingual App Store screenshots from reusable layouts and translation files.
 - [Base64 Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/base64.html) - Encode and decode Base64 strings client-side.
 - [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
