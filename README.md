@@ -76,7 +76,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [ColorTools](https://colorpicker.cx/color-picker) - Free browser-based image color picker with a color wheel, palette generator, CSS gradient builder, color converter, and WCAG contrast checker.
 - [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance.
 - [CSS Gradient](https://cssgradient.io/) - Create colorful gradient backgrounds for websites, blogs, and social profiles.
-- [CSS Gradient Generator](https://optimize-overseas.github.io/autonomousbot/tools/css-gradient.html) - Create CSS gradients with a visual editor and copy code instantly.
+- [CSS Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Create CSS gradients with a visual editor and copy code instantly.
 - [Easing Gradient](https://larsenwork.com/easing-gradients) - Supercharge gradients with non-linear color mix and custom color spaces.
 - [FastTool Design](https://fasttool.app/category/design) - Color picker, palette generator, CSS gradient builder, contrast checker, and format converters.
 - [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready to copy and paste.
