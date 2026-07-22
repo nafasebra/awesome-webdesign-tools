@@ -205,7 +205,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Rotate portrait photos to landscape orientation in the browser.
 - [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
 - [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
-- [JSON Formatter](https://optimize-overseas.github.io/autonomousbot/tools/json-formatter.html) - Format, validate, and beautify JSON with syntax highlighting.
+- [JSON Formatter](https://dailytoolkit.app/tools/json-formatter) - Format, validate, and beautify JSON with syntax highlighting.
 - [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect JSON Web Tokens directly in the browser.
 - [JWT Generator](https://dailytoolkit.app/tools/jwt-generator) - Create signed JSON Web Tokens for testing and development.
 - [Keycode Info](https://www.toptal.com/developers/keycode) - Press any key to get its JavaScript key code and KeyboardEvent details.
