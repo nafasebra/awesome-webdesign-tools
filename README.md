@@ -185,6 +185,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 - [All Tools Verse](https://alltoolsverse.com/) - 1,000+ free browser-based utilities for developers and designers, including code, data, text, image, document, and conversion tools. No signup required.
 - [Am I Responsive](https://ui.dev/amiresponsive) - Preview responsive design across four viewport sizes at once.
+- [App Doodler](https://doodler.copymyui.com/) - Create multilingual App Store screenshots from reusable layouts and translation files.
 - [Base64 Encoder/Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode Base64 strings client-side.
 - [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
@@ -205,7 +206,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Rotate portrait photos to landscape orientation in the browser.
 - [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
 - [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
-- [JSON Formatter](https://optimize-overseas.github.io/autonomousbot/tools/json-formatter.html) - Format, validate, and beautify JSON with syntax highlighting.
+- [JSON Formatter](https://dailytoolkit.app/tools/json-formatter) - Format, validate, and beautify JSON with syntax highlighting.
 - [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect JSON Web Tokens directly in the browser.
 - [JWT Generator](https://dailytoolkit.app/tools/jwt-generator) - Create signed JSON Web Tokens for testing and development.
 - [Keycode Info](https://www.toptal.com/developers/keycode) - Press any key to get its JavaScript key code and KeyboardEvent details.
@@ -227,6 +228,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [SVG to JSX](https://svg2jsx.com/) - Convert SVG markup to JSX for React apps.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts with line-by-line diff highlighting.
 - [TextFaker](https://textfaker.com/) - Create realistic text message screenshots and browser-based content-prep assets for demos and mockups.
+- [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF generator. Create typing animations and export as GIFs without signup. Perfect for GitHub READMEs, Discord status, and portfolio hero sections.
 - [TinyPNG](https://tinypng.com/) - Popular tool for compressing PNG and JPEG images.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Domain generator, OG image maker, favicon generator, and other browser-based utilities.
 - [ToolArks](https://toolarks.com) - Privacy-first toolbox with image compression and JSON formatting — 100% local.
