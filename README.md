@@ -211,6 +211,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [JWT Generator](https://dailytoolkit.app/tools/jwt-generator) - Create signed JSON Web Tokens for testing and development.
 - [Keycode Info](https://www.toptal.com/developers/keycode) - Press any key to get its JavaScript key code and KeyboardEvent details.
 - [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Browser ruler for measuring on-screen elements after calibration.
+- [Korelyy](https://korelyy.com/en/) - A growing collection of browser-based online tools for developers and everyday tasks: JSON, Base64, color, QR codes, image and PDF utilities. Runs client-side, no signup.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder text in custom lengths for mockups and layouts.
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
 - [Nutilz](https://nutilz.com) - Free browser-based calculators, text, image, and developer tools — no signup required.
