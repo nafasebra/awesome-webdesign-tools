@@ -194,6 +194,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
 - [Cleanmock](https://cleanmock.com/) - Create beautiful website and design mockups.
 - [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore and compare CSS length units.
+- [CSS Specificity Calculator](https://nutilz.com/css-specificity-calculator) - Calculate CSS selector specificity and compare which selector wins the cascade. Free, browser-only.
 - [CSS Toolkit](https://csstoolkit.net) - Box shadow, border radius, px-to-rem, text shadow, and animation generators.
 - [CSS Tools Online](https://codebeautify.org/css-tools) - Collection of CSS utilities for common developer tasks.
 - [DevTools](https://devtools.davrapps.dev) - 16 free browser-based tools: JSON formatter, JWT decoder, regex tester, cron builder, and more.
