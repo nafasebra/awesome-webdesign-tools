@@ -189,11 +189,13 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Base64 Encoder/Decoder](https://optimize-overseas.github.io/autonomousbot/tools/base64.html) - Encode and decode Base64 strings client-side.
 - [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
+- [BGNinja](https://bgninja.com) - Erase objects from a photo with a brush and download a transparent PNG at full resolution.
 - [BulkPicTools](https://bulkpictools.com/) - Bulk image processor for compress, convert, resize, and crop — no upload required.
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in email clients.
 - [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
 - [Cleanmock](https://cleanmock.com/) - Create beautiful website and design mockups.
 - [Compify](https://compify.app/) - Open-source React component workflow.
+- [ConvertNinja](https://convert.shinobitools.com) - Convert images, video and e-books in the browser at full size, no account needed.
 - [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore and compare CSS length units.
 - [CSS Toolkit](https://csstoolkit.net) - Box shadow, border radius, px-to-rem, text shadow, and animation generators.
 - [CSS Tools Online](https://codebeautify.org/css-tools) - Collection of CSS utilities for common developer tasks.
@@ -217,6 +219,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Nutilz](https://nutilz.com) - Free browser-based calculators, text, image, and developer tools — no signup required.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
+- [PicReviver](https://picreviver.com) - Restore and colorize old or damaged photos and download the result at full resolution.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a formatted README.md by filling in project details.
@@ -240,6 +243,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Unused CSS](https://unused-css.com/) - Find and remove unused CSS rules from your stylesheets.
 - [URL Encoder & Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and percent-encoded strings locally in your browser.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate random UUID v4 values, including bulk generation.
+- [VideoBGNinja](https://videobgninja.com) - Remove or replace a video background without a green screen, no watermark on the export.
 - [Webcode Tools](https://webcode.tools/) - Generate common website sections and components.
 - [WhatRuns](https://www.whatruns.com/) - Discover technologies used on any website.
 - [Zapsplat](https://www.zapsplat.com/) - 150,000+ free sound effects for creative projects.
