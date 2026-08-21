@@ -205,6 +205,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes client-side.
 - [Hidden Tools](https://hiddentools-eight.vercel.app/) - Curated collection of unique online tools.
 - [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Rotate portrait photos to landscape orientation in the browser.
+- [Image Machine](https://imagemachinery.net) - Resize, crop, compress, convert, watermark, and OCR images entirely in the browser, with no upload.
 - [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
 - [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
 - [JSON Formatter](https://dailytoolkit.app/tools/json-formatter) - Format, validate, and beautify JSON with syntax highlighting.
