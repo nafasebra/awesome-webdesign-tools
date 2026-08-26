@@ -194,6 +194,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
 - [Cleanmock](https://cleanmock.com/) - Create beautiful website and design mockups.
 - [Compify](https://compify.app/) - Open-source React component workflow.
+- [CompressFast](https://compressfast.site) - Free browser-side image compressor (PNG/JPEG/WebP/AVIF/HEIC), 30-image batch, 100% local with zero uploads.
 - [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore and compare CSS length units.
 - [CSS Toolkit](https://csstoolkit.net) - Box shadow, border radius, px-to-rem, text shadow, and animation generators.
 - [CSS Tools Online](https://codebeautify.org/css-tools) - Collection of CSS utilities for common developer tasks.
