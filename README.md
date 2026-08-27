@@ -145,6 +145,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Quantity Queries](https://quantityqueries.com/) - Tool for building CSS quantity queries.
 - [Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder.
 - [Shadows Brumm](https://shadows.brumm.af/) - Smooth multi-layer CSS box-shadow generator.
+- [SVG Pattern Generator](https://www.devkitlab.com/en/tools/svg-pattern-generator/) - Build tileable dot, grid, stripe, and wave patterns with a live preview and copy the SVG or CSS.
 - [transition.css](https://www.transition.style/#in:circle:hesitate) - Drop-in CSS page transition effects.
 - [Trianglify](https://trianglify.io/) - Generate low-poly triangle patterns for wallpapers and assets.
 - [Wait Animate](https://waitanimate.wstone.uk/) - Insert delays between CSS animation iterations without JavaScript.
