@@ -184,6 +184,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 ## Utils
 
+- [A Box of Tools](https://abox.tools/) - 35 single-purpose file tools for images, video, audio, PDFs and text that run entirely in the browser, with nothing uploaded.
 - [All Tools Verse](https://alltoolsverse.com/) - 1,000+ free browser-based utilities for developers and designers, including code, data, text, image, document, and conversion tools. No signup required.
 - [Am I Responsive](https://ui.dev/amiresponsive) - Preview responsive design across four viewport sizes at once.
 - [App Doodler](https://doodler.copymyui.com/) - Create multilingual App Store screenshots from reusable layouts and translation files.
