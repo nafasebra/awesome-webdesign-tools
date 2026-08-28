@@ -128,6 +128,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Blobmaker](https://www.blobmaker.app/) - Generate organic blob shapes for designs.
 - [Box Shadow Generator](https://dailytoolkit.app/tools/css-box-shadow-generator) - Visually build layered CSS box-shadows and export the code
 - [Clippy](https://bennettfeely.com/clippy/) - CSS `clip-path` shape maker.
+- [CSS Filter Generator](https://nutilz.com/css-filter-generator) - Visually build CSS filter effects (blur, brightness, contrast, and more) with live preview and instant code copy.
 - [CSS Filters](https://www.cssfilters.co/) - Visual playground for custom and Instagram-like CSS photo filters.
 - [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/) - Generate CSS glow and shadow effects.
 - [CSS Patterns](https://css-pattern.com/) - 100+ background patterns powered by CSS gradients by Temani Afif.
