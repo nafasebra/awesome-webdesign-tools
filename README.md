@@ -57,6 +57,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [svgicons](https://svgicons.sparkk.fr/) - Ready-to-use SVG icons for the web.
 - [SVG Repo](https://www.svgrepo.com/) - 500,000+ open-licensed SVG vectors and icons.
 - [Tabler Icons](https://tablericons.com/) - 800+ highly customizable free SVG icons.
+- [Thridy](https://thridy.com/) - 13,000+ 3D icons in one consistent style, free for personal and commercial use without attribution, downloadable as HD transparent PNG with no signup.
 - [Tilda](https://tilda.cc/free-icons/) - 400+ free vector icons in 27 sets for landing pages.
 - [VisualPharm](https://www.visualpharm.com/) - 400k free icons available for download in SVG and PNG.
 - [Zwicon](https://www.zwicon.com/) - Open icon library originally built to support work at @zwoelf.
