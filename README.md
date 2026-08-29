@@ -36,6 +36,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Favicon Generator](https://favicon.io/) - Generate favicons from text, images, or emojis.
 - [FavPNG](https://favpng.com/) - Database of 16+ million free transparent PNG files.
 - [Free PNG IMG](https://freepngimg.com/) - Free PNG images, cliparts, and icons with transparent backgrounds in high quality.
+- [Mini-Tools Free Image Hosting](https://mini-tools.uk/upload) - Upload images and generate direct URLs plus Markdown, HTML, and BBCode snippets for documentation, forums, and quick sharing.
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
 - [Heroicons (dev version)](https://heroicons.dev/) - MIT open source interface icons for web and app development.
 - [Iconer](https://iconer.app/) - Curated collection of icons from multiple libraries.
