@@ -286,6 +286,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ## Components UI
 
 - [Aceternity UI](https://ui.aceternity.com/) - Trending Tailwind CSS components with animations, ready to copy and paste.
+- [HorizonX](https://horizonx.so) - Premium UI and code library with Figma assets, React components, Tailwind templates, and interactive tools for vibe coders, designers, and developers.
 - [Magic UI](https://magicui.design/) - 50+ animated React components built with Tailwind CSS and Framer Motion.
 - [Uiverse](https://uiverse.io/) - Community-built UI elements copyable as HTML/CSS, Tailwind, React, or Figma.
 
