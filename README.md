@@ -216,6 +216,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [KeyboardTester.click Online Ruler](https://keyboardtester.click/online-ruler.php) - Browser ruler for measuring on-screen elements after calibration.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder text in custom lengths for mockups and layouts.
 - [Mydentify JavaScript SEO Render Checker](https://mydentify.com/tools/javascript-seo-render-checker) - Compare a page's initial HTML with its browser-rendered title, description, H1, canonical URL, structured data, links, and core text.
+- [Naratake Free Tools](https://naratake.com/en/tools) - 43 browser-based tools for local businesses: QR codes, printable signs and price lists, LocalBusiness schema, and food, labor and tip calculators. No signup required.
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
 - [Nutilz](https://nutilz.com) - Free browser-based calculators, text, image, and developer tools — no signup required.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
