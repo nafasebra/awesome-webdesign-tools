@@ -206,7 +206,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Haikei](https://app.haikei.app/) - Generate unique SVG design assets.
 - [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes client-side.
 - [Hidden Tools](https://hiddentools-eight.vercel.app/) - Curated collection of unique online tools.
-- - [HTML Pocket – HTML Line Divider Generator](https://www.htmlpocket.com/tools/html-line-divider/) - Create and copy styled semantic `<hr>` dividers in your browser.
+- [HTML Pocket – HTML Line Divider Generator](https://www.htmlpocket.com/tools/html-line-divider/) - Create and copy styled semantic `<hr>` dividers in your browser.
 - [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Rotate portrait photos to landscape orientation in the browser.
 - [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
 - [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
