@@ -85,6 +85,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output.
 - [Gradient Magic](https://www.gradientmagic.com/) - Gallery of unique CSS gradients.
 - [InclusiveColors](https://www.inclusivecolors.com/) - Accessible Tailwind-style UI palette creator with WCAG/APCA contrast checks and CSS/Figma export.
+- [OKLCH Converter](https://goaichat.app/tools/oklch) - Convert between OKLCH, hex, RGB, and HSL, and build perceptually even palettes with chroma-reducing gamut mapping instead of clipped colors.
 - [Paletton](https://paletton.com/) - Color wheel tool for creating harmonious color combinations (formerly Color Scheme Designer).
 - [Palette Generator](https://dailytoolkit.app/tools/color-palette-generator) - Generate coordinated color palettes from a base color.
 - [Palettte App](https://palettte.app/) - Palette editing and remapping tool.
