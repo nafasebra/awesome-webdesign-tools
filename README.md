@@ -227,6 +227,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create scannable QR codes from text, URLs, or contact info.
 - [Quick Image Kit](https://quickimagekit.com/) - Compress, resize, convert, crop images, and generate favicon packages in the browser.
 - [Really Good Emails](https://reallygoodemails.com/) - Curated email design inspiration for marketers.
+- [Refentra HEIC to JPG](https://refentra.com/tools/heic-to-jpg/) - Convert one HEIC or HEIF photo to JPG locally in a browser worker, with adjustable quality, no signup, and no file upload.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions with match highlighting.
 - [Remove Audio](https://remove-audio.com) - Strip audio from video files locally via WebAssembly — no uploads.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs.
