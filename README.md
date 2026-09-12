@@ -84,6 +84,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Grabient](https://www.grabient.com/) - Beautiful and simple UI for generating web gradients.
 - [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output.
 - [Gradient Magic](https://www.gradientmagic.com/) - Gallery of unique CSS gradients.
+- [Hex to RGB](https://hextorgb.io/) - Convert hex, RGB, HSL, OKLCH, and CMYK in one workspace, with palettes, contrast checks, and design tokens.
 - [InclusiveColors](https://www.inclusivecolors.com/) - Accessible Tailwind-style UI palette creator with WCAG/APCA contrast checks and CSS/Figma export.
 - [Paletton](https://paletton.com/) - Color wheel tool for creating harmonious color combinations (formerly Color Scheme Designer).
 - [Palette Generator](https://dailytoolkit.app/tools/color-palette-generator) - Generate coordinated color palettes from a base color.
