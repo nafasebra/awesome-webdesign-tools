@@ -3,7 +3,6 @@
 An awesome list of tools for web designers and developers — websites, libraries, utilities, and more.
 
 ---
-
 ## Contributions
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding tools, entry format, and how to submit a pull request.
@@ -46,7 +45,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Icones](https://icones.js.org/) - Searchable collection of icon sets for web projects.
 - [ICONSVG](https://iconsvg.xyz/) - Find, customize, and generate common SVG icons for your project.
 - [Ikonate](https://ikonate.com/) - Customize, adjust, and download free vector icons.
-- [Noun Project](https://thenounproject.com/) - Diverse collection of 5M+ free icons and stock photos in SVG and PNG.
+- [Noun Project](https://thenounproject.com/) - Diverse collection of 5M+ free icons and stock photos in SVG, AI, and PNG.
 - [PNG Tree](https://pngtree.com/) - Millions of free PNG images, backgrounds, vectors, PSD, AI, and EPS files.
 - [Radix Icons](https://www.radix-ui.com/icons) - Crisp set of 15×15 icons designed by the WorkOS team.
 - [Shape.so](https://shape.so/) - 36,000+ customizable icons and illustrations exportable to SVG, Lottie, and React.
@@ -245,6 +244,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Unused CSS](https://unused-css.com/) - Find and remove unused CSS rules from your stylesheets.
 - [URL Encoder & Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and percent-encoded strings locally in your browser.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate random UUID v4 values, including bulk generation.
+- [Uwarp](https://www.uwarp.design/) - Free browser-based UI design tools for colors, SVGs, icons and more; no signup required.
 - [Webcode Tools](https://webcode.tools/) - Generate common website sections and components.
 - [WhatRuns](https://www.whatruns.com/) - Discover technologies used on any website.
 - [Zapsplat](https://www.zapsplat.com/) - 150,000+ free sound effects for creative projects.
@@ -273,7 +273,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [HTML Reference](https://htmlreference.io/) - Guide to HTML elements and attributes.
 - [Shortcode](https://shortcode.dev/) - Useful HTML, CSS, and JavaScript snippets and examples.
 - [SitePoint](https://www.sitepoint.com/) - Web design and development tutorials, courses, and books.
-- [WP Sessions](https://wpsessions.com/) - WordPress video tutorials from industry experts.
+- [WP Sessions](https://wpsessions.com/) - WordPress video tutorials.
 
 ## Good for you
 
