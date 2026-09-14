@@ -183,7 +183,6 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Whirl](https://whirl.netlify.app/) - Collection of CSS loading animations.
 
 ## Utils
-- [Cut My Image](https://cutmyimage.com/) - Split any image into rows, columns or a grid in the browser, then download the pieces one by one or as a ZIP.
 - [Free Image Merger](https://freeimagemerger.com/) - Merge 2–20 images side by side, in a grid, or freestyle. 100% free, runs in the browser, no uploads.
 
 - [All Tools Verse](https://alltoolsverse.com/) - 1,000+ free browser-based utilities for developers and designers, including code, data, text, image, document, and conversion tools. No signup required.
@@ -201,6 +200,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore and compare CSS length units.
 - [CSS Toolkit](https://csstoolkit.net) - Box shadow, border radius, px-to-rem, text shadow, and animation generators.
 - [CSS Tools Online](https://codebeautify.org/css-tools) - Collection of CSS utilities for common developer tasks.
+- [Cut My Image](https://cutmyimage.com/) - Split any image into rows, columns or a grid in the browser, then download the pieces one by one or as a ZIP.
 - [DevTools](https://devtools.davrapps.dev) - 16 free browser-based tools: JSON formatter, JWT decoder, regex tester, cron builder, and more.
 - [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) - Check if a website is down globally or only for you.
 - [EncodingBase64](https://encodingbase64.com/) - Base64 encoding and decoding for text, files, images, and URL-safe formats.
