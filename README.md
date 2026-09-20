@@ -290,6 +290,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Aceternity UI](https://ui.aceternity.com/) - Trending Tailwind CSS components with animations, ready to copy and paste.
 - [Magic UI](https://magicui.design/) - 50+ animated React components built with Tailwind CSS and Framer Motion.
 - [Uiverse](https://uiverse.io/) - Community-built UI elements copyable as HTML/CSS, Tailwind, React, or Figma.
+- [stepwise](https://ui.stepwise.studio/) - A bunch of wonderful components
 
 ## AI
 
