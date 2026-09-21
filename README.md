@@ -243,6 +243,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [ToolSparkr](https://toolsparkr.com) - 35+ developer tools including JSON formatter, hash generators, and DNS lookup.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
 - [Unused CSS](https://unused-css.com/) - Find and remove unused CSS rules from your stylesheets.
+- [YiceKit SEO Title Checker](https://yicekit.com/tools/seo-title-checker/) - Check Chinese and English SEO title length and preview a search snippet in the browser without an account.
 - [URL Encoder & Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and percent-encoded strings locally in your browser.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate random UUID v4 values, including bulk generation.
 - [Webcode Tools](https://webcode.tools/) - Generate common website sections and components.
