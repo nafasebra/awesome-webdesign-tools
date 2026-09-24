@@ -24,7 +24,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [AI](#ai)
 
 ## Icons
-- [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, GIF, or WEBP images into a multi-size ICO file locally in your browser.
+
 
 - [3DIcons](https://3dicons.co/) - 1440+ beautifully crafted open-source 3D icons, free for personal and commercial use without attribution.
 - [Boxicons](https://boxicons.com/) - High-quality open source web icons for designers and developers.
@@ -49,6 +49,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Ikonate](https://ikonate.com/) - Customize, adjust, and download free vector icons.
 - [Noun Project](https://thenounproject.com/) - Diverse collection of 5M+ free icons and stock photos in SVG and PNG.
 - [PNG Tree](https://pngtree.com/) - Millions of free PNG images, backgrounds, vectors, PSD, AI, and EPS files.
+- [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, GIF, or WEBP images into a multi-size ICO file locally in your browser.
 - [Radix Icons](https://www.radix-ui.com/icons) - Crisp set of 15×15 icons designed by the WorkOS team.
 - [Shape.so](https://shape.so/) - 36,000+ customizable icons and illustrations exportable to SVG, Lottie, and React.
 - [StickPNG](https://stickpng.com/) - Community-shared transparent PNG images for personal and educational projects.
