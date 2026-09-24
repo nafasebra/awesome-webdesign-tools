@@ -24,6 +24,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [AI](#ai)
 
 ## Icons
+- [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, GIF, or WEBP images into a multi-size ICO file locally in your browser.
 
 - [3DIcons](https://3dicons.co/) - 1440+ beautifully crafted open-source 3D icons, free for personal and commercial use without attribution.
 - [Boxicons](https://boxicons.com/) - High-quality open source web icons for designers and developers.
