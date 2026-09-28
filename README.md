@@ -302,6 +302,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [DeepSeek Chat](https://chat.deepseek.com/) - AI chat assistant for coding and general questions.
 - [Hotpot.ai](https://hotpot.ai/) - AI image editor, generator, and writing tools.
 - [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill.
+- [Image to Layer](https://image2layers.org/) - AI splits a flat JPG, PNG or WebP into editable transparent layers with the hidden background filled in and exports a layered PSD; the single-layer PSD converter is free and runs in the browser.
 - [Image Translate AI](https://imagetranslateai.org/) - Translate text in images across 200+ languages while preserving layout.
 - [powerfulwebsites.online](https://powerfulwebsites.online/) - A curated directory of highly useful, viral, and hidden tools across the internet with Quiz and AI-assistant.
 - [Rix](https://hashnode.com/rix) - AI chatbot for debugging programming issues (beta).
