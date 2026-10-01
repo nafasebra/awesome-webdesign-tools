@@ -307,6 +307,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Rix](https://hashnode.com/rix) - AI chatbot for debugging programming issues (beta).
 - [Seona AI](https://seona.usestyle.ai/new) - AI-powered SEO assistant with weekly optimization suggestions.
 - [WebCoreLab](https://webcorelab.com) - SEO and Core Web Vitals audit tool with AI-powered GEO/AEO visibility tracking.
+- [Tesla Wrap Generator](https://teslawrapgenerator.com/) - Turn a prompt or photo into a Tesla Paint Shop custom wrap for your exact model, preview it in 3D and download the PNG.
 
 ---
 
