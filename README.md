@@ -172,6 +172,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Flexbox Froggy](https://flexboxfroggy.com/) - Game for learning CSS flexbox.
 - [Flexplorer](https://bennettfeely.com/flexplorer/) - Interactive explorer for the CSS Flexible Box model.
 - [Grid Garden](https://cssgridgarden.com/) - Game for learning CSS grid layout.
+- [Layout Forge](https://vumox.github.io/layout-forge/) - Free, open-source CSS Grid and Flexbox generators with live previews and HTML/CSS export.
 - [Layout Generator](https://layout.bradwoods.io/) - CSS Grid and Flexbox generator for UI layout components.
 
 ## CSS loaders
