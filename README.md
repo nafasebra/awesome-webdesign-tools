@@ -156,6 +156,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [1001 Fonts](https://www.1001fonts.com/) - 56,000+ free fonts with commercial-use licenses.
 - [1Fonts by AliMD](http://alimd.github.io/1fonts/demo/) - Collection of Farsi (Persian) and Arabic web fonts.
 - [Abstract Fonts](https://www.abstractfonts.com/) - 10,000+ free fonts with web font download options.
+- [Cursive Text Generator](https://cursive-text-generator.net/) - Convert text into Unicode cursive and script characters that can be copied and pasted anywhere, no font files needed.
 - [Font Converter](https://www.fontconverter.io/en) - Convert font files between formats.
 - [Font Library](https://fontlibrary.dev/) - Open source project to tag and browse Google Fonts.
 - [Font Space](https://www.fontspace.com/) - Free licensed fonts for design projects.
