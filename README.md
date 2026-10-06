@@ -192,6 +192,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Base64 Encoder/Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode Base64 strings client-side.
 - [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) - Compare JSON structures locally in the browser and inspect added, removed and changed values by path.
 - [BulkPicTools](https://bulkpictools.com/) - Bulk image processor for compress, convert, resize, and crop — no upload required.
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in email clients.
 - [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
