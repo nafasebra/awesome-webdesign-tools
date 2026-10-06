@@ -196,6 +196,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in email clients.
 - [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
 - [Cleanmock](https://cleanmock.com/) - Create beautiful website and design mockups.
+- [Compare Two Lists](https://comparetwolists.net/) - Compare pasted lists or TXT, CSV, and XLSX columns to find shared, missing, and duplicate values, with local browser processing and downloadable results; free without signup.
 - [Compify](https://compify.app/) - Open-source React component workflow.
 - [CompressFast](https://compressfast.site) - Free browser-side image compressor (PNG/JPEG/WebP/AVIF/HEIC), 30-image batch, 100% local with zero uploads.
 - [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore and compare CSS length units.
@@ -311,3 +312,4 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ---
 
 The list will grow over time! Have fun using it! ❤️✌️
+
