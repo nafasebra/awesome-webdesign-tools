@@ -48,6 +48,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Ikonate](https://ikonate.com/) - Customize, adjust, and download free vector icons.
 - [Noun Project](https://thenounproject.com/) - Diverse collection of 5M+ free icons and stock photos in SVG and PNG.
 - [PNG Tree](https://pngtree.com/) - Millions of free PNG images, backgrounds, vectors, PSD, AI, and EPS files.
+- [PWA Icon Generator](https://pwastack.com/tools/icon-generator) - Turn one logo into every PWA icon, maskable icon, favicon.ico and iOS launch screen, with the HTML tags, in the browser.
 - [Radix Icons](https://www.radix-ui.com/icons) - Crisp set of 15×15 icons designed by the WorkOS team.
 - [Shape.so](https://shape.so/) - 36,000+ customizable icons and illustrations exportable to SVG, Lottie, and React.
 - [StickPNG](https://stickpng.com/) - Community-shared transparent PNG images for personal and educational projects.
