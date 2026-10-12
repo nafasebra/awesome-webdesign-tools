@@ -234,6 +234,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions with match highlighting.
 - [Remove Audio](https://remove-audio.com) - Strip audio from video files locally via WebAssembly — no uploads.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs.
+- [Stayput](https://stayput.dev) - Image tools for site assets that run in your browser: compress and resize images, convert HEIC to JPG, remove EXIF data and cut out backgrounds, with your files not uploaded.
 - [Strong Password Generator](https://www.strong-password.com/) - Generate passwords, passphrases, PINs, and Wi-Fi QR codes client-side, with an embeddable widget.
 - [SVG to JSX](https://svg2jsx.com/) - Convert SVG markup to JSX for React apps.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts with line-by-line diff highlighting.
