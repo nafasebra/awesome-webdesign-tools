@@ -222,6 +222,9 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
 - [Nutilz](https://nutilz.com) - Free browser-based calculators, text, image, and developer tools — no signup required.
 - [Olivez Hash Generator & Checksum Checker](https://olivez.in/tool/hash-generator-checker) - Generate SHA-256, SHA-384, or SHA-512 for text and files, then verify raw digests, GNU or BSD checksum lines, and checksum lists locally.
+- [Olutil](https://olutil.com/) - 500+ free browser-based utilities across 23 categories (developer, image, PDF, finance, home, travel and more). No sign-up; everything runs locally.
+- [Olutil Dev Tools](https://dev.olutil.com/) - Free browser-based developer utilities: JSON, JWT, regex, diff, hashes, cron, QR. 100% client-side.
+- [Olutil Image Tools](https://image.olutil.com/) - Resize, compress, convert (HEIC/SVG/BMP/GIF), crop and remove backgrounds in the browser. No uploads.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
