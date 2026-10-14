@@ -262,6 +262,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [1LOC](https://phuoc.ng/collection/1-loc/) - JavaScript utilities in one line of code.
 - [30 Seconds of Code](https://www.30secondsofcode.org/) - Short code snippets for everyday development tasks.
 - [CodeWars](https://www.codewars.com/) - Practice coding through challenges and kata.
+- [Color Genius](https://colorgenius.art) - Interactive color-perception trainer: match RGB colors across difficulty modes and compete on a global leaderboard.
 - [CSS Author](https://cssauthor.com/) - Design and development blog with tutorials and resources.
 - [CSS Battle](https://cssbattle.dev/) - CSS replication game for designers and developers.
 - [CSS Reference](https://cssreference.io/) - Visual guide to popular CSS properties with animated examples.
