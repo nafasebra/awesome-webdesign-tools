@@ -237,6 +237,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Redirect Checker](https://nutilz.com/redirect-checker) - Trace a URL's full redirect chain and see each hop's status code before you click.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions with match highlighting.
 - [Remove Audio](https://remove-audio.com) - Strip audio from video files locally via WebAssembly — no uploads.
+- [Responsive Tool](https://responsivetool.com) - Preview a pasted URL across multiple real device viewport sizes at once — swap any pane's device instantly, test custom widths, and check behavior right at a CSS breakpoint boundary. No signup, no install.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs.
 - [Strong Password Generator](https://www.strong-password.com/) - Generate passwords, passphrases, PINs, and Wi-Fi QR codes client-side, with an embeddable widget.
 - [SVG to JSX](https://svg2jsx.com/) - Convert SVG markup to JSX for React apps.
