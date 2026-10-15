@@ -163,6 +163,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Font Space](https://www.fontspace.com/) - Free licensed fonts for design projects.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Handpicked free fonts with commercial-use licenses.
 - [Fontsly](https://fontsly.com/) - Large collection of free fonts browsable by style, type, and author.
+- [FontVibe Fancy Font Generator](https://fontvibe.ai/tools/fancy-font-generator) - Turns text into 110 copy-and-paste Unicode styles (bold, cursive, gothic, bubble and more). Free, runs in the browser, no sign-up.
 - [Glyphter](https://glyphter.com/) - Create icon fonts by dragging SVGs onto a character grid.
 - [Typescale](https://typescale.com/) - Create typography scales, generate CSS, and find inspiration.
 - [BioFontsApp](https://biofontsapp.com/?utm_source=github&utm_medium=awesome_list) - A web-based utility for generating aesthetic fonts for social media with a clean, intuitive interface.
