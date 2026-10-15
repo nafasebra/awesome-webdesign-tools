@@ -307,6 +307,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Hotpot.ai](https://hotpot.ai/) - AI image editor, generator, and writing tools.
 - [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill.
 - [Image Translate AI](https://imagetranslateai.org/) - Translate text in images across 200+ languages while preserving layout.
+- [LogoMovo](https://logomovo.com/) - AI-assisted logo directions with editable symbols, typography, colors and SVG or PNG export; Studio requires an account and an active paid plan.
 - [powerfulwebsites.online](https://powerfulwebsites.online/) - A curated directory of highly useful, viral, and hidden tools across the internet with Quiz and AI-assistant.
 - [Rix](https://hashnode.com/rix) - AI chatbot for debugging programming issues (beta).
 - [Seona AI](https://seona.usestyle.ai/new) - AI-powered SEO assistant with weekly optimization suggestions.
