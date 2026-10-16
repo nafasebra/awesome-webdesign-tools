@@ -302,6 +302,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 ## AI
 
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) - Ficory LLC의 웹 기반 만화 리더는 지원 언어의 개인 일괄·맞춤 번역, 스튜디오의 완전한 온라인 Photoshop형 편집, 개인 작업 흐름용 API를 제공합니다.
 - [AISO Tools Audit](https://aisotools.com/audit) - Check whether ChatGPT recommends your tool in its category by running five buying-intent prompts and scoring the mentions.
 - [DeepSeek Chat](https://chat.deepseek.com/) - AI chat assistant for coding and general questions.
 - [Hotpot.ai](https://hotpot.ai/) - AI image editor, generator, and writing tools.
