@@ -299,6 +299,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Magic UI](https://magicui.design/) - 50+ animated React components built with Tailwind CSS and Framer Motion.
 - [Uiverse](https://uiverse.io/) - Community-built UI elements copyable as HTML/CSS, Tailwind, React, or Figma.
 - [stepwise](https://ui.stepwise.studio/) - A bunch of wonderful components
+- [Bestax](https://bestax.io/) - TypeScript React components for the Bulma v1 CSS framework, with helper props for spacing, colour and typography.
 
 ## AI
 
