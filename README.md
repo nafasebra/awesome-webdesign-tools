@@ -46,6 +46,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Icones](https://icones.js.org/) - Searchable collection of icon sets for web projects.
 - [ICONSVG](https://iconsvg.xyz/) - Find, customize, and generate common SVG icons for your project.
 - [Ikonate](https://ikonate.com/) - Customize, adjust, and download free vector icons.
+- [Modern Favicon Generator](https://favicon.kumardeepak.com/) - Modern favicon generator built around an intuitive interface.
 - [Noun Project](https://thenounproject.com/) - Diverse collection of 5M+ free icons and stock photos in SVG and PNG.
 - [PNG Tree](https://pngtree.com/) - Millions of free PNG images, backgrounds, vectors, PSD, AI, and EPS files.
 - [Radix Icons](https://www.radix-ui.com/icons) - Crisp set of 15×15 icons designed by the WorkOS team.
