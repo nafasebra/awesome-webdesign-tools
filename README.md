@@ -68,6 +68,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ## Colors
 
 - [Bada55](http://bada55.io/) - Find memorable hex color words for your CSS code.
+- [Color Contrast Checker](https://benjaminolsen.dev/contrast-checker/) - Compare solid text and background colors, preview a color pair, and check WCAG AA and AAA text contrast thresholds.
 - [Color Designer](https://colordesigner.io/tools) - Palette generator, gradient generator, and color name finder.
 - [Color Forge](https://ryudi84.github.io/sovereign-tools/tools/color_forge/) - Generate and explore color palettes with CSS export. Free, no signup required.
 - [Color Hunt](https://colorhunt.co/) - Hand-picked color palettes for design and art projects.
