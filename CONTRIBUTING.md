@@ -22,7 +22,9 @@ Each entry follows this format:
 
 - **Relevant** — The tool should be useful for web designers or developers (icons, colors, layouts, CSS, fonts, utilities, learning resources, AI tools, etc.).
 - **Working link** — Use the tool's official URL. Avoid shorteners or affiliate links.
+- **Test your tool** — If you're submitting your own tool, make sure it works correctly and is free of bugs.
 - **Clear description** — One sentence is enough. Focus on what the tool does, not marketing copy.
+- **Use English language** — The tool, including its interface, name, and description, must be in English.
 - **Right category** — Place the entry in the most fitting section. If you're unsure, mention it in your PR.
 - **No duplicates** — Search the README first to make sure the tool isn't already listed.
 - **Alphabetical order** — Within each section, keep entries sorted alphabetically by tool name.
