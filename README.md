@@ -207,6 +207,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore and compare CSS length units.
 - [CSS Toolkit](https://csstoolkit.net) - Box shadow, border radius, px-to-rem, text shadow, and animation generators.
 - [CSS Tools Online](https://codebeautify.org/css-tools) - Collection of CSS utilities for common developer tasks.
+- [CurlShot](https://curlshot.com) - Capture full-page or device-sized screenshots of any website as PNG, JPEG, WebP or PDF, in the browser without an account or through an API.
 - [DevTools](https://devtools.davrapps.dev) - 16 free browser-based tools: JSON formatter, JWT decoder, regex tester, cron builder, and more.
 - [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) - Check if a website is down globally or only for you.
 - [EncodingBase64](https://encodingbase64.com/) - Base64 encoding and decoding for text, files, images, and URL-safe formats.
