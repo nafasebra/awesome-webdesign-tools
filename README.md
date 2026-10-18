@@ -95,6 +95,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Parametric Color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - Color palette composer inspired by audio parametric equalizers.
 - [Shape Divider](https://www.shapedivider.app/) - Custom SVG shape dividers for section transitions.
 - [Tailwind CSS Color Explorer](https://devtools.davrapps.dev/en/tailwind-colors) - Browse the Tailwind CSS v4 palette with live component previews.
+- [ToolKnit Color Picker](https://toolknit.com/tools/color-picker.html) - Convert between HEX, RGB and HSL and generate complementary, analogous or triadic color palettes in the browser.
 - [WebGradients](https://webgradients.com/) - Free collection of 180 linear gradients for website backgrounds.
 
 ## Designs
