@@ -284,6 +284,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [HTML Reference](https://htmlreference.io/) - Guide to HTML elements and attributes.
 - [Shortcode](https://shortcode.dev/) - Useful HTML, CSS, and JavaScript snippets and examples.
 - [SitePoint](https://www.sitepoint.com/) - Web design and development tutorials, courses, and books.
+- [WebCheatSheet](https://webcheatsheet.com/) - Free tutorials and references for PHP, JavaScript, HTML, and SQL.
 - [WP Sessions](https://wpsessions.com/) - WordPress video tutorials from industry experts.
 
 ## Good for you
