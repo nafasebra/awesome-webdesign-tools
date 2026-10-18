@@ -230,6 +230,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Nutilz](https://nutilz.com) - Free browser-based calculators, text, image, and developer tools — no signup required.
 - [Olivez Hash Generator & Checksum Checker](https://olivez.in/tool/hash-generator-checker) - Generate SHA-256, SHA-384, or SHA-512 for text and files, then verify raw digests, GNU or BSD checksum lines, and checksum lists locally.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
+- [Online Mini Tools](https://onlineminitools.com) - 2,300+ free browser-based utilities for developers and designers: formatters, encoders, validators, CSS helpers, converters, and calculators, all running client-side with no signup.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
