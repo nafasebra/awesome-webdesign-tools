@@ -26,6 +26,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ## Icons
 
 - [3DIcons](https://3dicons.co/) - 1440+ beautifully crafted open-source 3D icons, free for personal and commercial use without attribution.
+- [APPLORE App Icon Generator](https://applore.app/app-icon-generator) - Export every iOS, Android and web app icon size from one image, free and without an account.
 - [Boxicons](https://boxicons.com/) - High-quality open source web icons for designers and developers.
 - [Core UI](https://coreui.io/icons/) - Premium-designed free icon set in SVG, JavaScript, and webfont formats.
 - [CSS icons](https://css.gg/app) - App for css.gg icons with custom selection for all pure CSS icons.
