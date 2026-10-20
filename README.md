@@ -208,6 +208,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [CSS Toolkit](https://csstoolkit.net) - Box shadow, border radius, px-to-rem, text shadow, and animation generators.
 - [CSS Tools Online](https://codebeautify.org/css-tools) - Collection of CSS utilities for common developer tasks.
 - [DevTools](https://devtools.davrapps.dev) - 16 free browser-based tools: JSON formatter, JWT decoder, regex tester, cron builder, and more.
+- [Docexp](https://docexp.com/) - 116 free browser tools for PDFs, images and documents, including photo resizing to exact pixel and KB limits for upload forms. Runs client-side with no uploads or signup.
 - [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) - Check if a website is down globally or only for you.
 - [EncodingBase64](https://encodingbase64.com/) - Base64 encoding and decoding for text, files, images, and URL-safe formats.
 - [FreeToolHub](https://freetoolhub.org) - 190+ free browser-based tools for developers and designers, including image compression, PDF utilities, color tools, and calculators. Everything runs client-side with no uploads or signup.
