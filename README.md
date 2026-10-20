@@ -160,6 +160,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [1Fonts by AliMD](http://alimd.github.io/1fonts/demo/) - Collection of Farsi (Persian) and Arabic web fonts.
 - [Abstract Fonts](https://www.abstractfonts.com/) - 10,000+ free fonts with web font download options.
 - [Cursive Text Generator](https://cursive-text-generator.net) - Generate copyable Unicode cursive, script, and calligraphy text for social profiles, messages, and creative projects.
+- [Fluid Typography Calculator](https://maniruzzamanjubayer.com/tools/fluid-typography-calculator) - Build a fluid type scale with CSS clamp(), preview it at any width, and check every step against WCAG zoom.
 - [Font Converter](https://www.fontconverter.io/en) - Convert font files between formats.
 - [Font Library](https://fontlibrary.dev/) - Open source project to tag and browse Google Fonts.
 - [Font Space](https://www.fontspace.com/) - Free licensed fonts for design projects.
