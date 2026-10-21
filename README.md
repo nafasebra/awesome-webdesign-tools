@@ -248,7 +248,8 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF generator. Create typing animations and export as GIFs without signup. Perfect for GitHub READMEs, Discord status, and portfolio hero sections.
 - [TinyPNG](https://tinypng.com/) - Popular tool for compressing PNG and JPEG images.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Domain generator, OG image maker, favicon generator, and other browser-based utilities.
-- [Tool Pantry](https://toolpantry.app) - 216 free browser tools for PDF, images, video and text that process files locally — nothing is uploaded.
+- [Favicon Generator](https://toolpantry.app/favicon-generator) - Turn any image into a full favicon set (16, 32, 180, 192, 512 px) in your browser; no upload, no account.
+- [Color Converter](https://toolpantry.app/color-converter) - Convert HEX, RGB, HSL and CMYK with a live swatch and a contrast check.
 - [ToolArks](https://toolarks.com) - Privacy-first toolbox with image compression and JSON formatting — 100% local.
 - [ToolBox](https://www.toolbox-kit.com) - 170+ client-side tools for developers and designers.
 - [Toolio](https://toolio.pongvn.com) - 195 free browser tools including PDF, image, converter, and developer utilities — most run client-side with no upload.
