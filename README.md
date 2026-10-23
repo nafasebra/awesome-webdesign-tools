@@ -62,6 +62,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Tilda](https://tilda.cc/free-icons/) - 400+ free vector icons in 27 sets for landing pages.
 - [VisualPharm](https://www.visualpharm.com/) - 400k free icons available for download in SVG and PNG.
 - [Zwicon](https://www.zwicon.com/) - Open icon library originally built to support work at @zwoelf.
+- [Zyff Favicon Generator](https://www.zyff.app/tools/favicon-generator) - Turns one image into a multi-size .ico, PNG and Apple touch icons, a maskable icon and a web manifest, plus the HTML tags to paste.
 - [Blush](https://blush.design/collections) - Free customizable illustrations made by artists worldwide.
 - [Peeps Avatar Builder](https://peeps.ui8.net/) - Build custom 3D-style avatar illustrations by UI8.
 - [Sapiens Character Builder](https://sapiens.ui8.net/9f4c6r2) - Character builder for illustrations by UI8.
