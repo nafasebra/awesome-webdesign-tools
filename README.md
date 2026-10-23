@@ -68,6 +68,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 ## Colors
 
+- [antvibe Colors](https://antvibe.dev/en/web-dev/colors) - Browse and copy CSS color codes in HEX, RGB, HSL, and OKLCH filtered by hue, saturation, brightness, and mood.
 - [Bada55](http://bada55.io/) - Find memorable hex color words for your CSS code.
 - [Color Designer](https://colordesigner.io/tools) - Palette generator, gradient generator, and color name finder.
 - [Color Forge](https://ryudi84.github.io/sovereign-tools/tools/color_forge/) - Generate and explore color palettes with CSS export. Free, no signup required.
@@ -194,6 +195,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [A Box of Tools](https://abox.tools/) - 35 single-purpose file tools for images, video, audio, PDFs and text that run entirely in the browser, with nothing uploaded.
 - [All Tools Verse](https://alltoolsverse.com/) - 1,000+ free browser-based utilities for developers and designers, including code, data, text, image, document, and conversion tools. No signup required.
 - [Am I Responsive](https://ui.dev/amiresponsive) - Preview responsive design across four viewport sizes at once.
+- [antvibe](https://antvibe.dev/en) - Free multilingual web tools including color utilities, accessibility checks, code snippets, and a JSON formatter.
 - [App Doodler](https://doodler.copymyui.com/) - Create multilingual App Store screenshots from reusable layouts and translation files.
 - [Base64 Encoder/Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode Base64 strings client-side.
 - [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
