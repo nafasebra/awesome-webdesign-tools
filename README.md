@@ -237,6 +237,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [ProtoPeek](https://protopeek.shreyam1008.com.np/) - Local Go workbench with a browser interface for inspecting HTTP and gRPC services.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
+- [PX to REM Converter](https://www.devkitlab.com/en/tools/px-rem-converter/) - Convert px, rem, em, pt, and % against an adjustable root font-size, and generate fluid clamp() values for responsive type.
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a formatted README.md by filling in project details.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create scannable QR codes from text, URLs, or contact info.
 - [Quick Image Kit](https://quickimagekit.com/) - Compress, resize, convert, crop images, and generate favicon packages in the browser.
