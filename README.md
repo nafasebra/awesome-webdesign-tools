@@ -253,6 +253,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [ToolBox](https://www.toolbox-kit.com) - 170+ client-side tools for developers and designers.
 - [Toolio](https://toolio.pongvn.com) - 195 free browser tools including PDF, image, converter, and developer utilities — most run client-side with no upload.
 - [ToolSparkr](https://toolsparkr.com) - 35+ developer tools including JSON formatter, hash generators, and DNS lookup.
+- [TranslateMyImage Image to Text](https://translatemyimage.com/tools/image-to-text) - Extract the text from an image (OCR) in the browser; the image is not uploaded and no signup is needed.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
 - [Unused CSS](https://unused-css.com/) - Find and remove unused CSS rules from your stylesheets.
 - [URL Encoder & Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and percent-encoded strings locally in your browser.
