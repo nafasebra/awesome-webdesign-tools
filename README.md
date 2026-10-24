@@ -30,6 +30,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Core UI](https://coreui.io/icons/) - Premium-designed free icon set in SVG, JavaScript, and webfont formats.
 - [CSS icons](https://css.gg/app) - App for css.gg icons with custom selection for all pure CSS icons.
 - [Digital nomad icons](https://digitalnomadicons.com/) - Digital nomad themed set of 25 high-resolution flat icons, free to use.
+- [EmojiFavicons](https://emojifavicons.com/) - Free emoji favicon generator and URL API: any emoji as an SVG, PNG or ICO favicon from one link tag, no signup.
 - [Feather](https://feathericons.com/) - Simply beautiful open source icons.
 - [Flaticon](https://www.flaticon.com/) - Free icons and stickers in PNG, SVG, EPS, PSD, and CSS formats.
 - [Font Awesome](https://fontawesome.com/search) - The internet's icon library and toolkit used by millions of designers and developers.
