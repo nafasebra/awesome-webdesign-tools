@@ -268,6 +268,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [URL Encoder & Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and percent-encoded strings locally in your browser.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate random UUID v4 values, including bulk generation.
 - [Webcode Tools](https://webcode.tools/) - Generate common website sections and components.
+- [WebToolBench Meta Tag Generator](https://www.webtoolbench.com/meta-tag-generator) - Build title, description, canonical, Open Graph and Twitter card tags with live character counters and length warnings.
 - [WhatRuns](https://www.whatruns.com/) - Discover technologies used on any website.
 - [Zapsplat](https://www.zapsplat.com/) - 150,000+ free sound effects for creative projects.
 
