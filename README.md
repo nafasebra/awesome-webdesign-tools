@@ -34,6 +34,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Flaticon](https://www.flaticon.com/) - Free icons and stickers in PNG, SVG, EPS, PSD, and CSS formats.
 - [Font Awesome](https://fontawesome.com/search) - The internet's icon library and toolkit used by millions of designers and developers.
 - [Favicon Generator](https://favicon.io/) - Generate favicons from text, images, or emojis.
+- [Favicon Package Builder](https://radarmakers.com/tools/favicon-package-builder) - Turn a logo into an ICO file, PNG sizes and a web manifest with a real 16 pixel preview.
 - [FavPNG](https://favpng.com/) - Database of 16+ million free transparent PNG files.
 - [Free PNG IMG](https://freepngimg.com/) - Free PNG images, cliparts, and icons with transparent backgrounds in high quality.
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
