@@ -316,6 +316,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 ## AI
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Natural-language web and mobile testing with advanced memidex memory and self-improvement.
 - [AISO Tools Audit](https://aisotools.com/audit) - Check whether ChatGPT recommends your tool in its category by running five buying-intent prompts and scoring the mentions.
 - [DeepSeek Chat](https://chat.deepseek.com/) - AI chat assistant for coding and general questions.
 - [Hotpot.ai](https://hotpot.ai/) - AI image editor, generator, and writing tools.
