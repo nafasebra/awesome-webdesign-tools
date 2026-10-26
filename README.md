@@ -151,6 +151,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Magic Patterns](https://www.magicpattern.design/tools/css-backgrounds) - Pure CSS background patterns ready for production use.
 - [Neumorphism Generator](https://neumorphism.io/#e0e0e0) - CSS generator for neumorphic colors, gradients, and shadows.
 - [OpenLayers Map Example](https://openlayers.org/en/latest/examples/accessible.html) - Accessible map example useful for placeholder map images.
+- [PasteZap Clip-path Generator](https://pastezap.com/tools/clip-path-generator/) - Generate CSS polygon clip paths from triangle, diamond, hexagon or chevron presets.
 - [Quantity Queries](https://quantityqueries.com/) - Tool for building CSS quantity queries.
 - [Shadow Forge](https://ryudi84.github.io/sovereign-tools/tools/shadow_forge/) - Design CSS box-shadows with a visual builder.
 - [Shadows Brumm](https://shadows.brumm.af/) - Smooth multi-layer CSS box-shadow generator.
