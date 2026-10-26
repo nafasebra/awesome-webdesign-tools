@@ -222,6 +222,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Haikei](https://app.haikei.app/) - Generate unique SVG design assets.
 - [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes client-side.
 - [Hidden Tools](https://hiddentools-eight.vercel.app/) - Curated collection of unique online tools.
+- [Image Aspect Ratio](https://imageaspectratio.com/) - Find a photo's aspect ratio, calculate matching dimensions, and preview square, portrait and widescreen framing in the browser.
 - [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Rotate portrait photos to landscape orientation in the browser.
 - [Image to ASCII](https://imagetoascii.art/) - Turn images into ASCII art in the browser; adjust character style and width, then copy text or export TXT, PNG, SVG, HTML, or ANSI without uploading the image.
 - [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
