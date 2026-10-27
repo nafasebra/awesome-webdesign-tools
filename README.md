@@ -113,6 +113,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [CSS Buttons](https://cssbuttons.app/) - Button collection focused on simplicity and ease of use.
 - [CSS Buttons Examples](https://getcssscan.com/css-buttons-examples) - Curated collection of CSS button examples.
 - [Checkboxes Examples](https://getcssscan.com/css-checkboxes-examples) - Curated collection of CSS checkbox examples.
+- [Design Details](https://designdetails.io/) - Free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems-recent/) - Curated gallery of design systems.
 - [Dribbble](https://dribbble.com/) - Community for discovering and sharing web design inspiration.
 - [Figma Community](https://www.figma.com/community) - Free design files, plugins, and resources from the Figma community.
