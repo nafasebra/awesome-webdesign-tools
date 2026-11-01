@@ -267,6 +267,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Unused CSS](https://unused-css.com/) - Find and remove unused CSS rules from your stylesheets.
 - [URL Encoder & Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and percent-encoded strings locally in your browser.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate random UUID v4 values, including bulk generation.
+- [Video Size Reducer](https://video-size-reducer.com/) - Compress a video to a target file size and download an H.264 MP4 with no watermark.
 - [Webcode Tools](https://webcode.tools/) - Generate common website sections and components.
 - [WhatRuns](https://www.whatruns.com/) - Discover technologies used on any website.
 - [Zapsplat](https://www.zapsplat.com/) - 150,000+ free sound effects for creative projects.
