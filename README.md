@@ -225,6 +225,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Image Landscape Converter](https://image-landscape-converter.vercel.app/) - Rotate portrait photos to landscape orientation in the browser.
 - [Image to ASCII](https://imagetoascii.art/) - Turn images into ASCII art in the browser; adjust character style and width, then copy text or export TXT, PNG, SVG, HTML, or ANSI without uploading the image.
 - [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
+- [JFIF to JPG](https://jfiftojpg.app/) - Convert JFIF images to JPG or PNG in the browser without uploading or re-compressing, with batch ZIP download.
 - [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
 - [JSON Formatter](https://dailytoolkit.app/tools/json-formatter) - Format, validate, and beautify JSON with syntax highlighting.
 - [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect JSON Web Tokens directly in the browser.
