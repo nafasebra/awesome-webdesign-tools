@@ -193,7 +193,6 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Whirl](https://whirl.netlify.app/) - Collection of CSS loading animations.
 
 ## Utils
-- [AppShot](https://arnavjhajharia.github.io/appshot/) - Free in-browser App Store and Play Store screenshot maker (exact px sizes, device frames). Nothing uploaded.
 - [Free Image Merger](https://freeimagemerger.com/) - Merge 2–20 images side by side, in a grid, or freestyle. 100% free, runs in the browser, no uploads.
 
 - [A Box of Tools](https://abox.tools/) - 35 single-purpose file tools for images, video, audio, PDFs and text that run entirely in the browser, with nothing uploaded.
@@ -201,6 +200,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Am I Responsive](https://ui.dev/amiresponsive) - Preview responsive design across four viewport sizes at once.
 - [antvibe](https://antvibe.dev/en) - Free multilingual web tools including color utilities, accessibility checks, code snippets, and a JSON formatter.
 - [App Doodler](https://doodler.copymyui.com/) - Create multilingual App Store screenshots from reusable layouts and translation files.
+- [AppShot](https://arnavjhajharia.github.io/appshot/) - Free in-browser App Store and Play Store screenshot maker (exact px sizes, device frames). Nothing uploaded.
 - [Base64 Encoder/Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode Base64 strings client-side.
 - [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
