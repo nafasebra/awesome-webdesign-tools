@@ -200,6 +200,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Am I Responsive](https://ui.dev/amiresponsive) - Preview responsive design across four viewport sizes at once.
 - [antvibe](https://antvibe.dev/en) - Free multilingual web tools including color utilities, accessibility checks, code snippets, and a JSON formatter.
 - [App Doodler](https://doodler.copymyui.com/) - Create multilingual App Store screenshots from reusable layouts and translation files.
+- [Aspect Ratio Calculator](https://aspectratiocalculator.app/) - Calculate missing width or height for any aspect ratio, simplify sizes to ratios, and scale images or video without distortion — runs in the browser with no signup.
 - [Base64 Encoder/Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode Base64 strings client-side.
 - [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
