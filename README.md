@@ -322,6 +322,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill.
 - [Image to Layer](https://image2layers.org/) - AI splits a flat JPG, PNG or WebP into editable transparent layers with the hidden background filled in and exports a layered PSD; the single-layer PSD converter is free and runs in the browser.
 - [Image Translate AI](https://imagetranslateai.org/) - Translate text in images across 200+ languages while preserving layout.
+- [LogNorm](https://lognorm.com) - Crawls a website, ranks SEO and AI-visibility issues, and hands the fixes to AI agents (Claude Code, Codex, Cursor) over MCP.
 - [powerfulwebsites.online](https://powerfulwebsites.online/) - A curated directory of highly useful, viral, and hidden tools across the internet with Quiz and AI-assistant.
 - [Rix](https://hashnode.com/rix) - AI chatbot for debugging programming issues (beta).
 - [Seona AI](https://seona.usestyle.ai/new) - AI-powered SEO assistant with weekly optimization suggestions.
