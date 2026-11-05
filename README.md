@@ -38,6 +38,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Free PNG IMG](https://freepngimg.com/) - Free PNG images, cliparts, and icons with transparent backgrounds in high quality.
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
 - [Heroicons (dev version)](https://heroicons.dev/) - MIT open source interface icons for web and app development.
+- [ICO File Inspector](https://github.com/huangluxi2026/ico-file-inspector) - Inspect ICO entries, payload ranges, and PNG/DIB dimensions with a dependency-free CLI.
 - [Iconer](https://iconer.app/) - Curated collection of icons from multiple libraries.
 - [Iconfinder](https://www.iconfinder.com) - Marketplace for icons, illustrations, and 3D assets in SVG, AI, and PNG format.
 - [Iconmonstr](https://iconmonstr.com/) - Free simple icons for your next project.
@@ -46,8 +47,10 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Icones](https://icones.js.org/) - Searchable collection of icon sets for web projects.
 - [ICONSVG](https://iconsvg.xyz/) - Find, customize, and generate common SVG icons for your project.
 - [Ikonate](https://ikonate.com/) - Customize, adjust, and download free vector icons.
+- [Modern Favicon Generator](https://favicon.kumardeepak.com/) - Modern favicon generator built around an intuitive interface.
 - [Noun Project](https://thenounproject.com/) - Diverse collection of 5M+ free icons and stock photos in SVG and PNG.
 - [PNG Tree](https://pngtree.com/) - Millions of free PNG images, backgrounds, vectors, PSD, AI, and EPS files.
+- [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, GIF, or WEBP images into a multi-size ICO file locally in your browser.
 - [Radix Icons](https://www.radix-ui.com/icons) - Crisp set of 15×15 icons designed by the WorkOS team.
 - [Shape.so](https://shape.so/) - 36,000+ customizable icons and illustrations exportable to SVG, Lottie, and React.
 - [StickPNG](https://stickpng.com/) - Community-shared transparent PNG images for personal and educational projects.
@@ -64,9 +67,11 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Blush](https://blush.design/collections) - Free customizable illustrations made by artists worldwide.
 - [Peeps Avatar Builder](https://peeps.ui8.net/) - Build custom 3D-style avatar illustrations by UI8.
 - [Sapiens Character Builder](https://sapiens.ui8.net/9f4c6r2) - Character builder for illustrations by UI8.
+- [SVGicons.com](https://svgicons.com/) - Search and browse open-source SVG icons across many icon sets, preview icons, compare styles, and copy clean SVG code.
 
 ## Colors
 
+- [antvibe Colors](https://antvibe.dev/en/web-dev/colors) - Browse and copy CSS color codes in HEX, RGB, HSL, and OKLCH filtered by hue, saturation, brightness, and mood.
 - [Bada55](http://bada55.io/) - Find memorable hex color words for your CSS code.
 - [Color Designer](https://colordesigner.io/tools) - Palette generator, gradient generator, and color name finder.
 - [Color Forge](https://ryudi84.github.io/sovereign-tools/tools/color_forge/) - Generate and explore color palettes with CSS export. Free, no signup required.
@@ -74,6 +79,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Color Palette Earth](https://colorpalettes.earth/) - Daily color palette inspiration from nature.
 - [Color Picker](https://optimize-overseas.github.io/autonomousbot/tools/color-picker.html) - Free online color picker with HEX, RGB, and HSL conversion.
 - [Color Slurp](https://colorslurp.com/) - Pick, edit, and copy colors with a color picker for Mac and iOS.
+- [ColorOf](https://colorof.app/) - Color guide for palettes with comparison and accessibility checks.
 - [ColorTools](https://colorpicker.cx/color-picker) - Free browser-based image color picker with a color wheel, palette generator, CSS gradient builder, color converter, and WCAG contrast checker.
 - [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance.
 - [CSS Gradient](https://cssgradient.io/) - Create colorful gradient backgrounds for websites, blogs, and social profiles.
@@ -86,12 +92,14 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output.
 - [Gradient Magic](https://www.gradientmagic.com/) - Gallery of unique CSS gradients.
 - [InclusiveColors](https://www.inclusivecolors.com/) - Accessible Tailwind-style UI palette creator with WCAG/APCA contrast checks and CSS/Figma export.
+- [OKLCH Converter](https://goaichat.app/tools/oklch) - Convert between OKLCH, hex, RGB, and HSL, and build perceptually even palettes with chroma-reducing gamut mapping instead of clipped colors.
 - [Paletton](https://paletton.com/) - Color wheel tool for creating harmonious color combinations (formerly Color Scheme Designer).
 - [Palette Generator](https://dailytoolkit.app/tools/color-palette-generator) - Generate coordinated color palettes from a base color.
 - [Palettte App](https://palettte.app/) - Palette editing and remapping tool.
 - [Parametric Color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - Color palette composer inspired by audio parametric equalizers.
 - [Shape Divider](https://www.shapedivider.app/) - Custom SVG shape dividers for section transitions.
 - [Tailwind CSS Color Explorer](https://devtools.davrapps.dev/en/tailwind-colors) - Browse the Tailwind CSS v4 palette with live component previews.
+- [Visualise OKLCH](https://visualise-oklch.shreyam1008.com.np/) - Inline OKLCH color previews and native color-picker editing for VS Code and compatible editors.
 - [WebGradients](https://webgradients.com/) - Free collection of 180 linear gradients for website backgrounds.
 
 ## Designs
@@ -156,6 +164,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [1001 Fonts](https://www.1001fonts.com/) - 56,000+ free fonts with commercial-use licenses.
 - [1Fonts by AliMD](http://alimd.github.io/1fonts/demo/) - Collection of Farsi (Persian) and Arabic web fonts.
 - [Abstract Fonts](https://www.abstractfonts.com/) - 10,000+ free fonts with web font download options.
+- [Cursive Text Generator](https://cursive-text-generator.net) - Generate copyable Unicode cursive, script, and calligraphy text for social profiles, messages, and creative projects.
 - [Font Converter](https://www.fontconverter.io/en) - Convert font files between formats.
 - [Font Library](https://fontlibrary.dev/) - Open source project to tag and browse Google Fonts.
 - [Font Space](https://www.fontspace.com/) - Free licensed fonts for design projects.
@@ -186,24 +195,30 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ## Utils
 
 - [Free Image Merger](https://freeimagemerger.com/) - Merge 2–20 images side by side, in a grid, or freestyle. 100% free, runs in the browser, no uploads.
+- [A Box of Tools](https://abox.tools/) - 35 single-purpose file tools for images, video, audio, PDFs and text that run entirely in the browser, with nothing uploaded.
 - [All Tools Verse](https://alltoolsverse.com/) - 1,000+ free browser-based utilities for developers and designers, including code, data, text, image, document, and conversion tools. No signup required.
 - [Am I Responsive](https://ui.dev/amiresponsive) - Preview responsive design across four viewport sizes at once.
+- [antvibe](https://antvibe.dev/en) - Free multilingual web tools including color utilities, accessibility checks, code snippets, and a JSON formatter.
 - [App Doodler](https://doodler.copymyui.com/) - Create multilingual App Store screenshots from reusable layouts and translation files.
 - [Base64 Encoder/Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode Base64 strings client-side.
 - [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
+- [BidiLens](https://github.com/CodeinScrubs/BidiLens) - Tools and integration guides for rendering mixed RTL/LTR text in web interfaces.
 - [BulkPicTools](https://bulkpictools.com/) - Bulk image processor for compress, convert, resize, and crop — no upload required.
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in email clients.
 - [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
 - [Cleanmock](https://cleanmock.com/) - Create beautiful website and design mockups.
+- [Compare Two Lists](https://comparetwolists.net/) - Compare pasted lists or TXT, CSV, and XLSX columns to find shared, missing, and duplicate values, with local browser processing and downloadable results; free without signup.
 - [Compify](https://compify.app/) - Open-source React component workflow.
 - [CompressFast](https://compressfast.site) - Free browser-side image compressor (PNG/JPEG/WebP/AVIF/HEIC), 30-image batch, 100% local with zero uploads.
 - [CSS Ruler](https://katydecorah.com/css-ruler/) - Explore and compare CSS length units.
 - [CSS Toolkit](https://csstoolkit.net) - Box shadow, border radius, px-to-rem, text shadow, and animation generators.
 - [CSS Tools Online](https://codebeautify.org/css-tools) - Collection of CSS utilities for common developer tasks.
+- [Cut My Image](https://cutmyimage.com/) - Split any image into rows, columns or a grid in the browser, then download the pieces one by one or as a ZIP.
 - [DevTools](https://devtools.davrapps.dev) - 16 free browser-based tools: JSON formatter, JWT decoder, regex tester, cron builder, and more.
 - [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) - Check if a website is down globally or only for you.
 - [EncodingBase64](https://encodingbase64.com/) - Base64 encoding and decoding for text, files, images, and URL-safe formats.
+- [FreeToolHub](https://freetoolhub.org) - 190+ free browser-based tools for developers and designers, including image compression, PDF utilities, color tools, and calculators. Everything runs client-side with no uploads or signup.
 - [Gitignore Generator](https://www.toptal.com/developers/gitignore) - Generate `.gitignore` files for any project type.
 - [Haikei](https://app.haikei.app/) - Generate unique SVG design assets.
 - [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes client-side.
@@ -227,7 +242,9 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Olutil Image Tools](https://image.olutil.com/) - Resize, compress, convert (HEIC/SVG/BMP/GIF), crop and remove backgrounds in the browser. No uploads.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
+- [pic2svg](https://pic2svg.com/) - Convert PNG/JPG images to editable SVG vectors with a side-by-side trace preview (vtracer engine); trace and preview are free, file downloads are part of the Pro tier.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
+- [ProtoPeek](https://protopeek.shreyam1008.com.np/) - Local Go workbench with a browser interface for inspecting HTTP and gRPC services.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a formatted README.md by filling in project details.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create scannable QR codes from text, URLs, or contact info.
@@ -236,7 +253,9 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Redirect Checker](https://nutilz.com/redirect-checker) - Trace a URL's full redirect chain and see each hop's status code before you click.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions with match highlighting.
 - [Remove Audio](https://remove-audio.com) - Strip audio from video files locally via WebAssembly — no uploads.
+- [Responsive Tool](https://responsivetool.com) - Preview a pasted URL across multiple real device viewport sizes at once — swap any pane's device instantly, test custom widths, and check behavior right at a CSS breakpoint boundary. No signup, no install.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs.
+- [SnappyKit](https://snappykit.site) - 40+ free browser-based image tools: compression (JPG/PNG/WebP/AVIF), 40+ conversion pairs incl. HEIC, resize, crop, filters, EXIF cleanup, batch ZIP. 100% client-side, no signup.
 - [Strong Password Generator](https://www.strong-password.com/) - Generate passwords, passphrases, PINs, and Wi-Fi QR codes client-side, with an embeddable widget.
 - [SVG to JSX](https://svg2jsx.com/) - Convert SVG markup to JSX for React apps.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts with line-by-line diff highlighting.
@@ -246,8 +265,10 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Domain generator, OG image maker, favicon generator, and other browser-based utilities.
 - [ToolArks](https://toolarks.com) - Privacy-first toolbox with image compression and JSON formatting — 100% local.
 - [ToolBox](https://www.toolbox-kit.com) - 170+ client-side tools for developers and designers.
+- [ToolCraft SVG to PNG](https://toolcraftbox.com/en/tools/svg-to-png) - Convert SVG vector graphics to PNG in the browser, with no upload or signup.
 - [Toolio](https://toolio.pongvn.com) - 195 free browser tools including PDF, image, converter, and developer utilities — most run client-side with no upload.
 - [ToolSparkr](https://toolsparkr.com) - 35+ developer tools including JSON formatter, hash generators, and DNS lookup.
+- [TranslateMyImage Image to Text](https://translatemyimage.com/tools/image-to-text) - Extract the text from an image (OCR) in the browser; the image is not uploaded and no signup is needed.
 - [Unix Timestamp Converter](https://optimize-overseas.github.io/autonomousbot/tools/unix-timestamp.html) - Convert between Unix timestamps and human-readable dates.
 - [Unused CSS](https://unused-css.com/) - Find and remove unused CSS rules from your stylesheets.
 - [URL Encoder & Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and percent-encoded strings locally in your browser.
@@ -298,6 +319,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Magic UI](https://magicui.design/) - 50+ animated React components built with Tailwind CSS and Framer Motion.
 - [Uiverse](https://uiverse.io/) - Community-built UI elements copyable as HTML/CSS, Tailwind, React, or Figma.
 - [stepwise](https://ui.stepwise.studio/) - A bunch of wonderful components
+- [Bestax](https://bestax.io/) - TypeScript React components for the Bulma v1 CSS framework, with helper props for spacing, colour and typography.
 
 ## AI
 
@@ -305,7 +327,9 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [DeepSeek Chat](https://chat.deepseek.com/) - AI chat assistant for coding and general questions.
 - [Hotpot.ai](https://hotpot.ai/) - AI image editor, generator, and writing tools.
 - [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill.
+- [Image to Layer](https://image2layers.org/) - AI splits a flat JPG, PNG or WebP into editable transparent layers with the hidden background filled in and exports a layered PSD; the single-layer PSD converter is free and runs in the browser.
 - [Image Translate AI](https://imagetranslateai.org/) - Translate text in images across 200+ languages while preserving layout.
+- [LogNorm](https://lognorm.com) - Crawls a website, ranks SEO and AI-visibility issues, and hands the fixes to AI agents (Claude Code, Codex, Cursor) over MCP.
 - [powerfulwebsites.online](https://powerfulwebsites.online/) - A curated directory of highly useful, viral, and hidden tools across the internet with Quiz and AI-assistant.
 - [Rix](https://hashnode.com/rix) - AI chatbot for debugging programming issues (beta).
 - [Seona AI](https://seona.usestyle.ai/new) - AI-powered SEO assistant with weekly optimization suggestions.
@@ -314,3 +338,4 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ---
 
 The list will grow over time! Have fun using it! ❤️✌️
+
