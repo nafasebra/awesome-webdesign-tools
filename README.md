@@ -129,6 +129,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [UI Store Design](https://www.uistore.design/) - 650+ free handpicked UI kits for real projects.
 - [UI8](https://ui8.net/) - Curated design resources to speed up creative workflows.
 - [UIZZE](https://uizze.com/) - Public catalog of real web and iOS product UI references; full access adds hosted MCP workflows for coding-agent design contracts, validation, audits, and critiques.
+- [Webapps Directory](https://webapps.directory) - Curated directory of web apps that run in the browser, including design tools, dev tools, editors and converters.
 - [XD Guru](https://www.xdguru.com/) - Adobe XD resources, UI kits, and templates.
 
 ## Shape makers
