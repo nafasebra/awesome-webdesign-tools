@@ -193,8 +193,8 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Whirl](https://whirl.netlify.app/) - Collection of CSS loading animations.
 
 ## Utils
-- [Free Image Merger](https://freeimagemerger.com/) - Merge 2–20 images side by side, in a grid, or freestyle. 100% free, runs in the browser, no uploads.
 
+- [Free Image Merger](https://freeimagemerger.com/) - Merge 2–20 images side by side, in a grid, or freestyle. 100% free, runs in the browser, no uploads.
 - [A Box of Tools](https://abox.tools/) - 35 single-purpose file tools for images, video, audio, PDFs and text that run entirely in the browser, with nothing uploaded.
 - [All Tools Verse](https://alltoolsverse.com/) - 1,000+ free browser-based utilities for developers and designers, including code, data, text, image, document, and conversion tools. No signup required.
 - [Am I Responsive](https://ui.dev/amiresponsive) - Preview responsive design across four viewport sizes at once.
@@ -237,6 +237,9 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
 - [Nutilz](https://nutilz.com) - Free browser-based calculators, text, image, and developer tools — no signup required.
 - [Olivez Hash Generator & Checksum Checker](https://olivez.in/tool/hash-generator-checker) - Generate SHA-256, SHA-384, or SHA-512 for text and files, then verify raw digests, GNU or BSD checksum lines, and checksum lists locally.
+- [Olutil](https://olutil.com/) - 500+ free browser-based utilities across 23 categories (developer, image, PDF, finance, home, travel and more). No sign-up; everything runs locally.
+- [Olutil Dev Tools](https://dev.olutil.com/) - Free browser-based developer utilities: JSON, JWT, regex, diff, hashes, cron, QR. 100% client-side.
+- [Olutil Image Tools](https://image.olutil.com/) - Resize, compress, convert (HEIC/SVG/BMP/GIF), crop and remove backgrounds in the browser. No uploads.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [pic2svg](https://pic2svg.com/) - Convert PNG/JPG images to editable SVG vectors with a side-by-side trace preview (vtracer engine); trace and preview are free, file downloads are part of the Pro tier.
