@@ -68,8 +68,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Peeps Avatar Builder](https://peeps.ui8.net/) - Build custom 3D-style avatar illustrations by UI8.
 - [Sapiens Character Builder](https://sapiens.ui8.net/9f4c6r2) - Character builder for illustrations by UI8.
 - [SVGicons.com](https://svgicons.com/) - Search and browse open-source SVG icons across many icon sets, preview icons, compare styles, and copy clean SVG code.
-
-## Colors
+- [QantaraTools](https://www.qantaratools.com) - Fast, privacy-first client-side web utilities.
 
 - [antvibe Colors](https://antvibe.dev/en/web-dev/colors) - Browse and copy CSS color codes in HEX, RGB, HSL, and OKLCH filtered by hue, saturation, brightness, and mood.
 - [Bada55](http://bada55.io/) - Find memorable hex color words for your CSS code.
