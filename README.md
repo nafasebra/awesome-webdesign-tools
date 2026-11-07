@@ -260,6 +260,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [SVG to JSX](https://svg2jsx.com/) - Convert SVG markup to JSX for React apps.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts with line-by-line diff highlighting.
 - [TextFaker](https://textfaker.com/) - Create realistic text message screenshots and browser-based content-prep assets for demos and mockups.
+- [They Sent It](https://theysentit.com/) - Free archive of real marketing emails from 60,000+ brands, searchable by brand and email platform.
 - [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF generator. Create typing animations and export as GIFs without signup. Perfect for GitHub READMEs, Discord status, and portfolio hero sections.
 - [TinyPNG](https://tinypng.com/) - Popular tool for compressing PNG and JPEG images.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Domain generator, OG image maker, favicon generator, and other browser-based utilities.
