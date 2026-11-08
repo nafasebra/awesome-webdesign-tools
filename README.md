@@ -244,6 +244,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [pic2svg](https://pic2svg.com/) - Convert PNG/JPG images to editable SVG vectors with a side-by-side trace preview (vtracer engine); trace and preview are free, file downloads are part of the Pro tier.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
+- [PixLasso](https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb) - Chrome extension that saves every image on a page at full size into one ZIP, with optional JPG, PNG or WebP conversion in the browser; free up to 30 files per batch.
 - [ProtoPeek](https://protopeek.shreyam1008.com.np/) - Local Go workbench with a browser interface for inspecting HTTP and gRPC services.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a formatted README.md by filling in project details.
