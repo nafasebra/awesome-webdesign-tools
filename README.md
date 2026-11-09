@@ -84,6 +84,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Contrast Checker](https://optimize-overseas.github.io/autonomousbot/tools/contrast-checker.html) - Check WCAG color contrast ratios for accessibility compliance.
 - [CSS Gradient](https://cssgradient.io/) - Create colorful gradient backgrounds for websites, blogs, and social profiles.
 - [CSS Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Create CSS gradients with a visual editor and copy code instantly.
+- [cv.cm Gradient Generator](https://cv.cm/en/gradient/) - Linear, radial and conic CSS gradients with up to six color stops and presets; copy the CSS or save the gradient as a PNG wallpaper.
 - [Easing Gradient](https://larsenwork.com/easing-gradients) - Supercharge gradients with non-linear color mix and custom color spaces.
 - [FastTool Design](https://fasttool.app/category/design) - Color picker, palette generator, CSS gradient builder, contrast checker, and format converters.
 - [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready to copy and paste.
