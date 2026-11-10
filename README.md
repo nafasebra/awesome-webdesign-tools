@@ -249,6 +249,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Olutil Dev Tools](https://dev.olutil.com/) - Free browser-based developer utilities: JSON, JWT, regex, diff, hashes, cron, QR. 100% client-side.
 - [Olutil Image Tools](https://image.olutil.com/) - Resize, compress, convert (HEIC/SVG/BMP/GIF), crop and remove backgrounds in the browser. No uploads.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
+- [Particle Logo](https://particlelogo.com) - Turn a logo into a particle animation in the browser, then export video, GIF, or dependency-free HTML, Vue and React code.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [pic2svg](https://pic2svg.com/) - Convert PNG/JPG images to editable SVG vectors with a side-by-side trace preview (vtracer engine); trace and preview are free, file downloads are part of the Pro tier.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
