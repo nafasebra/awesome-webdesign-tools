@@ -263,6 +263,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF generator. Create typing animations and export as GIFs without signup. Perfect for GitHub READMEs, Discord status, and portfolio hero sections.
 - [TinyPNG](https://tinypng.com/) - Popular tool for compressing PNG and JPEG images.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Domain generator, OG image maker, favicon generator, and other browser-based utilities.
+- [Tool Kumar](https://tools.vikasmaur.com/) - Free browser-based JSON viewer, formatter, validator, repair and comparison tool with tree and table views.
 - [ToolArks](https://toolarks.com) - Privacy-first toolbox with image compression and JSON formatting — 100% local.
 - [ToolBox](https://www.toolbox-kit.com) - 170+ client-side tools for developers and designers.
 - [ToolCraft SVG to PNG](https://toolcraftbox.com/en/tools/svg-to-png) - Convert SVG vector graphics to PNG in the browser, with no upload or signup.
