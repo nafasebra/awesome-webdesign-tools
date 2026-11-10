@@ -263,6 +263,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions with match highlighting.
 - [Remove Audio](https://remove-audio.com) - Strip audio from video files locally via WebAssembly — no uploads.
 - [Responsive Tool](https://responsivetool.com) - Preview a pasted URL across multiple real device viewport sizes at once — swap any pane's device instantly, test custom widths, and check behavior right at a CSS breakpoint boundary. No signup, no install.
+- [SFXMint](https://sfxmint.com/) - CC0 UI and interaction sound effects (clicks, toggles, notifications) with hotlinkable, CORS-enabled audio URLs; AI-generated or synthesized.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs.
 - [SnappyKit](https://snappykit.site) - 40+ free browser-based image tools: compression (JPG/PNG/WebP/AVIF), 40+ conversion pairs incl. HEIC, resize, crop, filters, EXIF cleanup, batch ZIP. 100% client-side, no signup.
 - [Strong Password Generator](https://www.strong-password.com/) - Generate passwords, passphrases, PINs, and Wi-Fi QR codes client-side, with an embeddable widget.
