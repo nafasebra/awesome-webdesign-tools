@@ -347,6 +347,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Remorphy](https://remorphy.com/) - AI image-to-image and photo editing tool for transforming and remorphing pictures.
 - [Rix](https://hashnode.com/rix) - AI chatbot for debugging programming issues (beta).
 - [Seona AI](https://seona.usestyle.ai/new) - AI-powered SEO assistant with weekly optimization suggestions.
+- [Super Resolution](https://superresolution.app/) - Online AI image upscaler based on Real-ESRGAN; upscale portraits, anime, and old photos up to 10×; free to try, no signup.
 - [WebCoreLab](https://webcorelab.com) - SEO and Core Web Vitals audit tool with AI-powered GEO/AEO visibility tracking.
 
 ---
