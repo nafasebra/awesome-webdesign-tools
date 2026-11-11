@@ -244,6 +244,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Mydentify JavaScript SEO Render Checker](https://mydentify.com/tools/javascript-seo-render-checker) - Compare a page's initial HTML with its browser-rendered title, description, H1, canonical URL, structured data, links, and core text.
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
 - [Nutilz](https://nutilz.com) - Free browser-based calculators, text, image, and developer tools — no signup required.
+- [Nyxiontech PDF Tools](https://tools.nyxiontech.com/) - 25 free browser-based PDF and image tools for merging, splitting, compressing, signing, OCR and conversion. Everything runs locally, no uploads, no signup.
 - [Olivez Hash Generator & Checksum Checker](https://olivez.in/tool/hash-generator-checker) - Generate SHA-256, SHA-384, or SHA-512 for text and files, then verify raw digests, GNU or BSD checksum lines, and checksum lists locally.
 - [Olutil](https://olutil.com/) - 500+ free browser-based utilities across 23 categories (developer, image, PDF, finance, home, travel and more). No sign-up; everything runs locally.
 - [Olutil Dev Tools](https://dev.olutil.com/) - Free browser-based developer utilities: JSON, JWT, regex, diff, hashes, cron, QR. 100% client-side.
