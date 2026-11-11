@@ -252,6 +252,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [pic2svg](https://pic2svg.com/) - Convert PNG/JPG images to editable SVG vectors with a side-by-side trace preview (vtracer engine); trace and preview are free, file downloads are part of the Pro tier.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
+- [PixelKit](https://pixelkit-studio.pages.dev/) - Compress images to a target size, resize to platform presets, convert HEIC, crop, watermark, view EXIF data and generate favicons, processed locally in the browser.
 - [PicReviver](https://picreviver.com) - Restore and colorize old or damaged photos, no account needed.
 - [ProtoPeek](https://protopeek.shreyam1008.com.np/) - Local Go workbench with a browser interface for inspecting HTTP and gRPC services.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
