@@ -253,6 +253,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [pic2svg](https://pic2svg.com/) - Convert PNG/JPG images to editable SVG vectors with a side-by-side trace preview (vtracer engine); trace and preview are free, file downloads are part of the Pro tier.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [PicReviver](https://picreviver.com) - Restore and colorize old or damaged photos, no account needed.
+- [PixVibe](https://pixvibe.ai/) - Remove backgrounds, compress to a target size, convert (HEIC, WebP, AVIF), resize, crop and upscale images in the browser.
 - [ProtoPeek](https://protopeek.shreyam1008.com.np/) - Local Go workbench with a browser interface for inspecting HTTP and gRPC services.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a formatted README.md by filling in project details.
