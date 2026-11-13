@@ -251,6 +251,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
 - [pic2svg](https://pic2svg.com/) - Convert PNG/JPG images to editable SVG vectors with a side-by-side trace preview (vtracer engine); trace and preview are free, file downloads are part of the Pro tier.
+- [PixelArtHive Pixel Art Upscaler](https://pixelarthive.com/pixel-art-upscaler) - Enlarge pixel-art sprites or icons with nearest-neighbor scaling in the browser, without an account or image upload.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [PicReviver](https://picreviver.com) - Restore and colorize old or damaged photos, no account needed.
 - [ProtoPeek](https://protopeek.shreyam1008.com.np/) - Local Go workbench with a browser interface for inspecting HTTP and gRPC services.
