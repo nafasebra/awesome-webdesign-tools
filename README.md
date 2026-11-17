@@ -183,6 +183,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ## Layouts
 
 - [Box Sizing Generator](https://codepen.io/carolineartz/full/ogVXZj) - Visualize the box model and how `box-sizing` affects element size.
+- [CSS Flexbox Generator](https://belun.app/dev/css-flexbox-generator/) - Set direction, justify-content, align-items, wrap and gap visually, preview it live and copy the container CSS.
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - Visual CSS grid layout generator.
 - [Flexbox Froggy](https://flexboxfroggy.com/) - Game for learning CSS flexbox.
 - [Flexplorer](https://bennettfeely.com/flexplorer/) - Interactive explorer for the CSS Flexible Box model.
