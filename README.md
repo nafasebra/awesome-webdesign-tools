@@ -211,6 +211,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
 - [BGNinja](https://bgninja.com) - Remove a photo background or erase objects with a brush and download a transparent PNG at full resolution.
 - [BidiLens](https://github.com/CodeinScrubs/BidiLens) - Tools and integration guides for rendering mixed RTL/LTR text in web interfaces.
+- [Birta HTML Viewer](https://birta.dev/tools/html-viewer) - Open an .html file or paste HTML and see the page at desktop or phone width in your browser; nothing is uploaded and no account is needed.
 - [BulkPicTools](https://bulkpictools.com/) - Bulk image processor for compress, convert, resize, and crop — no upload required.
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in email clients.
 - [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
