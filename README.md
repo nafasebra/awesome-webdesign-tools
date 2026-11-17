@@ -286,6 +286,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate random UUID v4 values, including bulk generation.
 - [VideoBGNinja](https://videobgninja.com) - Remove or replace a video background without a green screen, no watermark on the export.
 - [Webcode Tools](https://webcode.tools/) - Generate common website sections and components.
+- [WebToolNest Developer Tools](https://www.webtoolnest.com/developer-tools) - JSON formatter, regex tester, CSS gradient and box-shadow generators, minifier and color palette tools that run in the browser with no sign-up.
 - [WhatRuns](https://www.whatruns.com/) - Discover technologies used on any website.
 - [Zapsplat](https://www.zapsplat.com/) - 150,000+ free sound effects for creative projects.
 
