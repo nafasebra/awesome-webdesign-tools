@@ -48,6 +48,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [ICONSVG](https://iconsvg.xyz/) - Find, customize, and generate common SVG icons for your project.
 - [Ikonate](https://ikonate.com/) - Customize, adjust, and download free vector icons.
 - [Modern Favicon Generator](https://favicon.kumardeepak.com/) - Modern favicon generator built around an intuitive interface.
+- [Nimble Toolbox Favicon Generator](https://nimbletoolbox.com/generators/favicon-generator) - Turns a logo, a letter, or an emoji into favicon.ico, the PNG sizes phones ask for, and a web manifest, with the HTML tags to paste. Runs in the browser with no upload.
 - [Noun Project](https://thenounproject.com/) - Diverse collection of 5M+ free icons and stock photos in SVG and PNG.
 - [PNG Tree](https://pngtree.com/) - Millions of free PNG images, backgrounds, vectors, PSD, AI, and EPS files.
 - [pngtoicotool](https://pngtoicotool.com/) - Convert PNG, JPG, GIF, or WEBP images into a multi-size ICO file locally in your browser.
