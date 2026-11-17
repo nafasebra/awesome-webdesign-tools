@@ -100,6 +100,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Palette Generator](https://dailytoolkit.app/tools/color-palette-generator) - Generate coordinated color palettes from a base color.
 - [Palettte App](https://palettte.app/) - Palette editing and remapping tool.
 - [Parametric Color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - Color palette composer inspired by audio parametric equalizers.
+- [RYUSLOG Color Tool](https://www.ryuslog.com/tools/color) - Convert between HEX, RGB, HSL and OKLCH, then check WCAG 2.1 contrast ratios and copy Tailwind colour values.
 - [Shape Divider](https://www.shapedivider.app/) - Custom SVG shape dividers for section transitions.
 - [Tailwind CSS Color Explorer](https://devtools.davrapps.dev/en/tailwind-colors) - Browse the Tailwind CSS v4 palette with live component previews.
 - [Visualise OKLCH](https://visualise-oklch.shreyam1008.com.np/) - Inline OKLCH color previews and native color-picker editing for VS Code and compatible editors.
