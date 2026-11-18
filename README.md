@@ -247,6 +247,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder text in custom lengths for mockups and layouts.
 - [Mydentify JavaScript SEO Render Checker](https://mydentify.com/tools/javascript-seo-render-checker) - Compare a page's initial HTML with its browser-rendered title, description, H1, canonical URL, structured data, links, and core text.
 - [NexTool](https://nextool.app/free-tools/) - 228+ client-side developer tools including CSS generators, color tools, and formatters.
+- [Nimble Toolbox SVG Optimiser](https://nimbletoolbox.com/image/svg-optimizer) - Shrinks an SVG with SVGO and draws the original and the result side by side so you can check nothing changed. Runs in the browser with no upload.
 - [Nutilz](https://nutilz.com) - Free browser-based calculators, text, image, and developer tools — no signup required.
 - [Olivez Hash Generator & Checksum Checker](https://olivez.in/tool/hash-generator-checker) - Generate SHA-256, SHA-384, or SHA-512 for text and files, then verify raw digests, GNU or BSD checksum lines, and checksum lists locally.
 - [Olutil](https://olutil.com/) - 500+ free browser-based utilities across 23 categories (developer, image, PDF, finance, home, travel and more). No sign-up; everything runs locally.
