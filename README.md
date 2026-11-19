@@ -355,6 +355,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Remorphy](https://remorphy.com/) - AI image-to-image and photo editing tool for transforming and remorphing pictures.
 - [Rix](https://hashnode.com/rix) - AI chatbot for debugging programming issues (beta).
 - [Seona AI](https://seona.usestyle.ai/new) - AI-powered SEO assistant with weekly optimization suggestions.
+- [Wavegrain](https://wavegrain.com) - AI design tool that turns your brand and photos into TikTok slideshows and Instagram carousels you can edit slide by slide.
 - [WebCoreLab](https://webcorelab.com) - SEO and Core Web Vitals audit tool with AI-powered GEO/AEO visibility tracking.
 
 ---
