@@ -230,6 +230,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [FreeKitHub](https://freekithub.com) - Free browser-based image and PDF utilities to compress images under a target KB size, convert HEIC to JPG, and merge, split, or compress PDFs locally so files never leave your device.
 - [FreeToolHub](https://freetoolhub.org) - 190+ free browser-based tools for developers and designers, including image compression, PDF utilities, color tools, and calculators. Everything runs client-side with no uploads or signup.
 - [Gitignore Generator](https://www.toptal.com/developers/gitignore) - Generate `.gitignore` files for any project type.
+- [HarnessTrail](https://harnesstrail.com/) - Free browser-based tools for converting, compressing, resizing, and editing images, videos, and documents locally without uploading files.
 - [Haikei](https://app.haikei.app/) - Generate unique SVG design assets.
 - [Hash Generator](https://optimize-overseas.github.io/autonomousbot/tools/hash-generator.html) - Generate MD5, SHA-1, SHA-256, and SHA-512 hashes client-side.
 - [Hidden Tools](https://hiddentools-eight.vercel.app/) - Curated collection of unique online tools.
