@@ -153,6 +153,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Hero Patterns](https://heropatterns.com/) - Repeatable SVG background patterns for digital projects.
 - [Keyframes.app](https://keyframes.app/animate) - Browser-based tools for creating CSS keyframe animations.
 - [Magic Patterns](https://www.magicpattern.design/tools/css-backgrounds) - Pure CSS background patterns ready for production use.
+- [Neatbo SVG Pattern Generator](https://neatbo.com/color/svg-pattern-generator) - Generate dot, grid, and diagonal SVG tiles with a repeating preview and CSS background example.
 - [Neumorphism Generator](https://neumorphism.io/#e0e0e0) - CSS generator for neumorphic colors, gradients, and shadows.
 - [OpenLayers Map Example](https://openlayers.org/en/latest/examples/accessible.html) - Accessible map example useful for placeholder map images.
 - [Quantity Queries](https://quantityqueries.com/) - Tool for building CSS quantity queries.
