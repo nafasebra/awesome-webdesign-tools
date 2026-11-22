@@ -215,6 +215,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in email clients.
 - [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
 - [Cleanmock](https://cleanmock.com/) - Create beautiful website and design mockups.
+- [ClearPDF Merge PDF](https://www.openclawhirehuman.com/tools/merge-pdf) - Reorder and combine PDF files in the browser for documentation or client handoff.
 - [Compare Two Lists](https://comparetwolists.net/) - Compare pasted lists or TXT, CSV, and XLSX columns to find shared, missing, and duplicate values, with local browser processing and downloadable results; free without signup.
 - [Compify](https://compify.app/) - Open-source React component workflow.
 - [ConvertNinja](https://convert.shinobitools.com) - Convert images, video and e-books in the browser at full size, no account needed.
