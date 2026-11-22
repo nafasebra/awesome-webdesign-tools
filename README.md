@@ -254,7 +254,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Olutil Image Tools](https://image.olutil.com/) - Resize, compress, convert (HEIC/SVG/BMP/GIF), crop and remove backgrounds in the browser. No uploads.
 - [OneLang](https://ide.onelang.io/) - Convert code between programming languages.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, random passwords with customizable length and character sets.
-- [pdfmoo](https://pdfmoo.com/) - 37 PDF tools (merge, compress, split, PDF to Word, sign, redact, OCR) that run locally in the browser, with nothing uploaded.
+- [pdfmoo](https://pdfmoo.com/) - 37 free PDF tools (merge, compress to an exact size, split, PDF to Word, sign, redact, OCR) that run locally in the browser: nothing uploaded, no limits, no watermarks, no sign-up.
 - [pic2svg](https://pic2svg.com/) - Convert PNG/JPG images to editable SVG vectors with a side-by-side trace preview (vtracer engine); trace and preview are free, file downloads are part of the Pro tier.
 - [Pic2Vector](https://pic2vector.com/) - Convert PNG/JPG/WebP images to color-layered SVG in the browser (vtracer compiled to WebAssembly); images are not uploaded and the SVG download is free with no watermark.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
