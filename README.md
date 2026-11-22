@@ -238,7 +238,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Image to ASCII](https://imagetoascii.art/) - Turn images into ASCII art in the browser; adjust character style and width, then copy text or export TXT, PNG, SVG, HTML, or ANSI without uploading the image.
 - [ImageSplit](https://www.imagesplit.online/) - Split images into grids, custom cuts and carousel slides in the browser, then download individual pieces or a ZIP without uploading image files.
 - [ImgTools](https://imgtools.davrapps.dev) - Compress, resize, crop, convert, watermark, and remove backgrounds from images.
-- [infiniqr](https://infiniqr.com/) - QR code generator with logo, colours and frames; static codes never expire and export as PNG, SVG or PDF without watermark.
+- [infiniqr](https://infiniqr.com/) - Free QR code generator with logo, colours and frames: static codes never expire and export as PNG, SVG or PDF without watermark, plus free editable (dynamic) QR codes with scan tracking (day, country, device) and no scan limit.
 - [JSON Crack](https://jsoncrack.com/editor) - Visualize and explore JSON data.
 - [JSON Formatter](https://dailytoolkit.app/tools/json-formatter) - Format, validate, and beautify JSON with syntax highlighting.
 - [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect JSON Web Tokens directly in the browser.
