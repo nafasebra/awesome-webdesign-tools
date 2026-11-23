@@ -208,6 +208,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [App Doodler](https://doodler.copymyui.com/) - Create multilingual App Store screenshots from reusable layouts and translation files.
 - [Base64 Encoder/Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode Base64 strings client-side.
 - [Base64 Image](https://www.base64-image.de/) - Convert images to Base64 for use in HTML and CSS.
+- [BatchSet](https://batchset.com/tools/bulk-image-converter) - Convert, resize and compress a whole folder of images in the browser, with no upload.
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
 - [BGNinja](https://bgninja.com) - Remove a photo background or erase objects with a brush and download a transparent PNG at full resolution.
 - [BidiLens](https://github.com/CodeinScrubs/BidiLens) - Tools and integration guides for rendering mixed RTL/LTR text in web interfaces.
