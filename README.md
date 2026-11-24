@@ -107,6 +107,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 ## Designs
 
+- [A1 Gallery](https://www.a1.gallery/) - Hand-picked gallery of real, live websites, with section and full-page screenshots and the fonts, colours and spacing each site uses.
 - [Behance](https://www.behance.net/) - Showcase and discover creative work from designers worldwide.
 - [Checklist Design](https://www.checklist.design/) - Collection of checklists for common UI/UX design patterns.
 - [Codrops](https://tympanus.net/codrops/) - Destination for web design and development inspiration and tutorials.
