@@ -101,6 +101,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Palettte App](https://palettte.app/) - Palette editing and remapping tool.
 - [Parametric Color](https://colormixer.web.app/02332971ff623007ff9bc9505a440301ffff7c5f55610300/Sunset) - Color palette composer inspired by audio parametric equalizers.
 - [Shape Divider](https://www.shapedivider.app/) - Custom SVG shape dividers for section transitions.
+- [Sunasty Color Picker](https://sunasty.com/color-picker/) - Client-side color picker, OKLCH/HSL/HEX converter, palette extractor, and WCAG 2.1 AA/AAA contrast checker with zero uploads.
 - [Tailwind CSS Color Explorer](https://devtools.davrapps.dev/en/tailwind-colors) - Browse the Tailwind CSS v4 palette with live component previews.
 - [Visualise OKLCH](https://visualise-oklch.shreyam1008.com.np/) - Inline OKLCH color previews and native color-picker editing for VS Code and compatible editors.
 - [WebGradients](https://webgradients.com/) - Free collection of 180 linear gradients for website backgrounds.
