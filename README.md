@@ -271,6 +271,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [SFXMint](https://sfxmint.com/) - CC0 UI and interaction sound effects (clicks, toggles, notifications) with hotlinkable, CORS-enabled audio URLs; AI-generated or synthesized.
 - [Slug Generator](https://optimize-overseas.github.io/autonomousbot/tools/slug-generator.html) - Convert text to SEO-friendly URL slugs.
 - [SnappyKit](https://snappykit.site) - 40+ free browser-based image tools: compression (JPG/PNG/WebP/AVIF), 40+ conversion pairs incl. HEIC, resize, crop, filters, EXIF cleanup, batch ZIP. 100% client-side, no signup.
+- [SnapShrink](https://getsnapshrink.com/) - Free batch image compressor and converter that runs entirely in the browser — compress toward a target file size, convert formats, no uploads, no signup.
 - [Strong Password Generator](https://www.strong-password.com/) - Generate passwords, passphrases, PINs, and Wi-Fi QR codes client-side, with an embeddable widget.
 - [SVG to JSX](https://svg2jsx.com/) - Convert SVG markup to JSX for React apps.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts with line-by-line diff highlighting.
