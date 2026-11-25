@@ -258,6 +258,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Pic2Vector](https://pic2vector.com/) - Convert PNG/JPG/WebP images to color-layered SVG in the browser (vtracer compiled to WebAssembly); images are not uploaded and the SVG download is free with no watermark.
 - [Pixelate Image](https://www.pixelateimage.co/) - Pixelate images instantly in the browser.
 - [PicReviver](https://picreviver.com) - Restore and colorize old or damaged photos, no account needed.
+- [PixVibe](https://pixvibe.ai/) - Remove backgrounds, compress to a target size, convert (HEIC, WebP, AVIF), resize, crop and upscale images in the browser.
 - [ProtoPeek](https://protopeek.shreyam1008.com.np/) - Local Go workbench with a browser interface for inspecting HTTP and gRPC services.
 - [PWA Manifest Generator](https://www.simicart.com/manifest-generator.html/) - Generate a web app manifest with optimized icons.
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a formatted README.md by filling in project details.
