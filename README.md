@@ -125,6 +125,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Free Frontend](https://freefrontend.com/) - Hand-picked code examples, tutorials, and articles.
 - [Godly](https://godly.website/) - Curated gallery of the best web design inspiration.
 - [PageGuard](https://pageguard.org) - Free website health scanner for SEO, performance, accessibility, and best practices.
+- [Refto Explore](https://refto.one/explore) - Free, hand-curated gallery of real websites with full-page screenshots and version history, page sections and a DESIGN.md file for each site.
 - [Sketch App Sources](https://www.sketchappsources.com/) - Thousands of UI/UX resources from designers worldwide.
 - [Sketch Repo](https://sketchrepo.com/) - Free Sketch templates, icons, mockups, and UI kits.
 - [Tailwind UI Kit](https://www.tailwind-kit.com/) - 250 components and templates for React, Vue, and Angular.
