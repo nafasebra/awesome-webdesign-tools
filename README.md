@@ -94,6 +94,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Grabient](https://www.grabient.com/) - Beautiful and simple UI for generating web gradients.
 - [Gradient Forge](https://ryudi84.github.io/sovereign-tools/tools/gradient_forge/) - Create CSS gradients with a visual editor and code output.
 - [Gradient Magic](https://www.gradientmagic.com/) - Gallery of unique CSS gradients.
+- [Image Color Picker AI](https://imagecolorpickerai.com/hex-code-from-image) - Upload an image, click a pixel, and copy its HEX, RGB, HSL, CMYK, or OKLCH value; processing stays in the browser.
 - [InclusiveColors](https://www.inclusivecolors.com/) - Accessible Tailwind-style UI palette creator with WCAG/APCA contrast checks and CSS/Figma export.
 - [OKLCH Converter](https://goaichat.app/tools/oklch) - Convert between OKLCH, hex, RGB, and HSL, and build perceptually even palettes with chroma-reducing gamut mapping instead of clipped colors.
 - [Paletton](https://paletton.com/) - Color wheel tool for creating harmonious color combinations (formerly Color Scheme Designer).
