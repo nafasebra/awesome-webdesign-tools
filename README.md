@@ -357,6 +357,8 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Seona AI](https://seona.usestyle.ai/new) - AI-powered SEO assistant with weekly optimization suggestions.
 - [WebCoreLab](https://webcorelab.com) - SEO and Core Web Vitals audit tool with AI-powered GEO/AEO visibility tracking.
 
+- [No Stairs Please](https://nostairsplease.com/) - Live music venue directory covering small stages in all 50 US states and who books them, with an MCP server at https://nostairsplease.com/mcp.
+
 ---
 
 The list will grow over time! Have fun using it! ❤️✌️
