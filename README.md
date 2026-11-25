@@ -39,6 +39,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS.
 - [Heroicons (dev version)](https://heroicons.dev/) - MIT open source interface icons for web and app development.
 - [ICO File Inspector](https://github.com/huangluxi2026/ico-file-inspector) - Inspect ICO entries, payload ranges, and PNG/DIB dimensions with a dependency-free CLI.
+- [ICOForge](https://icoforge.com/ico-to-png) - Decode and extract frames from .ico files in the browser.
 - [Iconer](https://iconer.app/) - Curated collection of icons from multiple libraries.
 - [Iconfinder](https://www.iconfinder.com) - Marketplace for icons, illustrations, and 3D assets in SVG, AI, and PNG format.
 - [Iconmonstr](https://iconmonstr.com/) - Free simple icons for your next project.
