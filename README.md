@@ -127,6 +127,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [PageGuard](https://pageguard.org) - Free website health scanner for SEO, performance, accessibility, and best practices.
 - [Sketch App Sources](https://www.sketchappsources.com/) - Thousands of UI/UX resources from designers worldwide.
 - [Sketch Repo](https://sketchrepo.com/) - Free Sketch templates, icons, mockups, and UI kits.
+- [StagePeek](https://stagepeek.live) - Interactive 2D seating charts and 3D concert venue sightlines across 201 global arenas.
 - [Tailwind UI Kit](https://www.tailwind-kit.com/) - 250 components and templates for React, Vue, and Angular.
 - [Toools Design](https://www.toools.design/) - Curated design resources and tools.
 - [UI Faces](https://uifaces.co/) - Sample profile avatars for mockups and prototypes.
