@@ -211,7 +211,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [BeginThings](https://beginthings.com) - 96+ free browser-based tools for freelancers including invoicing, time tracking, and QR codes.
 - [BGNinja](https://bgninja.com) - Remove a photo background or erase objects with a brush and download a transparent PNG at full resolution.
 - [BidiLens](https://github.com/CodeinScrubs/BidiLens) - Tools and integration guides for rendering mixed RTL/LTR text in web interfaces.
-- [BrandShield](https://brand-checker.appwrite.network) - Check instant domain availability across 78+ TLDs, live DNS/RDAP records, and USPTO trademark conflicts in the browser with no signup.
+- [BrandShield](https://brand.shipbastion.com) - Check instant domain availability across 78+ TLDs, live DNS/RDAP records, and USPTO trademark conflicts in the browser with no signup.
 - [BulkPicTools](https://bulkpictools.com/) - Bulk image processor for compress, convert, resize, and crop — no upload required.
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in email clients.
 - [Can I Use](https://caniuse.com/) - Up-to-date browser support tables for front-end web technologies.
