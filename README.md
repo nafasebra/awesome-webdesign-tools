@@ -134,6 +134,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [UI8](https://ui8.net/) - Curated design resources to speed up creative workflows.
 - [UIZZE](https://uizze.com/) - Public catalog of real web and iOS product UI references; full access adds hosted MCP workflows for coding-agent design contracts, validation, audits, and critiques.
 - [XD Guru](https://www.xdguru.com/) - Adobe XD resources, UI kits, and templates.
+- [CreoArt Photo & PSD Editor](https://creoart.app/photo-editor) - Free, ad-free browser-local WebGPU PSD & layer editor paired with a pay-as-you-go AI product photography and image studio.
 
 ## Shape makers
 
