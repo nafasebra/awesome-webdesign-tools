@@ -225,6 +225,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [CurlShot](https://curlshot.com) - Capture full-page or device-sized screenshots of any website as PNG, JPEG, WebP or PDF, in the browser without an account or through an API.
 - [Cut My Image](https://cutmyimage.com/) - Split any image into rows, columns or a grid in the browser, then download the pieces one by one or as a ZIP.
 - [DevTools](https://devtools.davrapps.dev) - 16 free browser-based tools: JSON formatter, JWT decoder, regex tester, cron builder, and more.
+- [dojotool](https://dojotool.com/image) - Free browser-based image tools to compress, resize, crop and convert images (JPG, PNG, WebP, HEIC), remove backgrounds and upscale, with files processed on the device and no account.
 - [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) - Check if a website is down globally or only for you.
 - [EncodingBase64](https://encodingbase64.com/) - Base64 encoding and decoding for text, files, images, and URL-safe formats.
 - [FreeKitHub](https://freekithub.com) - Free browser-based image and PDF utilities to compress images under a target KB size, convert HEIC to JPG, and merge, split, or compress PDFs locally so files never leave your device.
