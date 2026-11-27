@@ -346,6 +346,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [AISO Tools Audit](https://aisotools.com/audit) - Check whether ChatGPT recommends your tool in its category by running five buying-intent prompts and scoring the mentions.
 - [DeepSeek Chat](https://chat.deepseek.com/) - AI chat assistant for coding and general questions.
 - [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - Free, source-available interface design tool built in Rust, with a local MCP server that lets AI agents inspect and edit the open file.
+- [EnhancePhoto](https://enhancephoto.org/image-enhancer) - Browser-based AI photo enhancer, old photo restoration, B&W colorizer, and 4K upscaler with free daily credits.
 - [Hotpot.ai](https://hotpot.ai/) - AI image editor, generator, and writing tools.
 - [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill.
 - [Image to Layer](https://image2layers.org/) - AI splits a flat JPG, PNG or WebP into editable transparent layers with the hidden background filled in and exports a layered PSD; the single-layer PSD converter is free and runs in the browser.
