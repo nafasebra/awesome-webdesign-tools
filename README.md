@@ -273,6 +273,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [SnappyKit](https://snappykit.site) - 40+ free browser-based image tools: compression (JPG/PNG/WebP/AVIF), 40+ conversion pairs incl. HEIC, resize, crop, filters, EXIF cleanup, batch ZIP. 100% client-side, no signup.
 - [Strong Password Generator](https://www.strong-password.com/) - Generate passwords, passphrases, PINs, and Wi-Fi QR codes client-side, with an embeddable widget.
 - [SVG to JSX](https://svg2jsx.com/) - Convert SVG markup to JSX for React apps.
+- [Template QA](https://qa.shashankthigale.com/) - Checks a published Framer site at eight screen widths and lists layout, accessibility and SEO problems with screenshots and fixes.
 - [Text Diff Tool](https://optimize-overseas.github.io/autonomousbot/tools/text-diff.html) - Compare two texts with line-by-line diff highlighting.
 - [TextFaker](https://textfaker.com/) - Create realistic text message screenshots and browser-based content-prep assets for demos and mockups.
 - [Typing Words GIF](https://typingwordsgif.com/) - Free online typing text GIF generator. Create typing animations and export as GIFs without signup. Perfect for GitHub READMEs, Discord status, and portfolio hero sections.
