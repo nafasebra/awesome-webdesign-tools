@@ -263,6 +263,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a formatted README.md by filling in project details.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create scannable QR codes from text, URLs, or contact info.
 - [Quick Image Kit](https://quickimagekit.com/) - Compress, resize, convert, crop images, and generate favicon packages in the browser.
+- [Rasterbator Online](https://rasterbator.app/) - Turn any photo into a halftone wall poster or multi-page tiled A4/US Letter PDF in the browser, with no signup.
 - [Really Good Emails](https://reallygoodemails.com/) - Curated email design inspiration for marketers.
 - [Redirect Checker](https://nutilz.com/redirect-checker) - Trace a URL's full redirect chain and see each hop's status code before you click.
 - [Regex Tester](https://optimize-overseas.github.io/autonomousbot/tools/regex-tester.html) - Test and debug regular expressions with match highlighting.
