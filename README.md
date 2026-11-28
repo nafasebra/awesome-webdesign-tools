@@ -87,6 +87,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Contrast Fixer](https://artigram.cafeboon.com/p/vdx8b4n) - Type two colors to get the exact WCAG contrast ratio and the nearest color that passes. I built it.
 - [CSS Gradient](https://cssgradient.io/) - Create colorful gradient backgrounds for websites, blogs, and social profiles.
 - [CSS Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Create CSS gradients with a visual editor and copy code instantly.
+- [CZOA Color Contrast Checker](https://czoa.com/tools/color-contrast-checker) - Check WCAG AA and AAA color contrast ratios for text and backgrounds locally in your browser.
 - [Easing Gradient](https://larsenwork.com/easing-gradients) - Supercharge gradients with non-linear color mix and custom color spaces.
 - [FastTool Design](https://fasttool.app/category/design) - Color picker, palette generator, CSS gradient builder, contrast checker, and format converters.
 - [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready to copy and paste.
