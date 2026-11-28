@@ -124,6 +124,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 - [Free Design Resources](https://freedesignresources.net/) - Daily freebies for creatives.
 - [Free Frontend](https://freefrontend.com/) - Hand-picked code examples, tutorials, and articles.
 - [Godly](https://godly.website/) - Curated gallery of the best web design inspiration.
+- [GridForArt](https://gridforart.com) - Free 100% browser-local grid drawing and physical canvas/wall proportion tool for artists and muralists with zero image uploads.
 - [PageGuard](https://pageguard.org) - Free website health scanner for SEO, performance, accessibility, and best practices.
 - [Sketch App Sources](https://www.sketchappsources.com/) - Thousands of UI/UX resources from designers worldwide.
 - [Sketch Repo](https://sketchrepo.com/) - Free Sketch templates, icons, mockups, and UI kits.
